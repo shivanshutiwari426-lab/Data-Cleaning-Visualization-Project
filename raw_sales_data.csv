@@ -1,0 +1,2041 @@
+OrderID,OrderDate,Region,Category,Product,Quantity,UnitPrice,CustomerAge,PaymentMethod,Rating
+ORD2964,28 Mar 2024,Central,Books,Widget A,11,196.02,21.0,Cash,
+ORD1431,22/08/2024,Central,CLOTHING,Gadget Y,10,127.78,69.0,UPI,3.2
+ORD1707,2024-02-09,WEST,SPORTS,Widget B,10,98.58,44.0,Debit Card,2.0
+ORD1330,16/03/2024,SOUTH,CLOTHING,Gadget X,4,75.02,50.0,Debit Card,2.4
+ORD1339,28/03/2025,North,Home & Kitchen,Gadget X,9,393.52,20.0,Credit Card,2.2
+ORD1921,09-20-2024,south,Toys,Widget A,10,369.59,55.0,Cash,3.6
+ORD2167,23/09/2024,north,CLOTHING,Accessory M,7,211.3,35.0,Debit Card,4.4
+ORD2983,07-04-2024,Central,BOOKS,Accessory M,1,158.4,51.0,Cash,
+ORD2580,2024-12-08,WEST,Electronics,Item N,14,171.67,58.0,Debit Card,2.5
+ORD1375,04/02/2024,West,clothing,Gizmo Z,14,188.65,34.0,Debit Card,1.5
+ORD2446,01-28-2024,,Clothing,Accessory M,4,140.22,27.0,Debit Card,3.3
+ORD2104,19 Feb 2025,SOUTH,Toys,Gadget Y,12,125.93,68.0,Cash,1.7
+ORD2421,05 Jan 2025,Central,Toys,Gadget Y,9,271.87,38.0,Net Banking,3.6
+ORD2443,24/03/2024,  Central  ,TOYS,Item N,7,207.03,60.0,Debit Card,1.5
+ORD1700,30/05/2025,central,Electronics,Device Q,7,101.33,48.0,Credit Card,1.6
+ORD1423,04-18-2024,central,Sports,Widget A,11,,63.0,Net Banking,4.4
+ORD2470,06-13-2024,South,home & kitchen,Gizmo Z,7,173.89,60.0,Cash,2.2
+ORD1127,08/07/2024,West,Electronics,Device Q,7,365.35,39.0,Cash,2.6
+ORD2774,01-26-2025,East,Toys,Widget A,11,170.12,34.0,Debit Card,4.0
+ORD1275,04-13-2024,  East  ,Toys,Widget A,2,142.91,38.0,Net Banking,4.1
+ORD1470,27 Feb 2024,South,Books,Accessory M,6,161.54,,Credit Card,3.0
+ORD1986,27/01/2024,East,Sports,Widget A,14,256.22,68.0,UPI,2.1
+ORD1471,20/04/2025,east,Clothing,Device Q,7,245.0,45.0,Cash,3.8
+ORD1928,05 May 2025,central,Sports,Gizmo Z,7,355.54,68.0,Net Banking,3.1
+ORD2481,2024-01-01,  West  ,Books,Gadget X,1,159.63,66.0,Debit Card,3.0
+ORD2819,29 Apr 2025,,Toys,Accessory M,10,340.13,,UPI,2.1
+ORD2369,24/03/2024,South,toys,Gadget Y,8,93.38,45.0,Net Banking,1.2
+ORD2758,24/07/2024,  North  ,Sports,Widget B,12,104.2,24.0,Debit Card,
+ORD2487,09 Jun 2024,West,CLOTHING,Gadget Y,8,140.87,50.0,UPI,2.5
+ORD1328,22/03/2025,  East  ,Home & Kitchen,Gadget Y,8,157.74,28.0,UPI,4.2
+ORD2832,26 Feb 2025,EAST,Electronics,Accessory M,13,169.44,38.0,UPI,3.7
+ORD1657,01-07-2024,East,SPORTS,Accessory M,12,170.44,63.0,Cash,2.9
+ORD1876,07/12/2024,east,Toys,Device Q,9,166.21,49.0,Net Banking,4.7
+ORD2389,27/10/2024,East,Electronics,Gizmo Z,8,149.7,25.0,Net Banking,4.1
+ORD1110,29 Apr 2025,West,sports,Device Q,7,227.56,47.0,Net Banking,2.2
+ORD1196,06-08-2024,CENTRAL,Toys,Widget B,10,,,Debit Card,4.0
+ORD1367,16/06/2024,South,ELECTRONICS,Item N,12,186.96,36.0,UPI,2.0
+ORD2244,06/02/2024,East,toys,Gadget X,10,267.27,39.0,Debit Card,2.4
+ORD2568,25 Mar 2024,South,TOYS,Item N,5,102.63,29.0,Credit Card,1.1
+ORD2094,07 May 2025,  South  ,ELECTRONICS,Widget A,6,169.6,43.0,Net Banking,3.3
+ORD1340,22/07/2024,WEST,CLOTHING,Device Q,14,177.1,37.0,UPI,1.5
+ORD2132,2025-03-15,  East  ,Books,Gadget X,8,83.83,25.0,Credit Card,2.4
+ORD2950,2024-08-23,East,home & kitchen,Device Q,13,,48.0,Cash,2.2
+ORD1983,01/06/2024,West,  Toys  ,Widget B,4,693.3,51.0,Net Banking,1.3
+ORD2516,12-23-2024,South,Electronics,Device Q,4,175.0,61.0,Cash,3.6
+ORD2072,2025-01-06,WEST,CLOTHING,Gadget X,7,337.39,27.0,Credit Card,4.5
+ORD1860,06-12-2025,East,Electronics,Accessory M,1,132.2,54.0,Credit Card,4.4
+ORD1717,03-16-2025,east,  Books  ,Widget A,13,451.92,57.0,UPI,1.1
+ORD1358,2024-09-14,Central,Toys,Gizmo Z,10,155.22,36.0,Credit Card,3.1
+ORD2724,04-23-2024,Central,Home & Kitchen,Gadget X,11,130.29,,Credit Card,3.2
+ORD1640,17/02/2024,north,ELECTRONICS,Item N,12,135.74,41.0,Cash,1.7
+ORD2970,05-29-2025,north,sports,Widget B,3,140.65,20.0,Credit Card,1.8
+ORD1751,2025-04-03,  North  ,home & kitchen,Gizmo Z,14,142.13,66.0,Cash,
+ORD1725,13 Feb 2025,North,  Books  ,Accessory M,3,247.7,52.0,Net Banking,2.9
+ORD1002,09-27-2024,west,Home & Kitchen,Gizmo Z,11,154.03,68.0,Credit Card,4.5
+ORD1862,2024-06-30,north,  Sports  ,Gadget Y,9,227.36,55.0,Net Banking,2.0
+ORD2692,20 Sep 2024,South,Books,Gadget X,2,223.64,37.0,Cash,3.3
+ORD2947,28/10/2024,west,Electronics,Widget B,10,75.43,24.0,UPI,2.4
+ORD1997,29 Jan 2024,Central,SPORTS,Gadget Y,13,132.0,39.0,UPI,4.7
+ORD2691,25 Apr 2024,West,TOYS,Accessory M,1,111.54,68.0,Cash,
+ORD1259,10-28-2024,Central,Sports,Widget A,1,,65.0,Net Banking,4.5
+ORD2802,24 Nov 2024,East,Sports,Gizmo Z,13,124.39,37.0,Cash,2.0
+ORD1977,07/05/2024,,home & kitchen,Gadget X,7,317.29,18.0,Credit Card,3.8
+ORD2614,2024-11-07,Central,Books,Device Q,13,209.21,60.0,Credit Card,4.5
+ORD1802,08-03-2024,East,Clothing,Accessory M,9,85.44,45.0,Net Banking,2.0
+ORD1933,13 Apr 2025,North,sports,Gadget X,12,138.22,40.0,Cash,5.0
+ORD1623,06-17-2025,CENTRAL,Sports,Accessory M,6,289.14,38.0,Cash,4.0
+ORD1415,04-08-2024,West,Books,Widget B,4,211.2,44.0,Debit Card,4.5
+ORD1108,08-28-2024,West,TOYS,Accessory M,10,222.72,52.0,Debit Card,4.9
+ORD2259,26 Sep 2024,central,Electronics,Item N,2,158.61,28.0,Debit Card,2.2
+ORD1034,2024-05-10,NORTH,toys,Accessory M,9,163.58,62.0,Debit Card,1.0
+ORD1262,2024-04-25,South,Electronics,Gizmo Z,14,224.26,31.0,Net Banking,4.1
+ORD2678,2024-06-08,West,Sports,Widget A,7,247.29,43.0,Credit Card,4.0
+ORD1619,20 Feb 2024,West,Home & Kitchen,Device Q,14,315.77,18.0,UPI,
+ORD2208,18 Jun 2024,north,  Home & Kitchen  ,Gadget Y,13,165.86,68.0,Debit Card,2.1
+ORD1419,2025-04-28,South,Toys,Gizmo Z,10,253.93,22.0,Net Banking,4.0
+ORD1386,2024-10-03,East,sports,Device Q,14,430.02,61.0,UPI,4.2
+ORD2037,22/04/2025,Central,Home & Kitchen,Widget B,6,280.47,22.0,Cash,
+ORD2027,03-01-2024,South,HOME & KITCHEN,Gadget X,2,213.4,50.0,Cash,4.4
+ORD1918,2024-08-26,Central,BOOKS,Gizmo Z,7,389.91,29.0,Debit Card,2.5
+ORD2333,06-27-2025,West,books,Gadget Y,1,194.77,25.0,Debit Card,4.6
+ORD2371,2024-04-20,West,home & kitchen,Accessory M,11,81.08,58.0,Debit Card,3.9
+ORD2495,05 May 2024,NORTH,  Electronics  ,Accessory M,10,146.26,46.0,Credit Card,3.6
+ORD2354,03-30-2024,North,toys,Accessory M,1,143.71,56.0,Credit Card,1.3
+ORD2168,2024-11-18,Central,ELECTRONICS,Widget A,10,309.45,18.0,Debit Card,3.1
+ORD1611,01-08-2025,West,Electronics,Accessory M,1,299.17,24.0,Net Banking,2.3
+ORD1789,2025-02-23,CENTRAL,  Clothing  ,Device Q,1,54.84,28.0,Cash,5.0
+ORD1571,24/09/2024,,books,Gadget X,6,368.2,42.0,Debit Card,2.8
+ORD1204,23/02/2024,west,Toys,Widget B,3,253.67,62.0,Debit Card,3.9
+ORD2050,29/04/2025,Central,Sports,Gizmo Z,8,120.65,34.0,Cash,3.9
+ORD1229,09/01/2025,West,Books,Gadget Y,7,202.24,21.0,Debit Card,2.4
+ORD2973,2025-02-16,NORTH,clothing,Gizmo Z,4,71.0,34.0,UPI,4.7
+ORD2744,11/02/2024,North,home & kitchen,Accessory M,7,197.81,25.0,UPI,3.6
+ORD1185,2024-05-30,West,Toys,Gadget X,11,218.64,27.0,UPI,3.4
+ORD1687,02-03-2024,central,Clothing,Widget A,7,,42.0,Net Banking,3.6
+ORD1955,29 Dec 2024,NORTH,toys,Gadget X,7,106.49,63.0,Credit Card,
+ORD2945,2024-05-28,EAST,  Home & Kitchen  ,Widget A,5,122.89,64.0,Net Banking,
+ORD2461,2024-09-13,South,sports,Gizmo Z,1,295.95,67.0,UPI,4.7
+ORD1705,30/08/2024,west,  Sports  ,Gizmo Z,12,124.42,29.0,Debit Card,1.6
+ORD2739,10 Apr 2024,East,ELECTRONICS,Accessory M,10,141.5,69.0,Net Banking,4.9
+ORD1351,2024-06-28,west,Clothing,Accessory M,11,265.54,51.0,Debit Card,
+ORD1308,15 Dec 2024,East,Books,Gadget X,3,302.72,39.0,UPI,1.5
+ORD2829,02-08-2025,  East  ,Electronics,Widget A,13,168.42,46.0,,3.7
+ORD1832,2025-01-12,,Sports,Item N,5,58.37,40.0,Net Banking,1.9
+ORD1684,15/08/2024,  North  ,Clothing,Gizmo Z,7,236.32,41.0,UPI,3.1
+ORD1237,13 Aug 2024,SOUTH,clothing,Widget A,10,252.2,32.0,Credit Card,3.2
+ORD1879,2024-12-25,South,TOYS,Gadget Y,6,234.21,31.0,Debit Card,2.8
+ORD1978,2024-02-11,west,electronics,Item N,2,376.34,31.0,Cash,3.1
+ORD2165,24/11/2024,Central,electronics,Widget A,7,226.33,42.0,Credit Card,5.0
+ORD2465,11-08-2024,East,books,Device Q,3,123.28,36.0,Net Banking,4.5
+ORD2559,05-22-2024,  West  ,SPORTS,Widget B,12,196.87,39.0,Credit Card,2.6
+ORD1681,04-18-2024,Central,Books,Gadget Y,9,142.58,31.0,Cash,2.9
+ORD1912,12-14-2024,east,Clothing,Gadget Y,11,239.43,26.0,,1.9
+ORD1824,2024-05-20,West,BOOKS,Item N,7,229.67,32.0,Cash,1.5
+ORD1200,26/07/2024,South,Toys,Widget B,8,432.62,,Cash,
+ORD2756,2024-05-09,North,  Electronics  ,Gadget Y,2,210.22,35.0,UPI,2.4
+ORD2499,08 Feb 2024,  West  ,Books,Device Q,1,163.98,54.0,Cash,2.2
+ORD1140,04-16-2025,south,Sports,Widget A,2,245.81,23.0,UPI,4.1
+ORD1596,05-12-2024,WEST,toys,Widget B,1,289.53,42.0,Debit Card,4.1
+ORD1037,15/06/2024,east,home & kitchen,Item N,8,314.91,68.0,UPI,3.5
+ORD2133,14 Nov 2024,south,Home & Kitchen,Widget A,8,232.95,57.0,Net Banking,3.7
+ORD2210,09/07/2024,Central,SPORTS,Device Q,13,90.61,20.0,Debit Card,3.1
+ORD2490,2025-05-04,Central,Toys,Widget A,13,108.7,46.0,Net Banking,3.9
+ORD1397,08-04-2024,North,Electronics,Widget A,14,189.95,64.0,UPI,3.1
+ORD1820,10-28-2024,  East  ,Clothing,Item N,14,177.07,30.0,Credit Card,2.3
+ORD1058,2025-02-05,north,  Toys  ,Accessory M,3,140.07,120.0,Debit Card,3.5
+ORD2787,09/05/2024,Central,Toys,Gizmo Z,9,,39.0,Cash,4.9
+ORD2523,2024-04-28,West,Clothing,Gadget X,14,84.44,29.0,Net Banking,1.9
+ORD1895,05/01/2025,Central,CLOTHING,Item N,8,247.47,69.0,Credit Card,3.1
+ORD1206,2025-02-23,EAST,books,Widget B,10,218.85,18.0,Cash,2.9
+ORD2985,2024-09-17,east,Toys,Widget B,11,184.07,36.0,UPI,3.9
+ORD1430,08-02-2024,CENTRAL,Home & Kitchen,Gadget X,3,104.91,22.0,Cash,4.0
+ORD1300,2024-10-31,Central,Home & Kitchen,Device Q,3,121.74,60.0,Debit Card,3.7
+ORD1660,22/05/2025,SOUTH,Electronics,Item N,14,144.5,38.0,Net Banking,3.0
+ORD2375,2025-04-03,East,Books,Item N,10,179.04,28.0,Credit Card,4.1
+ORD2784,2025-01-24,west,  Books  ,Gadget X,2,262.0,41.0,Credit Card,2.8
+ORD1412,01 Jan 2025,North,sports,Widget B,8,130.7,52.0,UPI,1.8
+ORD2113,2025-01-11,Central,sports,Gadget X,12,96.7,69.0,Debit Card,4.3
+ORD1007,11/04/2025,North,toys,Device Q,12,61.02,56.0,Credit Card,4.4
+ORD1350,04-09-2024,east,Sports,Gadget X,12,532.14,28.0,Cash,3.2
+ORD1721,10/03/2025,  North  ,books,Gadget X,10,141.25,46.0,Net Banking,2.4
+ORD2010,07 Nov 2024,north,SPORTS,Accessory M,6,284.6,50.0,UPI,4.4
+ORD2841,06-12-2024,SOUTH,books,Gadget X,6,202.18,31.0,Credit Card,1.2
+ORD1507,25/11/2024,East,Books,Widget B,3,179.89,53.0,Debit Card,3.8
+ORD1020,07-10-2024,West,Toys,Accessory M,14,219.95,67.0,Net Banking,4.4
+ORD1506,2024-01-12,SOUTH,Toys,Gadget Y,12,138.96,44.0,UPI,1.5
+ORD2880,2025-01-19,East,  Toys  ,Item N,9,193.6,46.0,Net Banking,1.4
+ORD2067,02 Jun 2025,west,Home & Kitchen,Widget B,8,246.75,24.0,Debit Card,3.8
+ORD1586,10 Mar 2025,East,Clothing,Device Q,3,194.12,38.0,Cash,1.5
+ORD1833,02-20-2024,Central,Electronics,Device Q,11,250.98,60.0,Debit Card,3.2
+ORD1500,2024-05-22,West,books,Item N,6,238.68,69.0,Debit Card,3.0
+ORD2539,2024-08-07,  East  ,Books,Accessory M,11,242.25,19.0,Debit Card,2.6
+ORD2153,04 Jun 2025,Central,Home & Kitchen,Device Q,13,150.04,68.0,Net Banking,1.7
+ORD2813,08/08/2024,WEST,  Electronics  ,Widget A,10,153.32,55.0,Credit Card,3.6
+ORD2765,04-19-2024,East,Home & Kitchen,Gadget Y,12,228.8,20.0,UPI,3.7
+ORD2817,18/08/2024,north,BOOKS,Gadget X,3,99.5,60.0,Debit Card,4.8
+ORD2949,25/08/2024,central,clothing,Gadget X,6,164.32,32.0,Credit Card,3.4
+ORD1943,06/06/2025,EAST,CLOTHING,Gadget X,1,236.37,34.0,Debit Card,2.6
+ORD1540,08-04-2024,  East  ,  Home & Kitchen  ,Device Q,11,,25.0,UPI,3.1
+ORD1740,2024-01-13,central,  Books  ,Item N,10,577.21,44.0,Credit Card,2.2
+ORD2564,10-17-2024,NORTH,Books,Device Q,6,294.61,18.0,UPI,4.6
+ORD1396,2024-10-05,west,books,Gadget X,7,4131.254416041657,35.0,Debit Card,
+ORD2520,23/06/2024,North,  Books  ,Device Q,14,159.35,23.0,Cash,1.7
+ORD2058,21 Jun 2025,West,Clothing,Gadget X,5,210.97,24.0,Cash,3.8
+ORD2256,04-29-2024,WEST,books,Widget A,1,225.1,24.0,Credit Card,2.1
+ORD2792,2025-04-11,  West  ,Toys,Gadget Y,4,210.34,57.0,Cash,2.4
+ORD1172,2024-05-03,,BOOKS,Accessory M,12,124.32,67.0,Debit Card,4.3
+ORD2534,2024-10-13,north,Home & Kitchen,Gadget Y,14,204.3,64.0,Debit Card,1.1
+ORD2659,01-08-2025,central,toys,Device Q,4,207.12,62.0,UPI,3.2
+ORD1514,03-30-2024,Central,  Toys  ,Widget B,7,309.68,43.0,Cash,1.8
+ORD2928,29 Sep 2024,CENTRAL,Sports,Accessory M,9,153.11,36.0,,1.7
+ORD1620,2025-02-06,NORTH,home & kitchen,Gadget Y,6,164.96,59.0,Cash,3.2
+ORD2775,06-20-2025,CENTRAL,Sports,Item N,5,161.1,34.0,Net Banking,4.7
+ORD1051,24/07/2024,  West  ,  Sports  ,Accessory M,2,497.23,64.0,Net Banking,3.5
+ORD1036,01-21-2024,CENTRAL,BOOKS,Accessory M,4,56.88,49.0,Credit Card,1.3
+ORD1779,02-08-2024,central,Home & Kitchen,Item N,5,-260.71,45.0,Debit Card,1.4
+ORD2295,2025-06-10,South,Books,Gadget X,5,248.28,44.0,Net Banking,1.9
+ORD1653,01-20-2025,east,Books,Gadget Y,3,210.12,39.0,Net Banking,
+ORD1217,11 Jun 2024,west,Electronics,Widget A,2,149.86,27.0,Debit Card,4.4
+ORD1284,2025-05-20,SOUTH,Toys,Widget B,13,80.63,43.0,Net Banking,3.1
+ORD2668,2024-06-15,  Central  ,  Toys  ,Accessory M,6,120.65,57.0,Cash,4.2
+ORD2753,13 Mar 2024,East,Toys,Accessory M,2,159.67,59.0,Cash,1.6
+ORD2277,2024-02-08,  South  ,Sports,Widget A,14,,66.0,Debit Card,3.7
+ORD1830,2024-05-06,CENTRAL,Clothing,Gadget Y,8,197.09,60.0,Credit Card,2.7
+ORD2332,2024-06-14,WEST,home & kitchen,Widget B,13,288.27,39.0,Net Banking,1.9
+ORD1374,2025-05-13,SOUTH,home & kitchen,Item N,5,313.26,57.0,Debit Card,4.9
+ORD1984,2025-01-12,  Central  ,BOOKS,Gizmo Z,11,208.84,53.0,Credit Card,
+ORD1410,01-18-2025,CENTRAL,Clothing,Gizmo Z,6,189.11,42.0,Debit Card,2.8
+ORD2996,2024-08-18,CENTRAL,Toys,Widget B,7,201.08,24.0,UPI,1.0
+ORD2850,25 Feb 2025,central,sports,Accessory M,7,110.38,43.0,Credit Card,4.7
+ORD2330,2024-12-31,NORTH,sports,Item N,1,172.29,38.0,Debit Card,4.7
+ORD1146,24/05/2025,south,CLOTHING,Item N,2,309.45,51.0,Net Banking,1.2
+ORD1613,25 Dec 2024,  North  ,clothing,Widget B,14,359.82,26.0,Credit Card,3.4
+ORD2467,30/04/2024,WEST,electronics,Gadget X,5,75.69,59.0,,3.3
+ORD2275,31 Jan 2025,  South  ,Clothing,Gadget Y,1,192.62,63.0,UPI,2.9
+ORD1360,2024-06-08,  West  ,ELECTRONICS,Accessory M,2,254.19,30.0,Credit Card,4.7
+ORD2179,13/08/2024,South,clothing,Accessory M,12,330.93,46.0,,
+ORD2164,03-29-2024,South,Electronics,Item N,8,318.66,32.0,Net Banking,1.0
+ORD2889,2024-08-15,west,Clothing,Widget A,6,238.79,29.0,Credit Card,2.8
+ORD2828,01-20-2025,  Central  ,  Books  ,Gadget X,12,338.68,,Cash,1.6
+ORD1241,2025-03-28,  East  ,CLOTHING,Item N,7,186.02,58.0,Cash,5.0
+ORD1492,14 Aug 2024,West,Electronics,Gadget X,2,202.0,65.0,Credit Card,3.4
+ORD2432,09/06/2025,south,  Sports  ,Widget B,3,388.33,45.0,Credit Card,2.4
+ORD2293,05-21-2025,Central,electronics,Gadget X,6,395.88,22.0,UPI,1.6
+ORD2763,12 Jun 2024,EAST,Clothing,Gizmo Z,13,237.99,50.0,Net Banking,1.9
+ORD2338,26 Jan 2025,North,Electronics,Gadget X,9,249.98,47.0,Cash,2.1
+ORD2863,01-10-2024,South,Toys,Widget B,11,255.88,27.0,Net Banking,4.2
+ORD2034,17/04/2024,  North  ,Sports,Widget A,2,261.47,51.0,UPI,1.6
+ORD2912,2024-06-17,East,HOME & KITCHEN,Device Q,8,221.82,61.0,Debit Card,3.7
+ORD2650,2025-03-30,West,Toys,Widget A,14,149.88,48.0,Net Banking,2.9
+ORD2323,2024-12-09,South,Sports,Item N,2,200.19,22.0,UPI,2.3
+ORD2151,23 Feb 2024,east,Toys,Widget B,1,173.64,47.0,Debit Card,2.5
+ORD2442,18 Aug 2024,EAST,BOOKS,Accessory M,2,231.97,68.0,UPI,
+ORD1739,2024-06-20,EAST,Books,Item N,8,189.27,54.0,Debit Card,3.0
+ORD2877,2025-05-19,central,CLOTHING,Widget A,10,198.31,23.0,UPI,2.1
+ORD1141,08-20-2024,SOUTH,Toys,Gadget Y,9,,33.0,UPI,2.8
+ORD1565,12/03/2024,  South  ,sports,Widget B,7,243.71,41.0,UPI,4.6
+ORD1868,11 Oct 2024,  West  ,electronics,Widget B,9,199.52,47.0,Credit Card,1.0
+ORD2885,27 May 2024,West,CLOTHING,Gadget Y,8,136.7,,Cash,3.4
+ORD1837,2024-10-23,NORTH,ELECTRONICS,Gadget X,12,162.22,55.0,UPI,2.0
+ORD2891,02 Feb 2025,West,TOYS,Accessory M,4,264.31,23.0,Debit Card,3.7
+ORD2715,2024-05-28,East,Sports,Accessory M,3,168.69,32.0,Debit Card,3.3
+ORD2599,04/06/2024,North,CLOTHING,Gadget Y,9,322.52,22.0,UPI,
+ORD2884,17/01/2024,WEST,  Clothing  ,Gizmo Z,12,240.28,51.0,Cash,3.0
+ORD2678,2024-06-08,West,Sports,Widget A,7,247.29,43.0,Credit Card,4.0
+ORD2049,21/03/2024,East,  Sports  ,Widget A,10,425.64,25.0,Credit Card,
+ORD2427,2024-01-21,NORTH,  Home & Kitchen  ,Gizmo Z,2,,32.0,Credit Card,2.6
+ORD2844,29 Jan 2025,central,  Toys  ,Item N,12,,38.0,Credit Card,4.1
+ORD1572,23/02/2024,North,Clothing,Device Q,5,-351.08,18.0,Debit Card,1.5
+ORD2872,2025-03-24,East,  Books  ,Widget A,1,191.79,49.0,UPI,1.3
+ORD1694,2024-11-10,central,CLOTHING,Device Q,6,280.5,,UPI,4.5
+ORD2285,2025-06-22,CENTRAL,Electronics,Widget B,13,302.98,32.0,UPI,2.7
+ORD1501,02-18-2025,North,Toys,Widget B,10,217.59,65.0,UPI,3.7
+ORD1517,23 Jun 2025,NORTH,CLOTHING,Item N,11,528.02,63.0,Debit Card,4.0
+ORD2682,15 Jan 2025,CENTRAL,Books,Widget A,12,242.43,22.0,UPI,3.3
+ORD1556,2025-04-01,north,Sports,Gadget Y,12,192.26,48.0,Cash,4.0
+ORD1179,05-25-2025,North,Clothing,Accessory M,5,188.4,53.0,Debit Card,1.6
+ORD1438,06-22-2024,Central,  Books  ,Item N,2,300.15,26.0,UPI,1.8
+ORD1488,20 Mar 2024,north,Home & Kitchen,Device Q,11,96.28,40.0,UPI,4.2
+ORD2476,11-29-2024,South,Clothing,Gadget X,4,101.49,64.0,UPI,2.8
+ORD2992,17 Apr 2025,NORTH,Electronics,Accessory M,14,,22.0,Cash,3.2
+ORD2118,03/01/2024,EAST,Toys,Gadget Y,1,149.48,23.0,Net Banking,3.0
+ORD1353,17 Mar 2025,North,  Toys  ,Gadget X,4,429.59,37.0,Debit Card,1.2
+ORD1299,07/12/2024,WEST,Books,Widget A,1,152.54,40.0,Cash,4.3
+ORD2713,16 Nov 2024,North,Home & Kitchen,Gadget X,12,141.74,,UPI,1.3
+ORD2246,2024-07-14,South,clothing,Gadget X,1,251.63,43.0,Credit Card,3.4
+ORD1454,04 Aug 2024,Central,TOYS,Accessory M,3,261.05,34.0,Credit Card,2.0
+ORD1593,25 Jun 2025,North,SPORTS,Item N,8,239.04,54.0,Debit Card,2.2
+ORD2447,06 Mar 2024,South,Home & Kitchen,Gadget X,9,394.86,29.0,UPI,2.8
+ORD1325,08-24-2024,West,TOYS,Gadget Y,6,231.68,31.0,Debit Card,1.1
+ORD1071,14/01/2025,North,toys,Device Q,5,179.49,26.0,UPI,1.2
+ORD1527,01-10-2024,WEST,Home & Kitchen,Widget B,4,260.93,27.0,Net Banking,2.9
+ORD1768,05/02/2025,  East  ,Books,Accessory M,14,125.85,37.0,Net Banking,1.8
+ORD2401,20/03/2025,NORTH,Electronics,Accessory M,4,,50.0,Net Banking,2.1
+ORD2618,2024-02-05,EAST,Books,Widget A,5,160.9,22.0,Debit Card,3.8
+ORD2903,2024-05-17,CENTRAL,Toys,Widget B,3,93.21,64.0,Cash,3.9
+ORD2610,12-16-2024,  West  ,Home & Kitchen,Item N,12,203.65,31.0,UPI,3.2
+ORD2921,08/06/2024,CENTRAL,sports,Item N,4,391.39,26.0,Debit Card,3.1
+ORD2968,24 Feb 2025,South,toys,Gadget Y,8,269.33,48.0,Cash,4.6
+ORD2137,02 Mar 2024,central,toys,Gadget X,8,155.28,22.0,Cash,2.6
+ORD1729,2024-04-22,Central,Toys,Gizmo Z,10,169.85,22.0,Debit Card,1.4
+ORD2089,30/05/2025,NORTH,Sports,Gizmo Z,14,162.55,67.0,Net Banking,2.4
+ORD2488,2024-07-24,East,SPORTS,Accessory M,12,228.86,66.0,Credit Card,1.2
+ORD2882,11/02/2025,south,  Toys  ,Gizmo Z,3,288.84,34.0,UPI,2.8
+ORD1544,25/05/2025,South,sports,Gizmo Z,5,219.85,55.0,Net Banking,1.5
+ORD1116,2025-06-08,north,ELECTRONICS,Widget B,6,162.84,52.0,Cash,1.3
+ORD2693,17/03/2025,North,Toys,Item N,7,122.25,32.0,Debit Card,
+ORD2159,24/05/2024,north,ELECTRONICS,Gizmo Z,1,141.48,64.0,Debit Card,1.3
+ORD1004,12/03/2024,south,Toys,Device Q,10,195.79,69.0,Cash,4.8
+ORD1311,04/01/2025,West,HOME & KITCHEN,Item N,5,307.72,32.0,Credit Card,3.2
+ORD1046,01/01/2025,West,Electronics,Widget B,8,203.97,43.0,Net Banking,1.3
+ORD1341,05/08/2024,Central,sports,Gadget Y,14,228.4,27.0,Cash,2.5
+ORD2200,2024-08-03,West,home & kitchen,Device Q,2,204.2,42.0,Cash,4.7
+ORD1835,04-06-2025,East,HOME & KITCHEN,Device Q,8,91.76,19.0,Net Banking,1.3
+ORD1887,2024-10-31,North,Electronics,Gizmo Z,8,107.53,20.0,UPI,4.8
+ORD2399,28/02/2024,East,BOOKS,Gadget Y,12,329.54,51.0,Credit Card,4.3
+ORD2595,29/11/2024,  West  ,clothing,Widget B,4,238.07,,UPI,1.5
+ORD1278,24/06/2024,central,HOME & KITCHEN,Gadget Y,5,148.55,,Debit Card,3.4
+ORD2631,10/01/2024,North,Books,Gadget Y,7,170.02,54.0,Credit Card,2.3
+ORD2022,15/05/2025,East,books,Widget B,7,96.28,39.0,Debit Card,4.3
+ORD1638,15 Dec 2024,east,  Clothing  ,Accessory M,2,311.75,43.0,Debit Card,4.0
+ORD2620,03-27-2025,,Sports,Widget A,12,94.43,33.0,UPI,2.9
+ORD2974,01-30-2024,EAST,HOME & KITCHEN,Device Q,14,97.05,27.0,Debit Card,1.7
+ORD1194,2025-03-28,SOUTH,Books,Widget A,9,169.18,35.0,Debit Card,2.2
+ORD2931,02/05/2025,west,Home & Kitchen,Widget B,6,197.12,59.0,UPI,3.5
+ORD1806,05/06/2024,north,home & kitchen,Item N,2,129.19,22.0,Debit Card,2.8
+ORD2638,14 Jun 2025,Central,Clothing,Accessory M,2,222.85,38.0,Debit Card,4.8
+ORD2518,2025-05-09,Central,Toys,Widget A,11,127.1,57.0,Credit Card,2.8
+ORD1372,28/10/2024,east,HOME & KITCHEN,Item N,13,413.76,69.0,Credit Card,4.7
+ORD1800,2024-06-07,east,  Clothing  ,Widget A,10,100.18,39.0,Credit Card,2.0
+ORD1504,15/09/2024,central,TOYS,Device Q,14,264.37,69.0,Cash,2.1
+ORD2816,25/02/2025,,Sports,Accessory M,9,364.43,59.0,Cash,4.4
+ORD2301,07-26-2024,WEST,Electronics,Gizmo Z,10,108.93,61.0,Cash,4.9
+ORD2226,06-08-2025,South,Clothing,Item N,14,125.03,,Net Banking,1.8
+ORD1298,2024-11-09,CENTRAL,books,Accessory M,1,175.32,37.0,Credit Card,
+ORD2198,15 Oct 2024,north,  Home & Kitchen  ,Accessory M,14,114.13,31.0,Credit Card,2.4
+ORD1450,2024-12-07,north,clothing,Gizmo Z,12,63.62,61.0,UPI,2.2
+ORD2042,01-17-2024,north,Books,Widget A,8,110.32,38.0,Cash,3.1
+ORD1109,05 Apr 2024,south,Home & Kitchen,Gadget Y,1,232.72,45.0,Cash,2.4
+ORD1817,13 May 2024,NORTH,Sports,Gadget X,14,92.12,22.0,Cash,2.2
+ORD2944,13 Jun 2025,South,Toys,Device Q,12,427.23,23.0,Debit Card,2.7
+ORD2297,11 Jun 2024,central,Toys,Gadget Y,6,175.83,47.0,Credit Card,2.0
+ORD1426,01/02/2025,east,books,Widget A,13,,36.0,Cash,4.5
+ORD1562,02-03-2024,central,TOYS,Gadget Y,8,272.17,32.0,Net Banking,3.9
+ORD1595,21 Mar 2024,North,Home & Kitchen,Widget B,1,311.82,61.0,Net Banking,1.6
+ORD2656,2024-09-10,SOUTH,sports,Device Q,5,178.58,21.0,,2.6
+ORD1095,17 Feb 2024,EAST,Toys,Item N,2,125.92,63.0,Cash,1.7
+ORD2890,03-11-2025,,toys,Gadget Y,1,155.4,52.0,UPI,2.6
+ORD2719,09 Jun 2024,North,Books,Widget B,9,178.39,66.0,Net Banking,
+ORD1019,2025-01-20,central,Sports,Widget A,4,133.97,51.0,Credit Card,4.3
+ORD1691,08/10/2024,Central,Home & Kitchen,Gizmo Z,14,120.22,24.0,Cash,2.8
+ORD2051,2025-01-08,North,  Books  ,Device Q,9,183.37,26.0,Debit Card,2.1
+ORD2348,02 Jan 2024,South,Electronics,Widget A,12,459.89,61.0,Credit Card,1.8
+ORD1946,28/04/2024,South,Books,Widget B,12,308.84,67.0,Cash,1.9
+ORD2281,05-09-2024,North,Sports,Widget B,10,249.71,59.0,UPI,1.4
+ORD2158,02 Mar 2024,WEST,Toys,Gadget Y,1,77.55,67.0,Credit Card,
+ORD2673,10/03/2024,East,ELECTRONICS,Gadget Y,10,169.19,62.0,Net Banking,4.5
+ORD2773,04-26-2025,,books,Accessory M,11,84.85,68.0,Credit Card,2.8
+ORD2941,02-08-2024,central,toys,Widget B,13,271.8,44.0,UPI,4.6
+ORD1222,26/01/2025,South,clothing,Gadget Y,9,98.02,36.0,Cash,1.6
+ORD2435,09/01/2025,Central,Sports,Gadget X,13,166.75,45.0,UPI,2.8
+ORD1738,17 Sep 2024,South,Sports,Widget B,11,178.78,22.0,UPI,3.4
+ORD2793,12-10-2024,central,Home & Kitchen,Gadget Y,13,112.05,18.0,UPI,4.5
+ORD1925,2024-03-18,East,Toys,Device Q,2,271.72,35.0,Net Banking,4.4
+ORD1111,2025-02-10,SOUTH,SPORTS,Item N,14,190.62,43.0,,4.6
+ORD1945,15/04/2025,CENTRAL,home & kitchen,Gadget Y,10,141.92,34.0,UPI,2.9
+ORD2039,2025-06-07,CENTRAL,Home & Kitchen,Device Q,14,327.71,27.0,UPI,2.7
+ORD2554,2024-11-26,East,ELECTRONICS,Gizmo Z,4,138.87,46.0,UPI,4.7
+ORD2139,01/06/2024,South,Toys,Widget B,3,329.54,57.0,Debit Card,4.2
+ORD1313,04-29-2024,Central,Home & Kitchen,Item N,6,216.74,51.0,UPI,2.6
+ORD1287,11-16-2024,Central,HOME & KITCHEN,Gizmo Z,6,183.82,54.0,Net Banking,
+ORD2361,2024-01-09,  East  ,Sports,Accessory M,9,123.12,22.0,Credit Card,4.0
+ORD2593,2024-05-20,NORTH,Sports,Device Q,8,89.27,33.0,Debit Card,
+ORD2122,2024-11-19,  East  ,Toys,Device Q,11,366.54,30.0,Cash,4.8
+ORD2909,2024-11-24,EAST,  Home & Kitchen  ,Item N,4,272.64,44.0,Cash,4.1
+ORD2808,03 Feb 2025,East,BOOKS,Accessory M,14,299.08,39.0,Credit Card,
+ORD1463,31/03/2024,WEST,books,Device Q,13,159.77,64.0,Cash,3.1
+ORD1635,08-01-2024,east,  Home & Kitchen  ,Accessory M,6,36.92,60.0,UPI,3.3
+ORD2510,01 Dec 2024,central,  Electronics  ,Gizmo Z,7,,42.0,Debit Card,4.2
+ORD2700,21 Mar 2025,West,Toys,Widget A,1,145.48,44.0,UPI,2.4
+ORD2231,25/12/2024,CENTRAL,clothing,Widget B,10,,52.0,Debit Card,2.6
+ORD1361,19 Apr 2025,west,Clothing,Gadget X,1,328.38,35.0,UPI,4.6
+ORD2205,2024-12-18,north,SPORTS,Gadget X,7,63.43,18.0,UPI,1.9
+ORD1455,27/10/2024,central,Home & Kitchen,Gadget Y,4,91.09,53.0,Net Banking,2.9
+ORD1017,06 May 2025,South,Toys,Gadget X,4,355.71,65.0,Net Banking,3.1
+ORD1885,2024-02-01,North,Home & Kitchen,Widget A,7,61.08,34.0,Net Banking,3.2
+ORD2438,05-16-2025,WEST,Home & Kitchen,Accessory M,10,124.38,65.0,Net Banking,1.6
+ORD1377,2025-02-21,east,Electronics,Accessory M,1,477.33,39.0,Debit Card,3.7
+ORD1828,2024-11-19,West,books,Accessory M,14,333.13,26.0,Net Banking,1.0
+ORD2458,10 Jan 2024,North,sports,Gadget X,10,234.51,,Net Banking,2.5
+ORD2797,2025-04-07,  East  ,books,Item N,4,114.82,41.0,Credit Card,
+ORD2283,01-22-2024,Central,Clothing,Gizmo Z,1,156.98,20.0,Debit Card,4.0
+ORD1861,27/06/2024,North,clothing,Accessory M,4,82.68,44.0,Net Banking,1.4
+ORD2002,04-22-2024,  East  ,sports,Accessory M,2,135.37,44.0,UPI,2.6
+ORD1054,01-02-2024,WEST,Sports,Item N,7,180.03,69.0,Credit Card,3.2
+ORD1263,2024-07-09,East,SPORTS,Gadget Y,5,85.66,34.0,Cash,3.0
+ORD1101,2024-08-05,Central,Home & Kitchen,Accessory M,10,129.95,,Cash,1.5
+ORD1275,04-13-2024,  East  ,Toys,Widget A,2,142.91,38.0,Net Banking,4.1
+ORD1286,20 Jan 2024,East,home & kitchen,Widget B,13,142.09,33.0,Net Banking,4.0
+ORD2123,2024-05-25,central,Electronics,Widget B,6,286.75,29.0,Cash,1.7
+ORD1249,2024-06-06,Central,Toys,Gadget Y,5,86.76,34.0,Cash,4.4
+ORD2182,23/11/2024,East,Sports,Widget B,4,190.35,53.0,Cash,3.1
+ORD2345,26/03/2024,SOUTH,Clothing,Accessory M,3,206.96,69.0,Cash,1.5
+ORD2463,10-02-2024,North,Books,Gadget X,8,149.08,53.0,Credit Card,1.8
+ORD2958,07-31-2024,East,BOOKS,Accessory M,1,157.24,32.0,Cash,1.8
+ORD1344,12-06-2024,East,home & kitchen,Gadget X,9,231.4,44.0,Debit Card,5.0
+ORD2924,14/10/2024,East,TOYS,Gadget Y,13,113.74,37.0,Credit Card,2.2
+ORD2963,10 Feb 2025,East,  Books  ,Device Q,14,140.55,22.0,Net Banking,3.4
+ORD1561,2025-05-02,South,books,Widget A,14,316.49,69.0,UPI,2.5
+ORD1441,01-27-2025,  North  ,BOOKS,Widget B,1,231.22,,Debit Card,1.7
+ORD1060,07-20-2024,South,HOME & KITCHEN,Widget A,3,232.71,21.0,Debit Card,
+ORD1392,08/07/2024,  West  ,Clothing,Widget A,7,,24.0,Cash,1.4
+ORD1590,2024-06-14,South,BOOKS,Gizmo Z,10,220.26,33.0,UPI,1.2
+ORD1528,29/08/2024,Central,clothing,Widget B,4,103.96,56.0,Net Banking,2.7
+ORD1363,2025-06-28,NORTH,  Clothing  ,Device Q,7,243.92,46.0,Cash,2.4
+ORD2351,12/04/2024,NORTH,ELECTRONICS,Item N,11,160.24,68.0,Credit Card,1.2
+ORD1210,08-14-2024,,ELECTRONICS,Widget A,14,245.19,60.0,Credit Card,4.9
+ORD1281,21 Jun 2025,South,ELECTRONICS,Device Q,4,143.39,26.0,Credit Card,2.6
+ORD2730,07-14-2024,CENTRAL,Electronics,Widget B,11,65.34,44.0,Credit Card,3.3
+ORD1683,20 Apr 2024,West,Toys,Widget B,2,291.62,25.0,Net Banking,2.7
+ORD2266,02/02/2024,,sports,Item N,5,91.51,53.0,Net Banking,4.2
+ORD1797,2025-06-05,  West  ,SPORTS,Gadget Y,14,361.29,56.0,Net Banking,1.8
+ORD2251,2024-01-17,SOUTH,  Toys  ,Item N,14,301.82,69.0,Cash,3.7
+ORD2645,04-27-2025,West,Home & Kitchen,Widget B,12,227.67,53.0,UPI,1.0
+ORD2088,11 May 2025,  North  ,Home & Kitchen,Gadget X,6,76.65,55.0,Cash,2.8
+ORD1701,15/12/2024,east,SPORTS,Widget B,6,144.6,27.0,Debit Card,3.7
+ORD1718,12/07/2024,West,Toys,Item N,7,202.39,39.0,Debit Card,4.7
+ORD1324,02/05/2025,East,Sports,Item N,8,162.99,45.0,Debit Card,3.1
+ORD1698,2024-10-03,SOUTH,Clothing,Gizmo Z,12,146.09,59.0,Net Banking,2.9
+ORD2720,04 Apr 2025,Central,electronics,Gadget X,10,56.86,25.0,Cash,2.1
+ORD1028,28/02/2024,South,clothing,Gizmo Z,13,243.54,34.0,Cash,4.3
+ORD2358,2025-03-03,WEST,Sports,Gadget X,4,392.67,48.0,Cash,1.0
+ORD1610,04/04/2024,East,Clothing,Gizmo Z,13,173.55,21.0,Credit Card,2.7
+ORD1359,05-11-2025,West,books,Widget A,8,58.61,21.0,Credit Card,1.5
+ORD2665,05 Aug 2024,South,Toys,Widget B,-12,138.44,53.0,UPI,3.8
+ORD2812,01-14-2025,NORTH,home & kitchen,Gizmo Z,7,175.39,,Net Banking,2.8
+ORD1224,13/07/2024,south,BOOKS,Gizmo Z,5,254.35,62.0,UPI,2.9
+ORD1447,04/12/2024,Central,Books,Widget B,9,229.68,37.0,Debit Card,1.6
+ORD2853,2024-04-14,north,CLOTHING,Gizmo Z,14,,50.0,Credit Card,2.4
+ORD2731,10 Apr 2025,Central,Home & Kitchen,Gadget X,4,182.37,36.0,Debit Card,
+ORD1855,2025-01-20,central,Clothing,Widget B,6,340.19,50.0,Cash,3.1
+ORD2425,24 Aug 2024,North,ELECTRONICS,Device Q,10,188.57,51.0,Cash,3.7
+ORD2716,24/03/2024,EAST,Toys,Item N,13,271.53,55.0,,4.9
+ORD2227,15/02/2024,east,CLOTHING,Widget A,11,140.28,29.0,Cash,
+ORD2497,2024-11-01,North,CLOTHING,Widget B,6,126.19,50.0,UPI,4.6
+ORD1747,13 Nov 2024,west,Books,Gizmo Z,14,80.18,48.0,Net Banking,3.2
+ORD2977,10-07-2024,SOUTH,HOME & KITCHEN,Widget B,1,105.46,28.0,Credit Card,4.7
+ORD2084,07-01-2024,West,Clothing,Gizmo Z,2,139.06,22.0,UPI,4.4
+ORD1816,10/09/2024,West,Home & Kitchen,Gadget X,7,191.19,69.0,Debit Card,
+ORD2294,2024-09-13,North,Electronics,Accessory M,4,285.94,41.0,Credit Card,1.1
+ORD1151,22/04/2024,West,Books,Gizmo Z,8,128.66,26.0,Cash,
+ORD1215,01/06/2024,  West  ,Toys,Gadget X,6,180.12,56.0,Credit Card,4.8
+ORD1098,2024-04-08,South,  Toys  ,Widget B,14,8659.784156790623,34.0,Debit Card,
+ORD2767,25/08/2024,CENTRAL,Sports,Gadget X,10,236.98,21.0,Debit Card,2.5
+ORD1474,01-01-2024,North,Sports,Widget A,8,145.62,40.0,Cash,2.8
+ORD2360,11-12-2024,CENTRAL,Electronics,Gizmo Z,9,210.76,41.0,UPI,1.1
+ORD2152,16 Feb 2024,east,  Clothing  ,Gadget X,12,138.25,,Credit Card,2.9
+ORD2496,2024-08-04,NORTH,Books,Gadget X,2,7040.214720782012,55.0,UPI,1.6
+ORD1012,07/01/2025,West,books,Widget B,7,109.74,66.0,Cash,4.8
+ORD2766,01/12/2024,NORTH,Clothing,Item N,8,117.72,55.0,Credit Card,1.9
+ORD2413,2024-05-31,South,Electronics,Item N,4,183.39,65.0,Net Banking,2.0
+ORD1167,2024-10-06,  East  ,books,Widget A,14,115.34,52.0,Net Banking,1.8
+ORD1602,2024-03-09,Central,books,Gadget Y,3,210.79,34.0,Debit Card,3.4
+ORD2078,2024-06-07,East,HOME & KITCHEN,Gadget Y,8,53.16,61.0,Debit Card,2.8
+ORD1188,2024-09-19,north,  Clothing  ,Gizmo Z,14,206.44,49.0,Credit Card,2.7
+ORD2120,21 May 2024,North,Home & Kitchen,Device Q,7,150.64,39.0,Cash,3.9
+ORD2083,06-19-2024,Central,Electronics,Gadget Y,2,205.0,33.0,,1.1
+ORD1043,11 Dec 2024,South,Sports,Gadget X,3,187.92,37.0,Debit Card,1.2
+ORD2114,22 Sep 2024,  East  ,toys,Accessory M,11,181.19,58.0,Net Banking,1.2
+ORD1009,26/11/2024,SOUTH,Sports,Widget A,4,307.92,53.0,UPI,2.9
+ORD2363,24/12/2024,North,  Toys  ,Device Q,10,81.26,36.0,UPI,
+ORD1147,20/01/2025,NORTH,sports,Device Q,3,144.29,44.0,Net Banking,3.1
+ORD1746,04/04/2024,North,Home & Kitchen,Gadget Y,11,274.24,61.0,UPI,1.7
+ORD1013,09 Apr 2024,  East  ,books,Gizmo Z,2,51.43,,Credit Card,4.1
+ORD1389,10/07/2024,EAST,ELECTRONICS,Widget B,14,315.45,,Credit Card,2.7
+ORD2701,24/02/2024,East,CLOTHING,Item N,5,196.17,47.0,UPI,5.0
+ORD1985,2024-12-07,west,Home & Kitchen,Gadget X,1,127.4,18.0,Debit Card,2.6
+ORD1744,2024-11-24,West,Toys,Gadget Y,12,362.3,38.0,Net Banking,2.9
+ORD2515,2024-12-17,WEST,HOME & KITCHEN,Gadget Y,3,372.17,32.0,Debit Card,1.1
+ORD2221,2024-12-21,South,Clothing,Gadget X,8,139.33,47.0,Net Banking,3.6
+ORD1742,16 Nov 2024,central,Home & Kitchen,Widget A,3,511.16,50.0,Debit Card,3.7
+ORD2761,09/09/2024,  North  ,TOYS,Item N,8,110.81,65.0,Credit Card,2.4
+ORD1452,25/05/2025,  South  ,sports,Widget B,13,96.61,62.0,Net Banking,
+ORD1606,05-05-2024,West,Books,Device Q,13,233.41,58.0,Cash,4.5
+ORD1892,27 Feb 2025,North,SPORTS,Gizmo Z,13,241.06,20.0,Net Banking,4.2
+ORD1967,2024-07-19,North,clothing,Widget A,3,176.86,28.0,Credit Card,4.6
+ORD1898,16/05/2025,Central,Electronics,Gizmo Z,4,220.34,63.0,Cash,3.6
+ORD2538,26 Dec 2024,South,ELECTRONICS,Device Q,4,87.6,37.0,UPI,2.1
+ORD2380,22/01/2024,SOUTH,home & kitchen,Device Q,1,253.15,24.0,Debit Card,2.0
+ORD1951,2024-08-13,East,Books,Widget A,14,139.37,36.0,UPI,4.7
+ORD2781,06-26-2025,North,SPORTS,Gadget X,9,312.73,44.0,Cash,3.6
+ORD2925,2024-08-13,  West  ,Books,Gizmo Z,9,124.01,25.0,,4.2
+ORD2102,05-20-2024,East,Books,Device Q,1,91.88,38.0,Debit Card,3.7
+ORD2687,2024-06-20,North,Sports,Widget A,9,220.36,37.0,Cash,4.5
+ORD2577,10-19-2024,SOUTH,sports,Device Q,1,80.67,36.0,Credit Card,1.1
+ORD1025,2024-01-22,Central,Toys,Gadget X,14,363.61,32.0,Net Banking,3.3
+ORD2382,05-29-2025,West,Electronics,Accessory M,2,332.7,69.0,UPI,2.4
+ORD2479,01-20-2024,EAST,electronics,Accessory M,14,182.67,29.0,Cash,3.3
+ORD1479,2024-07-09,SOUTH,Electronics,Gadget X,14,211.43,55.0,Net Banking,2.7
+ORD2188,2024-04-23,central,Toys,Gadget Y,10,142.54,63.0,Net Banking,4.0
+ORD1115,2024-02-05,WEST,clothing,Gadget X,14,196.32,22.0,UPI,5.0
+ORD1024,09/11/2024,South,Home & Kitchen,Item N,11,126.38,60.0,Net Banking,4.7
+ORD1370,31 Jan 2025,EAST,  Clothing  ,Gadget X,10,113.84,55.0,Net Banking,3.3
+ORD2149,2024-09-15,South,electronics,Gadget Y,7,274.64,48.0,Cash,4.4
+ORD2041,02-13-2024,EAST,Home & Kitchen,Accessory M,2,292.55,35.0,Cash,4.2
+ORD1649,18 Apr 2025,South,Electronics,Device Q,2,227.46,68.0,Cash,
+ORD1453,22/11/2024,WEST,  Home & Kitchen  ,Device Q,6,204.62,200.0,Credit Card,
+ORD1096,2025-05-17,South,  Sports  ,Device Q,1,95.06,48.0,Credit Card,
+ORD2346,2024-04-01,  East  ,Electronics,Item N,14,187.43,64.0,Credit Card,2.6
+ORD1992,2025-04-20,CENTRAL,ELECTRONICS,Device Q,11,143.53,64.0,Debit Card,1.9
+ORD2469,07-22-2024,EAST,Toys,Widget A,13,243.73,36.0,Cash,2.1
+ORD1099,2025-04-06,East,Toys,Widget B,2,264.26,36.0,,2.5
+ORD2881,10/03/2025,WEST,Home & Kitchen,Widget B,13,64.34,59.0,Cash,4.7
+ORD2517,31 May 2025,NORTH,books,Gizmo Z,10,316.77,57.0,Cash,3.1
+ORD1804,2024-06-05,SOUTH,CLOTHING,Widget B,7,152.88,56.0,,2.8
+ORD1357,01 Dec 2024,Central,Sports,Gizmo Z,9,199.24,38.0,Credit Card,2.2
+ORD1858,2025-02-21,EAST,TOYS,Gizmo Z,9,240.71,61.0,Credit Card,3.1
+ORD1594,15 Apr 2024,NORTH,CLOTHING,Gadget X,3,60.37,57.0,Cash,3.3
+ORD2644,2024-08-29,east,toys,Device Q,3,223.44,22.0,Net Banking,
+ORD2990,2024-08-11,NORTH,clothing,Device Q,467,248.15,38.0,Debit Card,2.4
+ORD2028,11/02/2024,Central,books,Accessory M,6,186.61,55.0,UPI,4.8
+ORD1587,22 Mar 2025,east,TOYS,Device Q,3,258.66,47.0,UPI,2.4
+ORD2897,17 Mar 2025,central,  Sports  ,Widget B,14,208.9,65.0,UPI,1.9
+ORD2738,11/11/2024,,BOOKS,Accessory M,6,40.81,49.0,,4.5
+ORD1795,09-10-2024,South,TOYS,Accessory M,5,151.51,57.0,Debit Card,4.4
+ORD1270,18/11/2024,CENTRAL,  Clothing  ,Gadget X,2,465.11,43.0,Credit Card,2.3
+ORD1118,30/08/2024,West,Books,Gizmo Z,6,233.48,64.0,Debit Card,2.6
+ORD1117,08/06/2024,west,Clothing,Widget A,6,269.71,200.0,UPI,4.4
+ORD2109,2024-09-01,central,Books,Item N,3,146.82,18.0,Cash,3.6
+ORD2938,01 May 2024,South,  Clothing  ,Gadget Y,8,223.58,67.0,Debit Card,2.0
+ORD2576,10-30-2024,south,Clothing,Gadget X,13,187.17,58.0,Debit Card,4.6
+ORD1699,2025-05-17,SOUTH,Toys,Widget B,9,120.41,62.0,Debit Card,4.0
+ORD2016,21 May 2025,WEST,Electronics,Gadget X,12,,69.0,Cash,3.7
+ORD2431,24 Oct 2024,North,CLOTHING,Accessory M,6,89.49,66.0,Debit Card,
+ORD2940,09 Aug 2024,East,  Toys  ,Gadget X,1,182.98,57.0,UPI,1.9
+ORD1164,2024-05-02,CENTRAL,Sports,Gizmo Z,3,169.24,54.0,Cash,4.1
+ORD1603,22/02/2024,north,toys,Widget B,12,235.34,51.0,Credit Card,2.6
+ORD2509,03 Nov 2024,South,  Clothing  ,Device Q,294,203.21,27.0,Credit Card,1.3
+ORD2825,03-30-2025,,Sports,Item N,2,173.38,47.0,UPI,4.6
+ORD1465,2024-02-08,WEST,Sports,Gizmo Z,13,280.86,,UPI,1.0
+ORD2172,2024-06-18,WEST,HOME & KITCHEN,Gizmo Z,7,230.98,25.0,UPI,3.1
+ORD2199,2024-09-18,east,Home & Kitchen,Widget B,13,396.51,33.0,UPI,4.2
+ORD1142,2024-04-22,east,home & kitchen,Widget A,13,193.53,64.0,UPI,2.4
+ORD1666,01-28-2024,South,clothing,Item N,6,296.64,44.0,UPI,1.3
+ORD1113,2024-06-19,North,  Electronics  ,Widget B,10,302.3,,Cash,1.9
+ORD2087,2025-06-10,East,home & kitchen,Gadget X,1,140.84,55.0,Cash,3.4
+ORD2937,22/04/2024,East,Clothing,Widget B,3,255.16,60.0,Debit Card,4.4
+ORD1378,24/04/2024,East,Home & Kitchen,Device Q,9,388.39,32.0,Net Banking,3.2
+ORD1063,31/03/2025,East,Clothing,Gadget Y,7,135.29,,Net Banking,1.8
+ORD2169,06-24-2025,South,BOOKS,Accessory M,1,162.02,20.0,UPI,1.5
+ORD1651,2024-03-18,EAST,Home & Kitchen,Gadget Y,6,225.35,29.0,,3.3
+ORD1186,18/02/2025,south,toys,Accessory M,7,,40.0,Credit Card,1.7
+ORD1704,05-16-2024,  Central  ,Sports,Widget B,3,147.68,39.0,Credit Card,1.1
+ORD1294,2024-02-20,South,toys,Widget A,6,288.03,,Debit Card,1.9
+ORD1056,15/04/2024,Central,electronics,Widget B,9,96.21,42.0,UPI,
+ORD1315,2024-12-11,East,TOYS,Device Q,13,118.35,21.0,Cash,4.5
+ORD1130,11/01/2025,south,Electronics,Widget A,9,306.78,66.0,Net Banking,1.2
+ORD2288,21/01/2024,North,  Toys  ,Gadget X,7,144.43,35.0,Debit Card,2.0
+ORD1189,05-23-2024,NORTH,home & kitchen,Accessory M,13,279.15,50.0,Debit Card,2.4
+ORD1027,04-19-2025,  Central  ,BOOKS,Gizmo Z,11,93.17,66.0,Cash,1.6
+ORD1525,2024-09-12,WEST,Toys,Widget A,2,158.43,35.0,UPI,1.8
+ORD1936,05-30-2024,NORTH,BOOKS,Widget A,13,323.14,41.0,UPI,3.8
+ORD1762,13/01/2025,East,toys,Gadget Y,11,349.65,34.0,Debit Card,1.2
+ORD2870,11/04/2025,North,Clothing,Widget A,14,124.02,56.0,Debit Card,1.6
+ORD2799,2024-03-23,East,Electronics,Widget B,7,130.58,61.0,Credit Card,2.8
+ORD2636,2024-10-19,south,Electronics,Gizmo Z,6,150.56,33.0,Credit Card,4.9
+ORD1754,10-22-2024,South,SPORTS,Gadget X,5,107.82,,UPI,4.1
+ORD2591,20/02/2024,central,  Books  ,Widget A,9,111.07,53.0,Debit Card,3.7
+ORD2186,2024-02-06,,SPORTS,Widget B,7,47.77,21.0,UPI,1.2
+ORD1266,12/09/2024,North,electronics,Gadget Y,12,287.15,57.0,Cash,2.5
+ORD1899,2024-04-22,west,Clothing,Accessory M,6,81.65,28.0,Cash,4.7
+ORD2798,01/04/2025,East,Toys,Widget A,10,112.5,26.0,UPI,3.3
+ORD1075,2024-01-15,WEST,SPORTS,Gadget Y,6,308.18,37.0,Credit Card,
+ORD2459,2024-09-26,  Central  ,Books,Item N,5,202.04,52.0,Net Banking,3.7
+ORD2405,11-27-2024,South,Clothing,Device Q,11,174.96,57.0,UPI,2.2
+ORD1856,07-28-2024,Central,Home & Kitchen,Accessory M,8,158.6,41.0,,4.4
+ORD2278,27 Sep 2024,West,  Home & Kitchen  ,Gadget X,13,137.12,60.0,Net Banking,2.6
+ORD1845,06/03/2025,central,HOME & KITCHEN,Gadget Y,1,160.75,20.0,Net Banking,3.1
+ORD1769,2024-10-22,Central,home & kitchen,Gadget Y,2,146.77,46.0,Net Banking,2.1
+ORD2622,20 Jun 2024,WEST,Sports,Accessory M,9,265.97,64.0,UPI,1.7
+ORD2331,09 May 2025,North,Sports,Widget B,11,262.7,19.0,UPI,1.5
+ORD2233,23/03/2025,North,Clothing,Widget B,9,328.36,69.0,Net Banking,1.1
+ORD1868,11 Oct 2024,  West  ,electronics,Widget B,9,199.52,47.0,Credit Card,1.0
+ORD1180,05-26-2024,North,TOYS,Gadget X,13,418.33,41.0,Credit Card,
+ORD2319,2025-06-04,central,Sports,Item N,3,131.86,22.0,Net Banking,4.3
+ORD1672,05-05-2024,WEST,Sports,Gizmo Z,4,40.34,55.0,Credit Card,3.0
+ORD2511,01-09-2025,East,CLOTHING,Accessory M,10,118.02,64.0,UPI,4.7
+ORD1376,2024-03-30,Central,home & kitchen,Gadget X,1,155.01,38.0,Net Banking,1.6
+ORD1669,2024-08-18,central,Electronics,Gadget X,8,302.83,29.0,Debit Card,4.5
+ORD1023,2025-04-04,east,sports,Accessory M,5,122.45,57.0,Net Banking,1.1
+ORD1346,10 Sep 2024,North,ELECTRONICS,Item N,2,139.76,44.0,Cash,3.2
+ORD2666,04-11-2024,North,Electronics,Widget B,3,186.51,38.0,Debit Card,1.4
+ORD2504,26/06/2024,  West  ,  Books  ,Gizmo Z,11,76.52,41.0,Credit Card,1.3
+ORD2746,06 Jun 2024,EAST,HOME & KITCHEN,Widget B,10,196.53,20.0,Debit Card,3.2
+ORD1008,02 Aug 2024,north,Home & Kitchen,Gizmo Z,1,146.29,24.0,Cash,1.3
+ORD1228,14 Apr 2025,  East  ,Home & Kitchen,Device Q,6,205.53,46.0,Net Banking,4.1
+ORD1489,2024-07-31,,Books,Accessory M,4,145.84,56.0,Cash,
+ORD1213,2025-04-17,SOUTH,BOOKS,Item N,5,118.39,27.0,Credit Card,2.6
+ORD2601,23/05/2024,east,clothing,Gizmo Z,2,167.6,68.0,Credit Card,2.9
+ORD1578,2024-08-16,  Central  ,clothing,Gizmo Z,13,239.73,49.0,Credit Card,1.3
+ORD1449,2024-12-30,west,home & kitchen,Device Q,9,171.83,47.0,UPI,3.2
+ORD1757,2024-08-16,west,Sports,Widget A,11,235.64,48.0,Debit Card,1.0
+ORD1015,2024-11-04,East,Books,Accessory M,2,101.97,62.0,Cash,3.8
+ORD2914,01-12-2025,East,Electronics,Gadget Y,14,221.72,39.0,Credit Card,2.5
+ORD2806,2024-09-19,  South  ,Toys,Accessory M,13,355.91,53.0,UPI,3.4
+ORD2531,10/12/2024,North,sports,Widget B,10,99.58,,Debit Card,2.4
+ORD2633,2024-05-31,CENTRAL,Clothing,Item N,9,,28.0,Net Banking,3.1
+ORD2189,2024-02-09,south,CLOTHING,Accessory M,5,160.26,55.0,Net Banking,3.7
+ORD2626,27 Apr 2024,WEST,Books,Widget B,6,131.92,68.0,Credit Card,4.6
+ORD1546,08/02/2025,south,Home & Kitchen,Gadget Y,7,347.65,32.0,Credit Card,1.3
+ORD2177,17 Sep 2024,South,Books,Gadget Y,11,208.8,58.0,Debit Card,
+ORD1630,18/03/2024,Central,Home & Kitchen,Gizmo Z,6,255.28,38.0,Debit Card,
+ORD1354,20 Nov 2024,CENTRAL,SPORTS,Widget B,1,252.34,38.0,Credit Card,2.6
+ORD2317,29/09/2024,west,HOME & KITCHEN,Device Q,8,358.65,33.0,Debit Card,4.3
+ORD1207,25 Feb 2025,South,BOOKS,Gadget X,13,196.07,49.0,Net Banking,
+ORD1935,25 Nov 2024,East,toys,Widget B,2,60.2,69.0,Net Banking,
+ORD1755,15/11/2024,WEST,Electronics,Device Q,9,,67.0,Debit Card,4.0
+ORD2098,06/11/2024,  Central  ,toys,Accessory M,11,198.75,43.0,Credit Card,
+ORD1416,30 Jan 2025,  East  ,electronics,Widget B,9,173.8,32.0,UPI,2.9
+ORD2448,11/06/2024,  North  ,Clothing,Widget A,8,197.65,58.0,Credit Card,2.7
+ORD2081,2024-04-07,EAST,Sports,Gadget Y,6,423.89,30.0,UPI,1.1
+ORD2821,2025-06-02,South,ELECTRONICS,Widget A,4,330.18,53.0,Net Banking,2.8
+ORD1716,2025-05-18,South,sports,Item N,7,267.66,61.0,Net Banking,3.5
+ORD1442,2024-07-12,WEST,BOOKS,Gadget Y,9,343.34,61.0,Debit Card,2.6
+ORD2116,2024-12-05,WEST,  Home & Kitchen  ,Gizmo Z,14,120.55,22.0,UPI,3.5
+ORD2280,15 Mar 2024,South,HOME & KITCHEN,Widget A,5,262.7,49.0,Cash,3.3
+ORD1536,2024-08-26,West,sports,Widget B,11,312.29,35.0,Net Banking,
+ORD1348,23 Jan 2024,WEST,Clothing,Gadget X,2,173.61,18.0,UPI,4.7
+ORD1674,24/05/2024,east,Clothing,Gadget Y,1,97.94,42.0,Net Banking,3.6
+ORD1403,2024-06-25,West,  Toys  ,Widget B,9,96.29,40.0,Credit Card,1.1
+ORD1362,2025-01-14,North,home & kitchen,Gizmo Z,2,203.12,69.0,Net Banking,1.8
+ORD1026,09-09-2024,Central,Sports,Widget A,2,260.14,65.0,Net Banking,2.2
+ORD2308,17/07/2024,  Central  ,Clothing,Gizmo Z,4,243.66,,Cash,3.8
+ORD2192,2024-11-13,EAST,Home & Kitchen,Accessory M,1,166.85,25.0,Net Banking,1.1
+ORD1177,02-06-2025,West,  Books  ,Item N,9,152.15,50.0,Cash,3.0
+ORD2961,09/10/2024,west,Electronics,Widget B,14,373.59,42.0,Debit Card,3.9
+ORD2429,04-09-2024,CENTRAL,Toys,Widget B,3,216.97,19.0,UPI,2.7
+ORD2923,14/10/2024,North,toys,Widget B,13,173.24,62.0,UPI,3.5
+ORD2225,11/08/2024,West,  Sports  ,Gizmo Z,9,275.49,61.0,Debit Card,2.6
+ORD1252,07 Jan 2025,SOUTH,Home & Kitchen,Widget A,11,221.82,31.0,Cash,3.1
+ORD1414,09/03/2024,NORTH,  Electronics  ,Widget A,2,316.19,35.0,Cash,4.4
+ORD1558,20 Feb 2024,South,Toys,Accessory M,3,214.39,64.0,Debit Card,2.6
+ORD1553,05-24-2024,west,CLOTHING,Widget B,9,146.8,23.0,Credit Card,
+ORD1193,2024-09-10,North,HOME & KITCHEN,Widget B,10,144.07,33.0,UPI,3.6
+ORD2157,02-22-2025,south,Clothing,Item N,7,289.69,63.0,,3.9
+ORD2305,2024-11-04,West,toys,Gizmo Z,1,164.48,58.0,Net Banking,
+ORD2048,12-04-2024,West,TOYS,Device Q,11,236.58,66.0,Debit Card,4.7
+ORD1445,13/06/2024,South,Toys,Item N,11,108.98,61.0,Credit Card,4.2
+ORD2187,11 Nov 2024,Central,ELECTRONICS,Widget A,3,111.68,31.0,Credit Card,4.0
+ORD2344,2024-11-05,NORTH,TOYS,Widget A,14,112.14,50.0,Cash,2.2
+ORD2011,2024-10-15,West,Toys,Widget A,205,313.45,36.0,Net Banking,2.8
+ORD2480,2024-10-08,Central,home & kitchen,Widget B,14,232.28,35.0,Credit Card,
+ORD1451,14/05/2025,east,Electronics,Gadget Y,5,288.11,26.0,Net Banking,4.3
+ORD2967,04 Oct 2024,West,books,Accessory M,11,162.75,58.0,Net Banking,4.1
+ORD1464,06-14-2025,West,Toys,Device Q,2,299.99,28.0,Debit Card,2.3
+ORD1702,21/03/2025,South,home & kitchen,Gizmo Z,12,,63.0,Credit Card,1.9
+ORD1458,08/09/2024,North,Sports,Accessory M,1,295.65,24.0,Credit Card,3.4
+ORD2391,2024-05-01,north,TOYS,Gadget X,8,137.08,47.0,Net Banking,1.2
+ORD1961,27/07/2024,Central,Toys,Device Q,6,151.68,59.0,Cash,1.9
+ORD1838,10 Feb 2025,South,Sports,Device Q,1,135.11,57.0,Net Banking,2.0
+ORD2723,25/04/2025,  East  ,SPORTS,Widget B,13,319.09,49.0,Credit Card,1.3
+ORD1369,2024-10-11,North,Sports,Widget A,3,234.82,18.0,Credit Card,4.4
+ORD1484,2024-05-13,NORTH,Books,Item N,13,209.81,53.0,UPI,1.9
+ORD1903,02-24-2024,  East  ,ELECTRONICS,Widget B,4,74.13,44.0,,3.6
+ORD2602,2024-04-15,Central,Books,Device Q,13,186.57,37.0,UPI,3.2
+ORD1307,14/07/2024,north,ELECTRONICS,Device Q,3,255.75,,UPI,3.1
+ORD1285,02-05-2024,East,Home & Kitchen,Gadget Y,4,264.05,54.0,Cash,4.1
+ORD1637,25/02/2024,East,HOME & KITCHEN,Item N,1,275.52,24.0,Net Banking,2.6
+ORD2368,13 Nov 2024,East,Home & Kitchen,Device Q,4,174.59,49.0,Credit Card,4.7
+ORD2575,2024-05-12,East,sports,Item N,5,198.7,35.0,Net Banking,2.3
+ORD1715,04-27-2024,Central,Sports,Accessory M,7,168.56,31.0,Debit Card,1.9
+ORD2269,21/06/2025,central,Home & Kitchen,Device Q,4,247.71,,Cash,2.3
+ORD1758,2024-09-26,South,Clothing,Accessory M,2,227.5,42.0,Net Banking,1.9
+ORD2008,09/02/2025,Central,  Clothing  ,Gizmo Z,8,197.39,23.0,Credit Card,4.4
+ORD1643,09-13-2024,WEST,Toys,Gadget X,12,330.62,54.0,Debit Card,2.0
+ORD2171,27/11/2024,Central,TOYS,Widget B,14,601.86,65.0,Debit Card,3.8
+ORD1972,2025-03-17,South,Home & Kitchen,Widget B,3,100.5,48.0,UPI,4.9
+ORD1981,02-03-2024,West,TOYS,Gizmo Z,8,82.4,68.0,Debit Card,2.1
+ORD1731,01/01/2024,CENTRAL,sports,Device Q,4,364.2,69.0,Credit Card,
+ORD1658,2024-01-03,east,Clothing,Gizmo Z,11,116.87,29.0,Net Banking,4.5
+ORD2396,11-02-2024,east,Toys,Widget B,3,19.88,26.0,UPI,2.3
+ORD1097,10/02/2025,East,Clothing,Gadget X,6,176.88,24.0,,4.9
+ORD2543,05-03-2025,north,HOME & KITCHEN,Item N,14,199.37,39.0,Credit Card,1.3
+ORD2178,29/01/2025,West,SPORTS,Gadget Y,9,67.97,29.0,Net Banking,2.1
+ORD1829,05-12-2024,Central,SPORTS,Gadget X,6,273.11,18.0,Credit Card,3.7
+ORD1139,2025-01-08,West,Sports,Item N,4,193.3,32.0,UPI,2.6
+ORD2347,2024-08-29,North,toys,Gadget Y,12,141.87,,Cash,1.1
+ORD2038,2024-04-11,WEST,Toys,Gizmo Z,9,209.9,59.0,UPI,4.7
+ORD2718,31/03/2025,SOUTH,Electronics,Widget A,1,230.63,31.0,,4.5
+ORD2436,2024-10-19,East,Home & Kitchen,Device Q,4,135.89,53.0,Debit Card,1.8
+ORD2489,01-12-2024,SOUTH,Home & Kitchen,Widget A,7,82.18,35.0,Net Banking,3.4
+ORD2353,06-14-2024,East,HOME & KITCHEN,Gadget Y,8,109.08,18.0,UPI,3.2
+ORD2196,02-09-2024,NORTH,CLOTHING,Accessory M,11,186.66,53.0,UPI,1.4
+ORD2979,2024-08-16,South,Books,Widget B,11,173.08,52.0,UPI,
+ORD1128,12/08/2024,  East  ,CLOTHING,Item N,8,135.25,25.0,UPI,1.3
+ORD2823,01/04/2024,CENTRAL,Books,Widget B,13,290.89,61.0,Credit Card,1.6
+ORD2860,2024-05-09,East,Electronics,Widget A,1,153.35,42.0,Cash,1.5
+ORD1788,2024-08-18,Central,  Clothing  ,Widget B,11,78.94,22.0,UPI,3.8
+ORD2377,2024-07-26,East,  Toys  ,Widget A,13,298.4,36.0,,2.5
+ORD1522,2025-04-05,central,books,Item N,11,368.37,47.0,Credit Card,3.7
+ORD1264,09 Sep 2024,North,Electronics,Accessory M,3,87.48,20.0,Net Banking,4.6
+ORD2674,2025-02-28,  North  ,toys,Accessory M,10,99.8,22.0,Credit Card,
+ORD1947,2025-01-30,  North  ,Home & Kitchen,Gadget Y,5,153.27,41.0,Cash,2.5
+ORD2611,2024-04-17,  South  ,Books,Device Q,3,162.67,64.0,Debit Card,3.0
+ORD1663,2024-01-15,east,  Clothing  ,Widget A,8,200.57,,Credit Card,3.8
+ORD1631,13/03/2024,South,toys,Widget A,2,146.17,30.0,Credit Card,4.1
+ORD1498,31/10/2024,East,Electronics,Item N,8,281.99,38.0,Credit Card,
+ORD2667,14 Oct 2024,North,home & kitchen,Widget B,8,122.57,62.0,Debit Card,2.8
+ORD2343,07/04/2025,North,ELECTRONICS,Device Q,1,135.6,40.0,UPI,3.0
+ORD2681,07 Mar 2024,  North  ,electronics,Gadget X,4,110.19,46.0,UPI,4.2
+ORD2960,11/03/2025,south,HOME & KITCHEN,Widget A,14,361.08,29.0,Debit Card,2.7
+ORD1432,09/01/2024,WEST,Clothing,Gizmo Z,8,208.57,65.0,Net Banking,1.3
+ORD2173,04/06/2025,west,sports,Gadget Y,1,-206.8,66.0,Debit Card,3.1
+ORD2408,2025-02-07,central,Books,Gadget Y,2,225.54,22.0,UPI,1.5
+ORD1068,02-22-2024,West,Home & Kitchen,Accessory M,10,126.71,,Credit Card,2.5
+ORD1953,05-14-2025,east,Toys,Accessory M,9,90.46,38.0,Cash,1.3
+ORD1688,01-03-2025,CENTRAL,Clothing,Gadget Y,14,170.95,34.0,Cash,3.9
+ORD2660,2024-06-15,  Central  ,electronics,Gizmo Z,5,138.42,27.0,Cash,4.9
+ORD1848,07-20-2024,EAST,Clothing,Accessory M,13,228.01,,Cash,3.0
+ORD1573,23 Aug 2024,North,Home & Kitchen,Item N,12,105.91,42.0,,2.7
+ORD1334,11/10/2024,central,Electronics,Gadget X,12,176.05,54.0,Cash,4.3
+ORD1338,2024-04-03,east,TOYS,Item N,7,159.67,45.0,Credit Card,1.8
+ORD2124,19/10/2024,South,Books,Accessory M,6,,21.0,Debit Card,3.4
+ORD1664,10/07/2024,Central,Electronics,Gadget X,-8,295.33,35.0,Debit Card,2.1
+ORD1383,2025-02-16,South,CLOTHING,Device Q,11,202.8,49.0,Cash,2.4
+ORD1367,16/06/2024,South,ELECTRONICS,Item N,12,186.96,36.0,UPI,2.0
+ORD1055,24/01/2025,East,electronics,Accessory M,12,171.01,67.0,UPI,4.2
+ORD2896,05-05-2025,East,electronics,Gadget X,14,143.02,52.0,UPI,1.4
+ORD1810,2025-02-14,North,Electronics,Accessory M,4,250.7,20.0,Debit Card,1.2
+ORD1720,26 Jan 2024,Central,Electronics,Item N,2,190.12,65.0,Credit Card,1.2
+ORD2555,12-09-2024,north,Clothing,Widget B,9,134.29,64.0,Cash,4.0
+ORD1737,10/01/2024,Central,sports,Accessory M,7,185.42,44.0,Net Banking,2.6
+ORD2704,29 May 2025,NORTH,home & kitchen,Gadget X,7,124.9,55.0,UPI,2.5
+ORD1170,05-23-2024,west,Toys,Widget A,1,119.43,56.0,Cash,2.6
+ORD1173,2024-07-05,  North  ,Toys,Gadget Y,13,114.61,49.0,Debit Card,
+ORD1976,25/05/2024,East,Books,Gizmo Z,5,249.46,35.0,Net Banking,3.3
+ORD1326,28/09/2024,south,CLOTHING,Device Q,1,192.21,51.0,Debit Card,3.9
+ORD1503,07/01/2025,central,TOYS,Widget B,3,171.95,65.0,Cash,4.4
+ORD2020,06-02-2024,SOUTH,Sports,Accessory M,1,360.51,41.0,Net Banking,4.4
+ORD1409,2025-03-30,East,CLOTHING,Widget B,11,93.34,56.0,Debit Card,2.4
+ORD1915,2025-03-18,,Books,Device Q,7,114.22,66.0,Debit Card,3.4
+ORD1297,2024-05-29,east,toys,Gizmo Z,3,109.4,36.0,UPI,3.8
+ORD1901,09/08/2024,NORTH,sports,Widget B,7,,53.0,,1.7
+ORD2025,17/01/2024,East,Home & Kitchen,Widget A,9,173.83,19.0,Credit Card,2.3
+ORD2822,06-03-2024,Central,Electronics,Gizmo Z,7,327.85,60.0,Net Banking,3.3
+ORD1857,19/04/2025,Central,Electronics,Device Q,3,131.69,18.0,Debit Card,1.2
+ORD1728,06-15-2025,central,  Sports  ,Gizmo Z,13,84.31,21.0,Net Banking,2.0
+ORD1957,06/06/2024,North,electronics,Gadget Y,302,170.28,26.0,Debit Card,1.0
+ORD1671,2025-04-18,south,HOME & KITCHEN,Device Q,11,146.69,51.0,Net Banking,3.6
+ORD1648,09/06/2025,Central,Electronics,Gizmo Z,5,300.51,36.0,Cash,1.7
+ORD2728,2024-06-28,CENTRAL,Books,Gadget X,14,243.12,120.0,Credit Card,4.0
+ORD2706,24/08/2024,WEST,Books,Gadget Y,11,396.69,18.0,,1.5
+ORD2562,31/10/2024,Central,Electronics,Gadget X,7,223.87,23.0,Debit Card,4.3
+ORD2995,2024-10-28,North,Toys,Gadget X,14,113.62,41.0,Debit Card,4.0
+ORD2772,26 Apr 2024,Central,Clothing,Widget A,6,208.33,57.0,UPI,4.6
+ORD1734,05-18-2024,,toys,Gadget Y,9,282.1,48.0,Cash,1.9
+ORD1531,28 Apr 2024,WEST,Electronics,Gizmo Z,6,220.83,24.0,Credit Card,1.3
+ORD1407,16 Mar 2024,West,Toys,Widget A,1,,68.0,Cash,2.6
+ORD1199,08/04/2024,South,Electronics,Widget A,2,112.16,23.0,UPI,2.6
+ORD1473,2024-12-26,NORTH,electronics,Device Q,10,315.91,57.0,Debit Card,4.2
+ORD2232,08-10-2024,South,Clothing,Gadget Y,7,316.01,69.0,Net Banking,
+ORD2170,13/07/2024,  West  ,Clothing,Gadget Y,13,298.02,34.0,Credit Card,4.2
+ORD1748,2024-08-23,North,Clothing,Gadget X,1,139.65,61.0,Cash,4.5
+ORD1765,11/05/2024,East,books,Accessory M,12,166.04,23.0,Net Banking,1.1
+ORD1216,03/12/2024,Central,SPORTS,Gadget X,10,204.2,56.0,Debit Card,3.1
+ORD1253,01/06/2025,South,Sports,Device Q,5,221.37,66.0,Cash,3.8
+ORD1152,01-02-2024,CENTRAL,books,Gizmo Z,11,272.08,,Net Banking,4.7
+ORD2558,03-16-2024,SOUTH,clothing,Device Q,2,232.26,48.0,Debit Card,4.3
+ORD2571,29 Mar 2025,SOUTH,clothing,Accessory M,5,108.43,42.0,,4.4
+ORD1948,15/06/2025,Central,home & kitchen,Widget B,9,194.05,19.0,Debit Card,3.6
+ORD2271,05/03/2025,East,Clothing,Gizmo Z,2,129.73,21.0,Debit Card,4.5
+ORD2789,2025-04-11,South,  Books  ,Gadget Y,3,62.95,27.0,UPI,1.4
+ORD2926,06 Jun 2025,East,Toys,Device Q,4,242.33,45.0,Credit Card,4.2
+ORD1735,2025-05-25,EAST,Clothing,Device Q,3,182.32,19.0,Debit Card,
+ORD2635,02/06/2024,North,Sports,Gizmo Z,9,159.43,40.0,Credit Card,2.6
+ORD2834,2024-01-13,  North  ,Electronics,Accessory M,6,222.54,26.0,Credit Card,3.2
+ORD1530,05/01/2024,Central,SPORTS,Widget A,2,139.22,43.0,Credit Card,2.7
+ORD2156,2025-05-04,Central,Sports,Accessory M,14,110.57,27.0,Credit Card,4.6
+ORD2268,04-03-2025,East,clothing,Gadget Y,1,132.22,45.0,Credit Card,2.9
+ORD1240,04-25-2025,CENTRAL,  Books  ,Item N,12,239.87,38.0,UPI,4.7
+ORD2138,08-13-2024,NORTH,Home & Kitchen,Gadget X,3,108.96,45.0,Net Banking,2.6
+ORD2513,12-06-2024,Central,ELECTRONICS,Widget B,13,225.32,65.0,Cash,2.4
+ORD1187,10-24-2024,  East  ,Home & Kitchen,Gadget Y,10,164.87,35.0,UPI,
+ORD1246,17/01/2024,WEST,Books,Gadget Y,6,,68.0,Net Banking,1.4
+ORD2953,22/08/2024,  South  ,ELECTRONICS,Gadget X,1,134.66,34.0,Credit Card,2.7
+ORD2409,05-30-2025,east,Clothing,Widget B,7,55.86,52.0,Cash,1.7
+ORD2729,10 Feb 2025,North,Home & Kitchen,Gizmo Z,1,294.87,30.0,Credit Card,
+ORD1730,2024-05-19,West,books,Gadget X,9,75.67,27.0,UPI,4.2
+ORD1692,15 Nov 2024,SOUTH,Electronics,Device Q,5,389.46,30.0,Credit Card,2.4
+ORD1302,2025-03-19,West,ELECTRONICS,Gadget Y,13,201.58,47.0,Credit Card,1.9
+ORD1283,08 Jun 2025,west,CLOTHING,Device Q,5,239.13,61.0,Credit Card,3.6
+ORD2966,05 Apr 2025,CENTRAL,HOME & KITCHEN,Item N,1,253.06,65.0,Debit Card,4.8
+ORD1505,04-15-2025,North,BOOKS,Widget A,5,258.12,55.0,Credit Card,3.3
+ORD2955,17 Jun 2025,East,books,Accessory M,13,210.03,46.0,UPI,4.7
+ORD1321,27 May 2025,South,Books,Device Q,4,230.15,53.0,UPI,4.1
+ORD2494,07/09/2024,south,BOOKS,Gadget X,6,206.94,41.0,Cash,1.7
+ORD2276,03 May 2025,Central,Electronics,Item N,7,89.5,52.0,UPI,4.9
+ORD2854,10/07/2024,Central,HOME & KITCHEN,Widget A,10,171.4,69.0,UPI,4.9
+ORD1621,05/01/2024,south,Electronics,Widget A,3,68.49,51.0,UPI,1.8
+ORD2127,2024-12-09,west,HOME & KITCHEN,Gadget Y,14,70.47,48.0,Debit Card,3.9
+ORD2056,2024-09-24,central,  Sports  ,Widget A,11,318.1,38.0,Cash,4.5
+ORD1122,2024-11-26,NORTH,Books,Device Q,3,184.02,44.0,Cash,2.0
+ORD1840,11/12/2024,west,Clothing,Device Q,14,118.27,33.0,Credit Card,
+ORD1510,07/01/2025,central,  Electronics  ,Widget B,1,221.02,38.0,Net Banking,3.7
+ORD1280,04-21-2025,  Central  ,sports,Gizmo Z,5,118.92,42.0,Net Banking,2.1
+ORD2684,15 Sep 2024,Central,HOME & KITCHEN,Gadget Y,4,384.96,,Net Banking,1.4
+ORD2260,11/10/2024,CENTRAL,Home & Kitchen,Device Q,10,377.39,40.0,,3.2
+ORD2670,18/12/2024,  North  ,toys,Gadget Y,5,191.25,32.0,Net Banking,3.8
+ORD2309,21/01/2025,south,Books,Gizmo Z,1,236.23,,Debit Card,4.3
+ORD2046,13 Nov 2024,Central,SPORTS,Gizmo Z,4,223.46,22.0,Debit Card,4.4
+ORD2527,04-23-2024,,Electronics,Widget B,1,247.13,,UPI,1.7
+ORD1756,14 Dec 2024,West,Toys,Accessory M,2,264.92,19.0,UPI,4.6
+ORD1677,25 Jan 2024,WEST,Home & Kitchen,Accessory M,14,359.52,47.0,Credit Card,4.7
+ORD1518,10 Feb 2024,Central,ELECTRONICS,Device Q,5,265.46,56.0,UPI,4.1
+ORD2805,2025-05-08,EAST,Books,Gadget Y,6,31.17,59.0,UPI,3.4
+ORD2528,24 May 2024,North,Home & Kitchen,Gizmo Z,8,,48.0,UPI,4.0
+ORD1067,03/12/2024,North,CLOTHING,Widget B,5,155.51,62.0,UPI,
+ORD1332,10 Mar 2025,North,Sports,Device Q,2,227.4,51.0,Net Banking,4.8
+ORD1568,13/03/2025,central,Books,Gadget X,10,124.61,45.0,Credit Card,3.0
+ORD1882,02 Aug 2024,EAST,ELECTRONICS,Gizmo Z,5,126.72,49.0,Cash,2.8
+ORD2999,13/01/2024,SOUTH,Electronics,Item N,14,13.82,50.0,UPI,4.9
+ORD2449,16 Aug 2024,NORTH,home & kitchen,Item N,2,173.57,24.0,UPI,1.4
+ORD2117,23/01/2025,CENTRAL,electronics,Widget B,11,90.71,,Net Banking,1.3
+ORD1472,31 Mar 2025,North,Sports,Widget B,14,,47.0,Debit Card,3.5
+ORD2592,19 Nov 2024,  East  ,Books,Accessory M,10,143.9,37.0,Net Banking,3.0
+ORD1511,08 Jan 2024,North,Books,Widget A,7,58.95,,Debit Card,2.7
+ORD1477,2024-07-08,Central,  Books  ,Device Q,10,,46.0,Debit Card,2.7
+ORD2796,2024-02-25,Central,Electronics,Widget B,14,280.0,56.0,Cash,
+ORD2417,2025-05-26,north,BOOKS,Gadget Y,9,102.38,69.0,Credit Card,4.6
+ORD1318,2024-05-06,SOUTH,Sports,Widget B,3,127.6,50.0,Debit Card,1.7
+ORD1975,15/03/2024,south,ELECTRONICS,Widget A,7,170.56,35.0,Cash,4.7
+ORD2741,2025-05-04,North,Sports,Accessory M,3,251.62,68.0,Credit Card,2.6
+ORD2866,10/10/2024,East,CLOTHING,Widget A,3,115.74,51.0,Cash,2.3
+ORD1581,2024-04-12,East,CLOTHING,Widget B,12,174.81,21.0,Debit Card,4.4
+ORD1132,15/09/2024,North,  Sports  ,Gizmo Z,5,62.19,69.0,Net Banking,1.8
+ORD2747,2024-08-03,NORTH,books,Widget A,2,183.02,41.0,Credit Card,1.1
+ORD1863,01-25-2024,North,TOYS,Item N,14,215.8,65.0,Net Banking,2.6
+ORD2433,2024-11-29,North,SPORTS,Accessory M,8,384.69,18.0,Cash,4.8
+ORD2238,03-30-2025,Central,Toys,Device Q,13,123.12,27.0,Cash,1.5
+ORD2976,01 Jan 2025,CENTRAL,  Electronics  ,Widget B,5,202.5,41.0,Cash,4.0
+ORD1368,12 Feb 2024,East,Clothing,Gizmo Z,7,196.99,66.0,Cash,4.7
+ORD1732,03-30-2024,,  Books  ,Gadget X,14,186.62,46.0,Credit Card,3.4
+ORD2379,09/11/2024,North,  Clothing  ,Widget A,6,91.5,51.0,UPI,2.5
+ORD1125,2025-04-17,West,  Home & Kitchen  ,Item N,3,66.87,46.0,UPI,3.2
+ORD1442,2024-07-12,WEST,BOOKS,Gadget Y,9,343.34,61.0,Debit Card,2.6
+ORD2201,26 May 2024,west,toys,Widget B,7,135.94,58.0,Net Banking,4.6
+ORD1256,2024-10-06,,CLOTHING,Widget B,1,80.95,44.0,Net Banking,3.7
+ORD2993,10/01/2024,west,books,Gadget X,1,119.19,60.0,Net Banking,1.5
+ORD2125,07/03/2025,east,clothing,Gadget Y,11,133.1,25.0,Cash,1.8
+ORD1289,03/02/2025,EAST,electronics,Item N,2,112.36,41.0,Net Banking,2.3
+ORD2298,06-07-2025,West,Sports,Widget B,5,8455.08712217097,32.0,Debit Card,3.9
+ORD1777,2025-05-17,  North  ,Sports,Widget A,7,356.44,25.0,Credit Card,1.1
+ORD1081,03 Mar 2024,West,HOME & KITCHEN,Accessory M,1,116.19,36.0,UPI,2.8
+ORD1053,2025-01-22,CENTRAL,Books,Widget B,13,204.66,18.0,Credit Card,2.8
+ORD1927,2024-04-29,South,Clothing,Gadget Y,13,198.1,39.0,Credit Card,2.8
+ORD2095,2025-03-01,SOUTH,SPORTS,Gizmo Z,9,133.79,30.0,Cash,2.0
+ORD1557,01/01/2024,West,Books,Widget A,12,61.26,65.0,Credit Card,
+ORD1040,11-11-2024,West,ELECTRONICS,Widget B,5,107.07,61.0,UPI,4.7
+ORD2241,15/02/2025,East,clothing,Item N,2,230.58,19.0,UPI,4.4
+ORD1261,2024-04-08,East,ELECTRONICS,Widget A,14,205.33,51.0,UPI,2.5
+ORD2584,2025-03-02,South,electronics,Widget B,1,102.97,32.0,Debit Card,2.7
+ORD1930,14/05/2025,east,TOYS,Device Q,4,107.01,68.0,Cash,3.8
+ORD1083,2025-05-13,south,Books,Gadget X,2,194.94,48.0,UPI,2.4
+ORD2699,07-26-2024,  South  ,Home & Kitchen,Gizmo Z,13,333.2,28.0,Debit Card,4.0
+ORD2229,20/08/2024,north,Books,Gizmo Z,6,195.46,32.0,Debit Card,2.2
+ORD2573,2024-06-02,  South  ,toys,Device Q,3,344.74,46.0,Debit Card,2.5
+ORD1841,02-23-2025,WEST,Clothing,Widget B,4,149.08,46.0,UPI,4.7
+ORD1030,2025-04-20,WEST,  Electronics  ,Accessory M,14,290.6,27.0,Cash,4.3
+ORD1513,2024-12-13,North,sports,Accessory M,14,218.2,64.0,Debit Card,2.7
+ORD2015,05/05/2025,NORTH,books,Gadget X,10,180.77,52.0,Cash,3.5
+ORD2312,12 Jan 2025,NORTH,Home & Kitchen,Item N,14,348.79,24.0,UPI,3.5
+ORD2697,10-29-2024,East,Home & Kitchen,Gizmo Z,4,336.59,54.0,Debit Card,4.0
+ORD2988,13 Apr 2024,South,CLOTHING,Accessory M,12,285.21,19.0,Debit Card,2.4
+ORD2236,2025-04-11,Central,Toys,Widget A,6,396.19,18.0,Debit Card,3.8
+ORD2320,2025-05-15,North,Books,Gizmo Z,9,406.05,20.0,UPI,2.2
+ORD2826,24/05/2025,North,HOME & KITCHEN,Device Q,2,242.36,27.0,Cash,2.8
+ORD2606,2024-12-10,East,Electronics,Accessory M,1,133.49,67.0,Credit Card,3.3
+ORD2263,04/04/2025,West,CLOTHING,Item N,1,298.49,19.0,Net Banking,2.7
+ORD2858,28 Feb 2025,SOUTH,SPORTS,Widget B,12,208.48,29.0,UPI,2.3
+ORD2898,09-17-2024,  West  ,Clothing,Device Q,5,,32.0,Net Banking,1.2
+ORD1048,03-03-2025,North,Books,Widget A,11,,53.0,Net Banking,3.1
+ORD2206,28/12/2024,  East  ,books,Device Q,4,74.62,,UPI,4.2
+ORD2989,2025-04-27,East,  Clothing  ,Accessory M,14,196.04,32.0,Cash,3.1
+ORD1467,26/03/2025,East,Toys,Device Q,9,135.25,43.0,UPI,2.1
+ORD1153,2024-08-07,South,electronics,Widget B,6,193.5,68.0,Net Banking,
+ORD2589,05-03-2024,NORTH,Electronics,Gizmo Z,2,380.13,33.0,UPI,3.2
+ORD2899,15 Dec 2024,South,  Home & Kitchen  ,Widget B,12,150.97,24.0,UPI,5.0
+ORD1394,2025-01-03,NORTH,Home & Kitchen,Device Q,13,215.78,18.0,Debit Card,2.0
+ORD1123,05-20-2025,West,Electronics,Widget A,14,133.46,41.0,Debit Card,1.9
+ORD1355,30/05/2025,east,Home & Kitchen,Gizmo Z,5,197.34,38.0,Debit Card,1.2
+ORD1134,31 Mar 2025,West,home & kitchen,Widget B,10,125.15,,Cash,4.5
+ORD1268,2024-05-07,West,Home & Kitchen,Gizmo Z,7,345.18,19.0,UPI,2.9
+ORD1385,23/02/2025,EAST,Clothing,Accessory M,10,101.43,21.0,Cash,3.4
+ORD1609,01/07/2024,East,clothing,Accessory M,7,275.97,30.0,Credit Card,4.1
+ORD1220,03 Oct 2024,Central,Electronics,Gadget X,7,195.66,67.0,UPI,4.9
+ORD1041,14 Jan 2024,West,Home & Kitchen,Gadget X,11,80.3,67.0,Net Banking,1.1
+ORD1219,01 Feb 2025,East,BOOKS,Widget B,6,194.82,,Debit Card,2.3
+ORD1597,17/05/2024,Central,Books,Accessory M,11,111.13,40.0,Debit Card,2.3
+ORD2273,2025-05-30,CENTRAL,Toys,Device Q,14,271.5,23.0,Cash,1.4
+ORD2302,22/06/2025,west,ELECTRONICS,Gadget Y,7,168.96,51.0,Credit Card,2.0
+ORD1680,08-20-2024,Central,Toys,Widget A,10,74.96,66.0,Cash,2.5
+ORD2134,10-28-2024,NORTH,ELECTRONICS,Device Q,6,184.16,50.0,Credit Card,
+ORD2932,05-03-2024,Central,Electronics,Item N,10,122.69,25.0,Debit Card,1.1
+ORD1875,27 May 2024,,Electronics,Device Q,1,344.81,56.0,Credit Card,3.5
+ORD1541,05 Apr 2025,Central,electronics,Device Q,8,87.71,27.0,UPI,1.6
+ORD2064,2024-09-06,West,Electronics,Widget A,6,141.81,45.0,Cash,2.3
+ORD1869,03-03-2024,  South  ,books,Gizmo Z,3,335.31,49.0,Net Banking,1.2
+ORD2878,27/03/2024,South,electronics,Accessory M,2,182.2,60.0,Debit Card,3.9
+ORD2906,02/12/2024,  East  ,sports,Accessory M,11,214.38,39.0,Cash,4.7
+ORD2121,01-10-2025,North,Sports,Accessory M,10,142.0,66.0,,3.2
+ORD2587,01/12/2024,East,electronics,Widget B,4,5675.76283270797,39.0,Net Banking,1.6
+ORD2307,2024-01-27,central,BOOKS,Widget A,8,241.63,21.0,Cash,2.5
+ORD2146,2024-08-13,  Central  ,Books,Gadget Y,2,258.07,68.0,Debit Card,2.5
+ORD2106,2024-01-29,South,ELECTRONICS,Widget B,1,246.53,66.0,UPI,2.5
+ORD2598,06-22-2025,Central,Sports,Item N,13,215.34,43.0,Debit Card,1.6
+ORD2847,2025-05-24,West,  Electronics  ,Gizmo Z,1,110.28,35.0,Debit Card,4.9
+ORD2810,10/04/2024,South,Clothing,Device Q,8,203.14,,Credit Card,2.9
+ORD2403,25/07/2024,WEST,Toys,Item N,12,292.72,58.0,Cash,1.1
+ORD2846,01 Jul 2024,SOUTH,Clothing,Gadget Y,9,124.03,67.0,UPI,
+ORD2886,10-03-2024,south,Sports,Widget B,3,109.27,54.0,Debit Card,2.2
+ORD2619,2024-03-24,SOUTH,clothing,Widget A,9,201.65,19.0,Credit Card,4.4
+ORD2376,24/03/2024,west,Home & Kitchen,Gizmo Z,9,85.92,50.0,Credit Card,4.7
+ORD1336,09 Mar 2024,east,Sports,Accessory M,13,258.85,29.0,Cash,4.2
+ORD1232,2024-08-17,WEST,  Sports  ,Gizmo Z,12,235.73,48.0,UPI,3.4
+ORD2922,2024-12-16,central,HOME & KITCHEN,Gadget Y,11,193.93,32.0,Debit Card,1.7
+ORD2942,2025-05-11,central,ELECTRONICS,Widget A,13,77.56,45.0,Credit Card,3.0
+ORD1158,22 Feb 2024,  South  ,books,Gizmo Z,2,144.08,,UPI,2.6
+ORD1468,06-21-2024,west,ELECTRONICS,Gadget Y,14,127.38,21.0,Debit Card,2.6
+ORD2340,28/03/2024,North,TOYS,Accessory M,8,8648.095499855675,40.0,Debit Card,4.4
+ORD1872,18/02/2024,west,Clothing,Device Q,10,129.51,24.0,Debit Card,4.3
+ORD2640,06-15-2024,East,Books,Gadget Y,12,140.0,50.0,Cash,
+ORD2047,2024-08-03,East,Electronics,Gadget Y,6,237.71,42.0,Debit Card,1.8
+ORD2814,23/02/2025,WEST,Clothing,Item N,8,384.4,36.0,Cash,1.2
+ORD2419,2025-02-21,CENTRAL,TOYS,Accessory M,8,231.18,23.0,Cash,3.6
+ORD1585,30 Nov 2024,West,Toys,Widget B,9,79.02,51.0,Credit Card,1.8
+ORD1205,2024-04-29,West,Sports,Widget A,8,221.57,,Credit Card,1.2
+ORD1003,16 Apr 2024,south,Sports,Widget B,12,106.53,46.0,Debit Card,4.4
+ORD1905,2024-06-10,North,sports,Gadget X,6,169.25,39.0,Cash,4.3
+ORD2838,31 Jul 2024,NORTH,  Toys  ,Gadget X,9,130.34,21.0,Net Banking,5.0
+ORD2183,09-07-2024,NORTH,home & kitchen,Accessory M,12,104.0,42.0,Credit Card,3.4
+ORD2869,2024-06-21,North,Books,Widget B,4,81.26,63.0,Cash,4.8
+ORD2737,07 Dec 2024,South,Clothing,Widget B,4,135.05,45.0,Debit Card,
+ORD2082,10 May 2024,central,TOYS,Item N,12,211.2,33.0,,3.8
+ORD1693,2025-03-18,Central,  Home & Kitchen  ,Gadget Y,2,134.64,44.0,Debit Card,3.0
+ORD2695,04-21-2025,East,electronics,Item N,10,235.32,59.0,Cash,3.1
+ORD2675,2025-05-31,Central,Home & Kitchen,Item N,7,61.98,49.0,Credit Card,1.8
+ORD1714,2024-01-04,East,toys,Widget A,7,105.9,30.0,UPI,4.7
+ORD1970,2025-05-08,Central,home & kitchen,Item N,7,178.67,53.0,Debit Card,3.6
+ORD2150,31/05/2025,North,Home & Kitchen,Gadget Y,1,52.37,24.0,Debit Card,4.1
+ORD2960,11/03/2025,south,HOME & KITCHEN,Widget A,14,361.08,29.0,Debit Card,2.7
+ORD1883,2025-03-10,north,Sports,Gadget Y,10,208.47,60.0,Cash,1.1
+ORD2676,03/03/2025,SOUTH,Clothing,Item N,2,169.97,23.0,Net Banking,4.5
+ORD2074,18 Mar 2025,North,Home & Kitchen,Widget A,2,194.62,50.0,Credit Card,3.5
+ORD2128,05-19-2024,NORTH,electronics,Device Q,2,212.99,54.0,Credit Card,3.9
+ORD2600,10-17-2024,SOUTH,books,Gadget Y,13,223.91,19.0,Net Banking,4.0
+ORD2287,2025-03-15,Central,Books,Gadget Y,2,219.79,44.0,Debit Card,2.2
+ORD1157,05-09-2024,Central,Home & Kitchen,Widget B,3,240.88,47.0,UPI,
+ORD2070,21 Apr 2025,EAST,Home & Kitchen,Item N,3,169.29,39.0,Credit Card,3.4
+ORD1523,09/09/2024,  Central  ,CLOTHING,Accessory M,10,150.16,35.0,Net Banking,1.1
+ORD1462,15/06/2024,west,Books,Device Q,6,136.75,49.0,Credit Card,1.1
+ORD1652,08-03-2024,East,Books,Gadget X,10,195.51,69.0,UPI,3.0
+ORD1160,03/09/2024,South,sports,Widget B,9,168.57,23.0,Credit Card,3.0
+ORD1305,01-05-2024,West,Home & Kitchen,Gadget Y,9,180.2,,UPI,4.2
+ORD1656,11-07-2024,SOUTH,Electronics,Gizmo Z,10,226.57,47.0,Debit Card,4.9
+ORD1547,2025-06-01,WEST,CLOTHING,Gizmo Z,14,336.83,65.0,Cash,1.8
+ORD1713,03-15-2024,CENTRAL,Home & Kitchen,Gizmo Z,3,86.74,57.0,Credit Card,4.8
+ORD1395,08/06/2025,East,clothing,Accessory M,2,123.09,33.0,Net Banking,1.8
+ORD1783,03-23-2025,North,sports,Gadget X,6,185.68,22.0,Credit Card,4.3
+ORD1399,2024-03-02,east,ELECTRONICS,Accessory M,1,217.32,,Net Banking,4.1
+ORD1798,05-31-2025,South,Books,Widget A,8,360.87,67.0,Debit Card,3.0
+ORD1618,2024-03-01,  West  ,clothing,Item N,1,207.7,21.0,Credit Card,1.2
+ORD2563,11/05/2025,West,Books,Device Q,9,161.39,43.0,UPI,4.1
+ORD1508,2024-12-23,  North  ,Home & Kitchen,Item N,11,234.21,65.0,Credit Card,3.9
+ORD2390,2024-08-30,central,Sports,Device Q,3,203.46,43.0,Net Banking,3.6
+ORD1736,15/09/2024,EAST,books,Gadget Y,7,229.48,29.0,UPI,2.8
+ORD2327,30 Sep 2024,north,Home & Kitchen,Device Q,2,299.83,42.0,Debit Card,4.0
+ORD2698,06/11/2024,south,Clothing,Widget B,1,,58.0,UPI,
+ORD2005,11-05-2024,North,Home & Kitchen,Device Q,3,127.52,63.0,Credit Card,1.2
+ORD1867,2024-06-25,WEST,Sports,Widget A,1,316.99,20.0,Debit Card,4.8
+ORD1459,18/02/2025,CENTRAL,clothing,Widget A,7,169.23,20.0,Debit Card,2.8
+ORD1971,2024-01-04,central,Sports,Gizmo Z,6,188.35,43.0,Cash,1.7
+ORD1062,2024-09-27,North,home & kitchen,Device Q,7,215.19,43.0,Credit Card,4.9
+ORD2855,17/01/2024,East,  Home & Kitchen  ,Widget B,11,362.32,48.0,Net Banking,
+ORD1871,13/04/2025,West,sports,Gadget X,12,,19.0,Debit Card,2.4
+ORD1993,2024-05-09,WEST,  Toys  ,Gizmo Z,8,209.69,53.0,UPI,3.5
+ORD2605,30 Mar 2024,South,Toys,Accessory M,2,185.17,37.0,Credit Card,
+ORD1457,10/03/2024,  West  ,sports,Accessory M,7,119.45,,UPI,2.0
+ORD2908,2024-12-25,Central,Home & Kitchen,Widget B,8,174.67,39.0,Credit Card,
+ORD1478,19/05/2025,West,ELECTRONICS,Item N,1,135.88,21.0,Debit Card,
+ORD2075,04/05/2025,SOUTH,Toys,Widget A,2,99.77,24.0,Net Banking,4.9
+ORD2688,27/07/2024,Central,Electronics,Accessory M,2,67.52,25.0,Debit Card,2.4
+ORD1870,04/06/2024,South,Clothing,Gizmo Z,11,406.71,40.0,UPI,1.6
+ORD1790,05/06/2024,south,BOOKS,Accessory M,11,179.63,32.0,Credit Card,3.8
+ORD1617,02 Apr 2024,north,Home & Kitchen,Accessory M,14,103.4,37.0,Net Banking,1.7
+ORD2883,2025-04-27,CENTRAL,CLOTHING,Accessory M,8,61.35,48.0,Cash,3.9
+ORD2980,04-20-2024,East,sports,Item N,1,284.65,40.0,Credit Card,2.4
+ORD2904,02/01/2025,  South  ,Electronics,Widget B,5,274.97,34.0,Net Banking,2.8
+ORD2162,06-08-2024,East,Electronics,Gadget Y,5,105.24,47.0,Debit Card,2.9
+ORD2647,2024-08-13,North,home & kitchen,Widget A,5,174.84,62.0,UPI,1.1
+ORD1347,12-22-2024,,CLOTHING,Accessory M,7,180.46,59.0,Debit Card,3.3
+ORD2033,2024-08-16,west,Books,Gadget X,286,370.99,18.0,UPI,4.6
+ORD2215,18 Jun 2025,East,Electronics,Item N,5,102.34,62.0,Cash,3.3
+ORD2790,13/10/2024,Central,ELECTRONICS,Gadget Y,10,260.63,66.0,Credit Card,4.1
+ORD1760,2024-06-13,  East  ,clothing,Widget A,6,294.1,68.0,Cash,3.7
+ORD1954,2025-05-20,WEST,toys,Widget B,13,,27.0,Net Banking,5.0
+ORD1446,25 Feb 2025,NORTH,Books,Device Q,4,1612.7833811823618,50.0,Net Banking,
+ORD1650,28 Jan 2024,CENTRAL,Clothing,Widget A,11,198.58,36.0,Net Banking,2.0
+ORD2313,2025-06-10,  East  ,Clothing,Widget B,8,262.8,39.0,Net Banking,1.2
+ORD2901,06-03-2025,East,BOOKS,Device Q,11,126.43,62.0,Debit Card,1.3
+ORD1379,14/07/2024,EAST,Sports,Accessory M,5,316.73,67.0,UPI,1.1
+ORD1564,04/04/2024,South,home & kitchen,Gadget X,11,102.96,30.0,Debit Card,4.0
+ORD2352,12/07/2024,South,Clothing,Widget A,1,399.98,,Debit Card,3.4
+ORD2764,04/04/2024,West,Toys,Widget A,5,81.22,68.0,Debit Card,4.3
+ORD2634,2024-02-18,CENTRAL,SPORTS,Accessory M,11,143.11,31.0,Net Banking,3.4
+ORD1956,10-06-2024,West,SPORTS,Gizmo Z,5,127.51,62.0,UPI,1.6
+ORD2946,2025-01-31,north,  Home & Kitchen  ,Widget B,2,156.01,31.0,,2.5
+ORD2624,2024-12-27,EAST,toys,Item N,9,372.11,55.0,Net Banking,3.6
+ORD1920,20/02/2024,south,Clothing,Widget A,14,,35.0,Credit Card,2.6
+ORD1231,07 Feb 2024,South,Electronics,Item N,4,119.59,46.0,Cash,1.7
+ORD2228,22 Apr 2024,EAST,Books,Accessory M,8,75.28,,UPI,1.4
+ORD1382,15 Mar 2024,North,Sports,Gadget Y,9,,56.0,UPI,4.5
+ORD2279,05/06/2024,East,Clothing,Widget A,4,139.38,27.0,Credit Card,1.1
+ORD2423,2024-09-02,West,Sports,Gizmo Z,320,309.33,64.0,UPI,5.0
+ORD1072,07/05/2025,West,Clothing,Gadget Y,1,323.39,32.0,Cash,3.2
+ORD1070,06 Jul 2024,North,CLOTHING,Widget B,5,95.68,65.0,UPI,
+ORD2350,2024-04-25,North,Sports,Widget B,13,171.46,24.0,,2.7
+ORD2839,2024-12-03,East,Toys,Widget A,2,54.01,25.0,Cash,
+ORD1171,19 Jul 2024,North,Sports,Gizmo Z,11,,47.0,Credit Card,2.4
+ORD2090,14/12/2024,West,toys,Gadget Y,7,263.99,55.0,Cash,2.9
+ORD1168,07-16-2024,North,HOME & KITCHEN,Widget A,4,236.35,39.0,Credit Card,3.0
+ORD1493,15/06/2025,North,  Toys  ,Widget B,5,372.85,69.0,Credit Card,2.6
+ORD2267,2024-03-19,South,  Toys  ,Gizmo Z,4,310.12,69.0,Net Banking,3.9
+ORD2044,2025-05-11,north,Books,Gadget Y,14,127.52,18.0,Debit Card,3.5
+ORD2526,17 Feb 2025,West,Home & Kitchen,Device Q,3,88.6,30.0,,2.3
+ORD1893,01-19-2024,South,electronics,Accessory M,14,327.45,56.0,UPI,2.1
+ORD1272,03 Jun 2024,east,Sports,Device Q,9,280.9,,Cash,
+ORD2444,2024-05-09,West,ELECTRONICS,Widget B,2,241.23,66.0,Credit Card,3.0
+ORD1420,2024-05-30,north,Electronics,Gadget X,8,260.49,33.0,UPI,2.1
+ORD1094,2024-02-02,central,CLOTHING,Widget A,6,153.88,38.0,Net Banking,4.5
+ORD2384,14/01/2024,CENTRAL,Home & Kitchen,Accessory M,9,168.9,36.0,UPI,
+ORD2604,01-02-2024,CENTRAL,Home & Kitchen,Device Q,8,160.82,51.0,Debit Card,3.2
+ORD2615,28/08/2024,  West  ,Sports,Accessory M,10,217.91,,Credit Card,1.0
+ORD1042,29/08/2024,South,Home & Kitchen,Accessory M,8,160.1,56.0,Debit Card,4.1
+ORD1056,15/04/2024,Central,electronics,Widget B,9,96.21,42.0,UPI,
+ORD2621,19 Jan 2025,central,Electronics,Widget A,3,235.75,47.0,Credit Card,4.3
+ORD2126,02-02-2025,West,SPORTS,Widget B,9,89.04,54.0,UPI,
+ORD2190,27 Oct 2024,West,electronics,Device Q,7,131.69,34.0,Cash,3.6
+ORD2304,05/03/2025,East,Books,Accessory M,4,197.26,37.0,Cash,2.2
+ORD1888,04/03/2025,South,CLOTHING,Gadget Y,1,-46.97,27.0,,1.6
+ORD1574,23 Jan 2025,West,  Toys  ,Widget A,4,185.29,19.0,Cash,1.5
+ORD1038,30/09/2024,CENTRAL,Home & Kitchen,Device Q,9,146.53,59.0,UPI,3.0
+ORD1306,04-12-2024,West,home & kitchen,Gadget X,9,229.66,66.0,Debit Card,2.3
+ORD1668,29/09/2024,South,Electronics,Accessory M,5,179.27,,Debit Card,1.4
+ORD1006,05-01-2024,  West  ,Toys,Widget B,10,160.57,20.0,Credit Card,3.6
+ORD2077,09/06/2025,South,Home & Kitchen,Item N,6,250.92,,UPI,3.9
+ORD1782,27/06/2024,NORTH,  Toys  ,Item N,1,142.77,20.0,Net Banking,2.1
+ORD1408,2024-09-21,north,books,Gadget Y,3,143.79,25.0,Net Banking,
+ORD2018,04-26-2025,NORTH,Clothing,Accessory M,12,,54.0,Cash,1.2
+ORD1781,01-25-2025,North,toys,Widget A,12,75.76,23.0,UPI,2.1
+ORD1166,2024-10-20,East,electronics,Widget B,9,253.28,49.0,UPI,4.5
+ORD1534,2024-05-25,  Central  ,TOYS,Gadget X,10,180.71,18.0,Net Banking,3.7
+ORD1583,01/11/2024,NORTH,ELECTRONICS,Item N,8,114.4,,Debit Card,4.0
+ORD2274,2024-04-08,West,Books,Widget A,11,233.77,47.0,Credit Card,2.7
+ORD2934,20 Jun 2024,SOUTH,Clothing,Device Q,7,89.12,,Net Banking,2.3
+ORD2445,24/05/2024,CENTRAL,Books,Item N,2,144.09,42.0,,2.1
+ORD2252,2025-06-07,Central,  Toys  ,Gadget X,7,203.77,60.0,Credit Card,3.7
+ORD2736,2024-05-22,  Central  ,home & kitchen,Widget B,4,206.93,26.0,Cash,3.8
+ORD2491,10-02-2024,SOUTH,HOME & KITCHEN,Gadget X,8,294.8,62.0,Debit Card,4.1
+ORD1813,09 Oct 2024,central,HOME & KITCHEN,Accessory M,3,247.65,64.0,Cash,4.1
+ORD1316,04-18-2025,West,HOME & KITCHEN,Item N,9,343.97,35.0,Cash,1.4
+ORD2303,2024-02-29,West,CLOTHING,Accessory M,7,258.72,44.0,Debit Card,2.5
+ORD2750,07/03/2024,  East  ,Toys,Accessory M,14,96.43,46.0,UPI,2.9
+ORD1516,06-26-2024,East,toys,Gadget Y,12,177.0,24.0,Net Banking,2.5
+ORD2696,13/10/2024,South,toys,Gadget Y,6,294.22,28.0,Net Banking,3.5
+ORD1533,2024-03-05,  North  ,TOYS,Gadget Y,11,389.42,22.0,Net Banking,4.7
+ORD2062,2025-02-04,north,Books,Widget B,11,154.9,25.0,UPI,2.9
+ORD1271,10-14-2024,west,ELECTRONICS,Widget B,8,169.09,48.0,Debit Card,2.1
+ORD1548,20/04/2025,NORTH,Sports,Widget B,2,147.64,57.0,Debit Card,3.9
+ORD1964,2024-08-24,NORTH,electronics,Gadget Y,12,368.35,36.0,Debit Card,4.1
+ORD2725,26/12/2024,NORTH,Home & Kitchen,Gadget Y,2,143.21,46.0,Net Banking,2.0
+ORD2918,28 May 2024,Central,home & kitchen,Gadget Y,4,56.35,26.0,Credit Card,4.2
+ORD1598,07-02-2024,East,Books,Gadget Y,2,170.19,61.0,Debit Card,3.4
+ORD2710,05-31-2025,East,books,Item N,13,238.21,31.0,Net Banking,1.3
+ORD1570,01/11/2024,South,  Sports  ,Accessory M,3,181.9,23.0,Debit Card,4.7
+ORD1074,05/06/2024,East,  Books  ,Device Q,5,250.9,67.0,Debit Card,5.0
+ORD1061,26/09/2024,west,Toys,Gizmo Z,1,189.23,23.0,Net Banking,3.5
+ORD2264,07/01/2024,NORTH,SPORTS,Gadget Y,1,,32.0,Net Banking,2.7
+ORD1809,09/05/2024,west,home & kitchen,Device Q,6,197.41,,Credit Card,1.6
+ORD1244,2024-02-18,  South  ,TOYS,Gizmo Z,8,308.92,,Cash,1.6
+ORD2496,2024-08-04,NORTH,Books,Gadget X,2,7040.214720782012,55.0,UPI,1.6
+ORD2464,27/05/2025,north,clothing,Widget A,1,135.98,32.0,,1.3
+ORD1105,2024-07-25,CENTRAL,Books,Gizmo Z,9,232.46,67.0,Debit Card,4.1
+ORD1673,2025-06-20,CENTRAL,Clothing,Accessory M,5,183.2,40.0,Debit Card,2.5
+ORD1642,01-26-2024,south,Sports,Item N,11,126.3,27.0,Credit Card,3.7
+ORD2286,16/01/2025,Central,CLOTHING,Gadget Y,9,397.46,34.0,Debit Card,4.6
+ORD1665,29/04/2025,central,Toys,Accessory M,10,316.93,61.0,Debit Card,4.3
+ORD1509,2025-02-11,north,Books,Widget B,11,128.34,40.0,Net Banking,1.2
+ORD1131,09/10/2024,South,Electronics,Item N,13,124.02,22.0,Credit Card,4.3
+ORD1444,2024-01-29,NORTH,Books,Device Q,8,200.28,41.0,Net Banking,4.9
+ORD1866,06-09-2024,WEST,Toys,Accessory M,9,335.38,29.0,UPI,
+ORD1573,23 Aug 2024,North,Home & Kitchen,Item N,12,105.91,42.0,,2.7
+ORD2861,29 Jan 2024,NORTH,Sports,Gizmo Z,3,145.69,62.0,,
+ORD2801,28/05/2024,West,BOOKS,Widget B,3,164.5,26.0,Debit Card,1.3
+ORD1057,04-21-2025,west,Clothing,Gadget X,1,273.76,33.0,UPI,1.9
+ORD2680,17 Aug 2024,NORTH,CLOTHING,Widget A,1,221.64,30.0,Cash,2.5
+ORD2085,12-29-2024,West,Sports,Gadget X,7,169.47,69.0,Debit Card,1.6
+ORD2149,2024-09-15,South,electronics,Gadget Y,7,274.64,48.0,Cash,4.4
+ORD1086,2024-10-15,Central,Clothing,Item N,14,425.54,60.0,Net Banking,1.6
+ORD2876,07-18-2024,  West  ,Books,Device Q,10,286.32,37.0,Debit Card,3.9
+ORD1771,06-09-2025,SOUTH,toys,Item N,2,244.94,26.0,Cash,2.9
+ORD2247,2025-04-28,East,electronics,Gizmo Z,9,156.41,43.0,UPI,4.2
+ORD1708,16/08/2024,east,Toys,Device Q,4,74.9,50.0,Cash,1.4
+ORD2578,2024-10-26,South,Sports,Accessory M,10,119.19,21.0,Net Banking,
+ORD2355,05-01-2024,  Central  ,ELECTRONICS,Accessory M,5,380.46,51.0,UPI,4.8
+ORD2583,29 Dec 2024,EAST,books,Item N,13,150.68,32.0,Debit Card,4.5
+ORD1538,08 Oct 2024,CENTRAL,Home & Kitchen,Device Q,8,210.05,42.0,UPI,1.3
+ORD2453,04/04/2025,north,SPORTS,Widget B,11,141.38,34.0,UPI,1.9
+ORD2195,18/11/2024,  North  ,SPORTS,Gadget X,7,193.36,24.0,UPI,2.2
+ORD2574,2024-01-12,North,Electronics,Gizmo Z,6,122.25,48.0,Net Banking,1.2
+ORD2779,07/05/2024,south,Clothing,Gizmo Z,5,205.44,39.0,UPI,2.9
+ORD1418,04-13-2025,West,  Books  ,Item N,10,71.66,60.0,Cash,4.3
+ORD2871,19/02/2025,  East  ,TOYS,Device Q,2,148.79,25.0,Net Banking,4.6
+ORD2073,05/02/2025,South,home & kitchen,Accessory M,5,133.8,67.0,UPI,2.1
+ORD2726,12-06-2024,SOUTH,HOME & KITCHEN,Gadget X,5,546.48,58.0,Net Banking,
+ORD2296,10 Jun 2024,CENTRAL,HOME & KITCHEN,Gadget X,13,,65.0,,4.1
+ORD1851,2024-04-26,Central,Books,Gadget Y,10,285.78,39.0,Debit Card,4.1
+ORD2771,25/01/2024,NORTH,Electronics,Gadget Y,3,201.24,26.0,Credit Card,2.5
+ORD2748,04-06-2025,East,home & kitchen,Gizmo Z,11,148.25,30.0,UPI,4.1
+ORD2743,26 Aug 2024,north,ELECTRONICS,Gadget Y,6,76.25,22.0,UPI,4.4
+ORD2785,12/02/2024,North,clothing,Gizmo Z,10,90.86,47.0,Net Banking,1.8
+ORD2556,2025-03-30,North,Home & Kitchen,Device Q,9,300.14,44.0,Net Banking,4.2
+ORD2751,2024-01-07,Central,home & kitchen,Widget B,6,125.59,25.0,Debit Card,4.2
+ORD2818,03/03/2024,west,Clothing,Widget A,10,162.98,49.0,Cash,5.0
+ORD1304,02-22-2024,East,HOME & KITCHEN,Gadget Y,12,178.56,61.0,Cash,4.4
+ORD2533,26/05/2024,SOUTH,Books,Accessory M,1,406.52,18.0,UPI,4.7
+ORD1335,08-07-2024,west,electronics,Item N,13,139.3,21.0,Net Banking,
+ORD1995,18 Oct 2024,south,Books,Gadget Y,12,248.48,47.0,Credit Card,3.0
+ORD1569,04-27-2024,SOUTH,Clothing,Widget B,11,279.26,28.0,Cash,2.1
+ORD1088,04/05/2025,NORTH,electronics,Widget A,13,124.64,59.0,Cash,2.4
+ORD1874,12-26-2024,WEST,  Books  ,Widget B,1,112.86,49.0,UPI,1.7
+ORD2242,2024-11-30,East,Toys,Widget B,3,108.55,66.0,Debit Card,4.0
+ORD2542,2024-06-07,central,TOYS,Widget A,2,2885.395657285338,55.0,Debit Card,
+ORD1712,12 Apr 2025,West,home & kitchen,Gadget Y,8,205.55,58.0,UPI,1.6
+ORD2768,01-15-2025,  East  ,Home & Kitchen,Item N,14,265.75,53.0,Credit Card,3.0
+ORD2873,27 Mar 2024,  Central  ,Electronics,Gizmo Z,6,414.93,60.0,Debit Card,
+ORD2397,12-17-2024,West,Toys,Gadget X,10,,25.0,Net Banking,2.5
+ORD1221,18 May 2025,north,Clothing,Item N,5,113.92,27.0,UPI,
+ORD1319,27/01/2025,CENTRAL,Clothing,Gadget Y,12,144.4,51.0,Credit Card,1.1
+ORD2777,21/06/2024,South,Books,Gadget X,4,177.69,37.0,Cash,
+ORD1878,03 Mar 2024,west,books,Gadget Y,14,269.77,60.0,Debit Card,1.4
+ORD2824,09 Jun 2025,South,Books,Gadget Y,9,165.69,54.0,Debit Card,4.4
+ORD1825,28/07/2024,East,  Home & Kitchen  ,Widget A,11,238.14,43.0,Net Banking,1.7
+ORD2468,16/04/2024,East,  Electronics  ,Gadget X,4,133.36,22.0,Net Banking,1.3
+ORD2483,02-04-2024,north,Clothing,Accessory M,14,88.9,65.0,UPI,4.6
+ORD1138,21/08/2024,East,Electronics,Device Q,9,,47.0,Credit Card,3.9
+ORD1163,02 Jul 2024,SOUTH,Toys,Gadget Y,5,111.05,,Debit Card,
+ORD2804,08 Jul 2024,WEST,books,Item N,1,,53.0,UPI,3.2
+ORD2466,10 Oct 2024,North,Electronics,Widget B,2,,68.0,Debit Card,4.2
+ORD1960,24 Apr 2024,Central,Books,Item N,11,72.05,68.0,Debit Card,1.1
+ORD2482,04-28-2024,East,sports,Widget A,8,228.39,,Net Banking,4.8
+ORD2257,28/07/2024,south,Sports,Gizmo Z,3,146.91,41.0,Net Banking,2.4
+ORD2194,2024-04-24,East,HOME & KITCHEN,Gadget Y,2,427.93,27.0,Credit Card,3.0
+ORD2954,12-10-2024,CENTRAL,sports,Gizmo Z,14,138.74,68.0,Debit Card,3.5
+ORD2315,07-24-2024,NORTH,Home & Kitchen,Widget A,13,249.08,47.0,Cash,3.7
+ORD2827,2024-07-01,east,Electronics,Device Q,9,100.97,48.0,Credit Card,2.1
+ORD1633,2024-02-16,SOUTH,Sports,Device Q,11,335.47,21.0,,4.4
+ORD2203,16 Jun 2024,East,CLOTHING,Gizmo Z,11,195.58,46.0,Credit Card,4.6
+ORD1655,09 Jun 2025,WEST,Toys,Gizmo Z,13,144.66,54.0,Credit Card,1.7
+ORD1016,09 Dec 2024,Central,Electronics,Gadget Y,5,117.76,33.0,Debit Card,4.0
+ORD2651,06-08-2024,,sports,Accessory M,13,222.2,47.0,Cash,1.2
+ORD2180,2024-05-03,East,SPORTS,Widget B,3,296.34,42.0,,2.1
+ORD1137,12/08/2024,West,Books,Gadget Y,11,323.46,66.0,Cash,1.3
+ORD2240,11/08/2024,CENTRAL,Books,Gizmo Z,7,183.77,64.0,Cash,
+ORD1697,12/03/2025,East,Home & Kitchen,Gadget X,2,148.85,43.0,Credit Card,4.6
+ORD2097,25 Mar 2025,South,Toys,Widget B,3,211.78,68.0,Credit Card,3.0
+ORD2636,2024-10-19,south,Electronics,Gizmo Z,6,150.56,33.0,Credit Card,4.9
+ORD1448,10/05/2025,West,Electronics,Gizmo Z,2,313.62,65.0,Credit Card,1.3
+ORD2943,20 Aug 2024,central,Toys,Gizmo Z,10,316.1,63.0,Debit Card,3.6
+ORD1327,07 Jul 2024,north,Electronics,Widget B,8,147.42,65.0,UPI,1.4
+ORD1317,2024-04-26,West,Toys,Gadget X,6,433.33,40.0,Net Banking,4.2
+ORD2548,19/01/2024,NORTH,HOME & KITCHEN,Accessory M,5,192.28,53.0,UPI,1.8
+ORD1526,25 Mar 2025,East,Toys,Gizmo Z,4,133.62,,UPI,3.3
+ORD1087,2025-01-13,EAST,Sports,Item N,10,104.78,46.0,Debit Card,4.3
+ORD2654,2025-05-23,Central,Toys,Gadget Y,4,214.66,47.0,Debit Card,1.2
+ORD1148,21 Jan 2025,  East  ,home & kitchen,Item N,6,205.56,30.0,Debit Card,1.1
+ORD2643,2025-03-14,East,Clothing,Widget B,1,140.69,36.0,Cash,4.6
+ORD2223,2025-06-07,Central,sports,Gizmo Z,5,319.23,,UPI,4.0
+ORD2478,19 Oct 2024,EAST,books,Gadget X,1,280.48,53.0,Credit Card,4.2
+ORD1365,2024-09-24,  West  ,  Toys  ,Widget B,10,110.57,30.0,Credit Card,1.4
+ORD1589,2024-09-05,Central,Clothing,Gadget X,5,280.93,37.0,Cash,5.0
+ORD2529,2025-06-21,South,CLOTHING,Gizmo Z,13,133.57,33.0,Debit Card,1.8
+ORD1198,2024-08-20,,Electronics,Gadget Y,3,259.43,28.0,Cash,2.0
+ORD2920,2025-01-08,EAST,Electronics,Gizmo Z,12,239.84,53.0,Net Banking,1.8
+ORD1192,10-30-2024,South,Electronics,Gadget Y,12,198.86,33.0,Cash,3.3
+ORD1404,30/01/2025,north,Books,Widget B,1,332.01,60.0,Debit Card,3.3
+ORD2594,14/04/2025,North,CLOTHING,Widget B,8,214.9,20.0,Credit Card,4.8
+ORD2682,15 Jan 2025,CENTRAL,Books,Widget A,12,242.43,22.0,UPI,3.3
+ORD1483,2024-04-26,South,Clothing,Gizmo Z,8,234.78,46.0,UPI,2.4
+ORD2477,2025-05-25,South,ELECTRONICS,Gadget Y,2,131.38,29.0,UPI,1.5
+ORD1791,16/03/2025,Central,SPORTS,Widget B,4,180.91,51.0,UPI,4.0
+ORD1799,27 Apr 2024,North,Sports,Gadget X,9,216.52,47.0,Debit Card,3.7
+ORD1384,2025-01-10,North,Clothing,Gadget Y,1,60.37,66.0,Cash,4.6
+ORD1750,10/01/2025,West,books,Gizmo Z,3,58.18,41.0,,1.3
+ORD1422,2024-02-08,North,sports,Accessory M,11,111.46,59.0,Debit Card,
+ORD1314,27/02/2024,,Electronics,Gadget Y,7,111.58,30.0,Debit Card,3.0
+ORD2021,2025-03-25,West,Toys,Widget B,9,122.71,51.0,Net Banking,3.9
+ORD1543,04-08-2024,West,Home & Kitchen,Item N,11,132.01,34.0,Cash,2.7
+ORD1913,08 Jan 2024,CENTRAL,Books,Widget A,7,170.53,68.0,Cash,1.3
+ORD1662,05-20-2025,South,TOYS,Gizmo Z,12,254.0,54.0,UPI,1.8
+ORD1902,09-20-2024,North,  Clothing  ,Widget B,4,68.67,43.0,Cash,4.2
+ORD2414,2025-02-23,west,HOME & KITCHEN,Gadget X,1,166.66,33.0,Debit Card,2.5
+ORD1685,20/04/2024,Central,sports,Item N,8,74.71,35.0,Cash,1.1
+ORD2699,07-26-2024,  South  ,Home & Kitchen,Gizmo Z,13,333.2,28.0,Debit Card,4.0
+ORD1159,19 Feb 2025,Central,electronics,Widget A,7,159.55,52.0,Credit Card,1.7
+ORD1999,2024-10-22,North,Electronics,Widget B,11,267.81,62.0,Net Banking,4.1
+ORD2316,30 Mar 2025,  East  ,home & kitchen,Item N,12,230.99,54.0,Credit Card,1.8
+ORD2800,2024-04-08,East,toys,Device Q,1,335.94,43.0,Debit Card,
+ORD1202,07/02/2025,east,clothing,Gizmo Z,2,103.68,55.0,Net Banking,3.6
+ORD2023,2024-03-13,central,Home & Kitchen,Gadget X,10,205.31,21.0,Cash,1.8
+ORD2553,30/12/2024,North,electronics,Gadget X,13,260.24,20.0,Net Banking,2.0
+ORD2342,15 Feb 2024,west,BOOKS,Widget B,3,72.01,46.0,UPI,3.5
+ORD1112,18/08/2024,east,toys,Accessory M,13,199.59,24.0,Net Banking,3.3
+ORD2830,09-02-2024,west,books,Gadget X,3,163.23,41.0,UPI,
+ORD2249,11-19-2024,Central,BOOKS,Device Q,13,187.84,,Debit Card,1.8
+ORD1980,02-10-2024,Central,Home & Kitchen,Widget A,14,134.34,19.0,Cash,1.1
+ORD1922,21/02/2025,Central,Toys,Gizmo Z,8,152.85,24.0,UPI,2.4
+ORD2537,2024-03-09,  East  ,SPORTS,Gizmo Z,7,170.78,67.0,Net Banking,3.4
+ORD2609,2024-09-19,South,Home & Kitchen,Gizmo Z,9,225.94,42.0,Net Banking,2.4
+ORD2714,12 Oct 2024,North,Home & Kitchen,Device Q,10,,66.0,Net Banking,2.1
+ORD2868,19/03/2024,south,  Electronics  ,Gadget Y,2,147.55,20.0,UPI,1.2
+ORD1815,11/01/2024,Central,Clothing,Item N,14,188.71,51.0,Credit Card,
+ORD2381,02-13-2025,central,Sports,Widget B,6,296.37,48.0,Cash,4.0
+ORD2306,03/06/2025,north,BOOKS,Widget A,14,334.61,49.0,Debit Card,3.0
+ORD1679,03-07-2024,North,Books,Widget B,7,87.67,59.0,Net Banking,4.2
+ORD2093,16 Jan 2024,North,SPORTS,Gizmo Z,7,76.14,58.0,Credit Card,2.4
+ORD1080,2025-04-16,north,Sports,Accessory M,266,125.9,58.0,Debit Card,3.9
+ORD2782,2025-06-15,west,Toys,Device Q,2,,60.0,Debit Card,4.8
+ORD2755,2025-02-08,West,Books,Item N,14,211.69,43.0,Credit Card,1.9
+ORD2552,05/10/2024,West,Home & Kitchen,Accessory M,8,219.11,63.0,Cash,1.8
+ORD1752,05-16-2024,East,SPORTS,Widget B,6,319.48,27.0,Net Banking,3.3
+ORD2334,11 Jan 2024,North,home & kitchen,Widget B,5,158.26,40.0,Cash,
+ORD2054,10 Apr 2025,south,Home & Kitchen,Item N,12,197.92,66.0,UPI,4.0
+ORD1242,2025-05-30,East,books,Widget B,12,243.89,63.0,UPI,2.6
+ORD2473,04/06/2024,EAST,toys,Device Q,4,229.81,69.0,Debit Card,1.3
+ORD1641,12-02-2024,  Central  ,Sports,Gadget Y,9,108.45,60.0,Debit Card,
+ORD1696,2024-10-15,EAST,books,Item N,10,137.43,,Credit Card,1.3
+ORD1209,10/09/2024,east,clothing,Gadget Y,10,230.24,57.0,Debit Card,1.6
+ORD1577,25/07/2024,East,  Books  ,Widget B,7,237.23,50.0,Debit Card,2.4
+ORD1770,2024-10-21,East,TOYS,Widget B,9,330.98,38.0,Debit Card,3.6
+ORD2776,2024-03-19,north,ELECTRONICS,Widget B,11,,50.0,Net Banking,4.6
+ORD1435,09-09-2024,  West  ,ELECTRONICS,Gizmo Z,3,194.03,61.0,Credit Card,2.5
+ORD2063,03-26-2024,Central,sports,Widget B,13,163.11,26.0,UPI,2.4
+ORD1974,04-18-2024,West,Home & Kitchen,Device Q,13,216.18,38.0,UPI,1.2
+ORD1551,04-02-2025,Central,ELECTRONICS,Widget A,10,126.47,32.0,UPI,3.0
+ORD2411,01-16-2025,East,Books,Gizmo Z,11,160.66,21.0,Cash,3.5
+ORD2420,2024-10-21,east,Toys,Gizmo Z,8,154.72,50.0,Debit Card,4.7
+ORD2013,2025-04-11,West,ELECTRONICS,Gizmo Z,9,491.68,41.0,Net Banking,2.6
+ORD2910,07 Apr 2025,west,Toys,Widget A,11,314.07,63.0,,4.8
+ORD1466,05-05-2024,CENTRAL,Clothing,Gadget Y,10,137.91,19.0,Debit Card,2.2
+ORD2649,02-22-2025,WEST,home & kitchen,Gadget X,9,253.04,61.0,Credit Card,
+ORD2321,26/04/2024,East,home & kitchen,Gadget X,3,177.12,40.0,Debit Card,3.3
+ORD1277,02/09/2024,Central,Electronics,Widget B,5,179.6,42.0,Cash,3.8
+ORD2069,12/05/2025,North,TOYS,Device Q,4,,35.0,Net Banking,3.3
+ORD2017,2024-12-30,WEST,Electronics,Item N,12,124.71,60.0,Debit Card,3.0
+ORD2561,2025-02-20,north,Clothing,Device Q,11,253.39,24.0,Cash,3.3
+ORD1722,21/06/2024,  East  ,ELECTRONICS,Widget B,3,300.6,60.0,Net Banking,1.3
+ORD2977,10-07-2024,SOUTH,HOME & KITCHEN,Widget B,1,105.46,28.0,Credit Card,4.7
+ORD1786,10-15-2024,east,electronics,Gadget X,13,298.41,21.0,Debit Card,3.8
+ORD2565,11 Apr 2024,  North  ,  Toys  ,Widget A,3,195.43,36.0,UPI,4.7
+ORD2324,2025-01-29,East,  Toys  ,Gizmo Z,6,127.7,40.0,Debit Card,4.3
+ORD2385,01-12-2024,  East  ,Home & Kitchen,Widget B,8,91.65,55.0,Net Banking,3.9
+ORD2318,23/08/2024,  Central  ,  Clothing  ,Item N,8,86.94,32.0,Net Banking,
+ORD1906,2025-01-14,EAST,Sports,Gadget Y,13,229.6,43.0,Credit Card,3.3
+ORD1563,2024-12-13,North,sports,Widget B,12,335.22,35.0,Cash,3.1
+ORD1388,01/04/2025,,Sports,Widget A,4,177.67,49.0,Net Banking,1.5
+ORD1022,09/06/2024,South,Home & Kitchen,Gizmo Z,6,259.29,35.0,,2.2
+ORD2929,05 Feb 2025,East,toys,Gizmo Z,13,177.64,33.0,Debit Card,3.6
+ORD1124,13/12/2024,Central,Clothing,Gizmo Z,6,137.19,57.0,Credit Card,1.3
+ORD2261,14 Aug 2024,NORTH,toys,Gadget X,12,204.51,65.0,Credit Card,3.8
+ORD1773,2024-01-23,EAST,Sports,Gadget Y,1,269.93,25.0,Credit Card,2.4
+ORD1880,22/11/2024,South,Books,Gadget Y,4,436.0,20.0,Net Banking,2.5
+ORD2144,25/11/2024,  West  ,Toys,Gadget Y,6,354.37,19.0,Cash,4.8
+ORD2166,12-22-2024,  West  ,Clothing,Widget A,9,135.12,23.0,UPI,2.5
+ORD1050,04 Feb 2024,Central,Toys,Accessory M,3,250.84,27.0,Cash,1.2
+ORD2412,15 Jun 2025,EAST,CLOTHING,Widget A,4,258.25,,Cash,3.2
+ORD2679,28 May 2024,East,HOME & KITCHEN,Widget A,5,34.04,54.0,Debit Card,3.2
+ORD2105,08 Feb 2024,East,Books,Device Q,14,207.02,54.0,Credit Card,4.3
+ORD1703,2024-12-15,NORTH,Clothing,Accessory M,5,220.6,43.0,UPI,2.8
+ORD1482,02-12-2025,West,Toys,Item N,10,166.17,44.0,Net Banking,1.7
+ORD2145,16 Apr 2024,East,Sports,Accessory M,8,165.09,49.0,Debit Card,3.8
+ORD2935,10-14-2024,north,  Electronics  ,Gadget X,12,153.33,35.0,UPI,1.8
+ORD1066,2024-10-22,East,CLOTHING,Accessory M,8,210.99,26.0,Net Banking,
+ORD2742,12/01/2024,central,Books,Gadget X,9,253.5,49.0,UPI,2.9
+ORD1733,15/11/2024,Central,Toys,Widget B,12,240.59,49.0,Credit Card,2.4
+ORD2807,2024-03-20,EAST,Home & Kitchen,Accessory M,11,172.21,26.0,Cash,2.6
+ORD1801,15 Aug 2024,North,Books,Gadget Y,2,193.42,42.0,Cash,3.4
+ORD2566,23 Sep 2024,central,Books,Gadget X,14,,24.0,Debit Card,2.0
+ORD2994,08/02/2025,South,SPORTS,Gizmo Z,13,177.71,44.0,Cash,1.3
+ORD1907,2024-03-27,SOUTH,toys,Item N,11,235.37,39.0,Debit Card,2.9
+ORD1031,08/07/2024,North,  Sports  ,Widget B,8,251.85,37.0,Cash,3.6
+ORD1417,2024-01-25,West,CLOTHING,Device Q,4,85.55,34.0,Debit Card,3.1
+ORD1881,05-20-2024,South,Toys,Gadget X,7,138.39,,,3.3
+ORD1632,05 Sep 2024,West,ELECTRONICS,Gizmo Z,8,50.04,20.0,Cash,3.7
+ORD2581,21 Nov 2024,East,Sports,Item N,8,421.34,32.0,Credit Card,1.7
+ORD2455,29 Oct 2024,South,TOYS,Accessory M,7,13487.924363347227,,Net Banking,1.2
+ORD1064,06/04/2025,West,Clothing,Item N,10,106.57,56.0,Net Banking,4.8
+ORD2642,25/05/2024,West,  Sports  ,Gadget X,1,210.15,31.0,,4.0
+ORD2627,03/10/2024,North,BOOKS,Gizmo Z,9,,59.0,Net Banking,3.6
+ORD1077,04 Jun 2025,North,books,Widget A,12,148.33,49.0,Credit Card,4.4
+ORD1491,2024-08-16,CENTRAL,  Electronics  ,Widget A,14,158.37,61.0,Debit Card,5.0
+ORD2426,06-13-2025,  Central  ,home & kitchen,Widget B,12,405.59,59.0,Debit Card,2.0
+ORD2544,19/11/2024,West,Clothing,Gizmo Z,1,328.74,61.0,UPI,2.3
+ORD1532,2025-01-08,central,Electronics,Widget B,7,126.74,24.0,Debit Card,4.8
+ORD1065,09-08-2024,East,Sports,Device Q,12,100.66,56.0,Credit Card,3.2
+ORD2857,27/01/2025,West,Electronics,Item N,6,474.78,52.0,Credit Card,2.7
+ORD1296,05-04-2024,Central,Clothing,Accessory M,9,201.05,48.0,Cash,
+ORD1591,2025-04-25,Central,BOOKS,Gadget X,2,132.32,20.0,Debit Card,2.8
+ORD1767,2024-03-29,North,Clothing,Widget B,11,110.86,22.0,Debit Card,3.4
+ORD1724,2024-11-21,south,Books,Widget A,9,169.83,,Net Banking,3.7
+ORD2441,2025-05-18,,Sports,Gizmo Z,2,169.88,,Debit Card,4.5
+ORD1626,08-20-2024,north,HOME & KITCHEN,Gizmo Z,8,292.02,52.0,Cash,5.0
+ORD2686,09 May 2024,central,CLOTHING,Device Q,7,290.74,48.0,Credit Card,1.1
+ORD2971,01-19-2024,South,  Electronics  ,Item N,13,336.98,,Net Banking,1.0
+ORD2212,01-07-2024,Central,ELECTRONICS,Widget B,13,308.95,18.0,Credit Card,1.6
+ORD2632,2025-01-12,Central,electronics,Gadget Y,12,190.15,56.0,Credit Card,4.0
+ORD1251,15/02/2024,North,Electronics,Accessory M,5,27.34,,Credit Card,3.5
+ORD2843,11 May 2025,south,Home & Kitchen,Widget B,10,137.75,30.0,UPI,4.1
+ORD2329,03/12/2024,South,Clothing,Gizmo Z,14,224.42,48.0,Cash,4.2
+ORD2927,05/06/2025,East,Home & Kitchen,Gizmo Z,12,215.09,68.0,Cash,2.9
+ORD1982,17/01/2024,north,TOYS,Gadget X,1,125.95,32.0,Net Banking,
+ORD2795,2024-09-09,South,Clothing,Widget B,6,92.1,38.0,Net Banking,3.2
+ORD1706,26/06/2025,Central,books,Item N,10,151.21,49.0,Net Banking,1.4
+ORD1487,2024-05-28,Central,Toys,Widget A,9,62.03,23.0,Credit Card,
+ORD1273,05-04-2025,North,electronics,Gadget Y,11,308.66,47.0,Credit Card,1.5
+ORD2522,11-06-2024,central,  Toys  ,Widget A,10,344.1,19.0,UPI,1.3
+ORD2690,2025-04-15,Central,clothing,Device Q,14,128.01,38.0,Debit Card,4.7
+ORD1963,04 Jun 2025,south,ELECTRONICS,Gadget Y,13,331.98,35.0,UPI,3.3
+ORD1877,04-20-2025,South,Clothing,Gadget Y,11,350.71,60.0,Debit Card,2.9
+ORD2524,2024-08-05,north,Home & Kitchen,Widget B,10,309.39,21.0,Net Banking,1.1
+ORD2836,08-29-2024,Central,Sports,Gadget Y,8,92.66,59.0,Net Banking,4.7
+ORD1411,20 May 2025,EAST,toys,Gadget X,3,118.54,33.0,Debit Card,4.9
+ORD1667,02-08-2024,Central,Toys,Gizmo Z,13,212.91,54.0,UPI,4.1
+ORD2262,2025-01-15,East,Books,Accessory M,11,182.41,68.0,Debit Card,5.0
+ORD1149,2024-04-22,South,Electronics,Widget B,3,43.63,53.0,UPI,2.9
+ORD1644,08 Jan 2024,West,  Electronics  ,Accessory M,8,265.04,30.0,UPI,3.0
+ORD2625,05-20-2024,  West  ,SPORTS,Gizmo Z,10,174.63,62.0,Cash,4.5
+ORD1218,06-09-2024,West,electronics,Accessory M,9,196.37,53.0,Credit Card,2.4
+ORD1239,10-10-2024,  East  ,Toys,Device Q,3,286.1,48.0,Debit Card,4.3
+ORD2131,01-14-2025,WEST,  Toys  ,Widget A,1,270.17,60.0,Debit Card,
+ORD2216,2025-03-01,SOUTH,  Sports  ,Gadget X,12,226.48,47.0,Cash,4.5
+ORD1792,2024-04-06,  East  ,Toys,Widget A,1,468.94,30.0,Net Banking,4.8
+ORD1191,02/01/2024,south,Sports,Widget B,6,523.25,45.0,Cash,3.4
+ORD1333,26/03/2024,north,clothing,Gizmo Z,4,125.58,46.0,,2.5
+ORD2336,2024-04-11,Central,Books,Item N,13,180.45,25.0,Cash,3.1
+ORD2831,2025-04-15,Central,clothing,Widget B,9,170.04,56.0,UPI,4.6
+ORD1962,09/06/2025,  West  ,sports,Accessory M,5,77.43,,Cash,
+ORD2454,10-27-2024,south,Toys,Gadget X,10,196.07,22.0,Credit Card,1.5
+ORD2975,17/04/2024,East,  Electronics  ,Gizmo Z,11,136.69,19.0,Net Banking,3.5
+ORD2900,17 Dec 2024,north,Books,Item N,5,247.15,32.0,Credit Card,3.9
+ORD2637,19/02/2024,  West  ,  Books  ,Widget B,7,140.11,67.0,Debit Card,3.3
+ORD1582,02-25-2025,South,Books,Widget A,14,195.27,41.0,Debit Card,2.5
+ORD2933,17 Feb 2025,East,Clothing,Widget A,13,222.6,50.0,Credit Card,1.1
+ORD2450,17/09/2024,South,TOYS,Gizmo Z,8,147.01,29.0,Net Banking,1.6
+ORD1839,02-08-2025,South,Books,Widget A,1,187.03,35.0,Debit Card,2.5
+ORD1627,06-07-2025,North,BOOKS,Gadget X,5,150.39,42.0,Credit Card,
+ORD1323,04-27-2024,Central,sports,Gizmo Z,8,206.66,34.0,Cash,4.5
+ORD2663,2024-10-28,North,Sports,Gizmo Z,14,306.67,47.0,Cash,4.9
+ORD2160,2024-08-03,East,Clothing,Device Q,4,302.17,43.0,Cash,
+ORD1778,13 Apr 2024,  West  ,electronics,Accessory M,8,138.36,38.0,Credit Card,4.1
+ORD2076,29 Sep 2024,north,Clothing,Accessory M,11,380.16,20.0,Net Banking,3.4
+ORD1939,15 Jan 2025,North,electronics,Item N,12,246.38,26.0,UPI,4.1
+ORD1437,02 Jun 2025,Central,  Books  ,Item N,5,246.29,30.0,Net Banking,3.7
+ORD1119,26/03/2024,,Clothing,Item N,10,135.0,69.0,UPI,3.1
+ORD2374,07/01/2024,East,Toys,Gizmo Z,11,254.72,67.0,UPI,4.0
+ORD2582,05-12-2025,CENTRAL,ELECTRONICS,Gadget Y,13,134.49,25.0,UPI,2.0
+ORD2026,2024-08-04,NORTH,Sports,Widget A,7,230.5,25.0,Debit Card,1.1
+ORD2253,2025-02-04,central,Home & Kitchen,Gadget X,9,284.94,23.0,UPI,3.2
+ORD2628,07/08/2024,EAST,Toys,Gadget X,7,202.01,41.0,Credit Card,3.1
+ORD1076,05 Mar 2024,EAST,home & kitchen,Widget A,13,198.18,25.0,Credit Card,1.1
+ORD2053,2025-06-20,south,toys,Gadget Y,5,146.36,23.0,Credit Card,2.2
+ORD1900,23 Apr 2024,  East  ,Sports,Gizmo Z,11,327.55,50.0,Credit Card,4.1
+ORD1371,12 Jan 2024,East,HOME & KITCHEN,Device Q,2,240.22,36.0,Cash,3.1
+ORD2887,2024-08-19,Central,HOME & KITCHEN,Widget B,3,7669.103928015242,21.0,Debit Card,1.8
+ORD2457,2025-01-29,west,Home & Kitchen,Device Q,14,125.26,65.0,Credit Card,3.9
+ORD2282,24 Mar 2024,  North  ,Home & Kitchen,Widget A,5,230.37,59.0,Credit Card,4.3
+ORD1941,03-22-2024,WEST,  Sports  ,Device Q,11,207.25,,Debit Card,1.9
+ORD1577,25/07/2024,East,  Books  ,Widget B,7,237.23,50.0,Debit Card,2.4
+ORD1819,11 Dec 2024,West,CLOTHING,Accessory M,2,131.29,68.0,Debit Card,3.9
+ORD2484,16 Jul 2024,West,Home & Kitchen,Gadget X,4,199.84,60.0,Net Banking,3.3
+ORD2506,10-20-2024,East,Electronics,Widget B,5,364.43,67.0,Net Banking,3.4
+ORD2754,02/02/2025,South,Books,Accessory M,2,228.44,48.0,Debit Card,2.6
+ORD2395,14/10/2024,  East  ,CLOTHING,Accessory M,6,124.53,37.0,Cash,4.3
+ORD1886,11/10/2024,North,HOME & KITCHEN,Gadget Y,8,267.81,65.0,Debit Card,2.9
+ORD1968,10-04-2024,west,Books,Gadget Y,3,319.22,27.0,Cash,1.9
+ORD2616,2025-03-20,SOUTH,Books,Device Q,1,184.15,29.0,,4.7
+ORD1785,15/01/2024,East,  Sports  ,Item N,8,160.58,24.0,Debit Card,4.9
+ORD2734,22/02/2025,North,ELECTRONICS,Accessory M,5,251.82,54.0,Cash,2.1
+ORD2702,12/01/2024,West,Sports,Accessory M,1,338.94,36.0,Net Banking,2.7
+ORD2752,09 Jun 2025,  Central  ,SPORTS,Widget A,6,308.29,68.0,Credit Card,1.2
+ORD1301,2024-02-23,NORTH,Toys,Item N,5,215.46,44.0,Credit Card,
+ORD1689,28 Feb 2025,North,toys,Widget A,7,62.83,49.0,Net Banking,3.3
+ORD1812,2024-10-18,North,books,Accessory M,9,244.32,58.0,Cash,3.3
+ORD2061,2024-01-16,,  Home & Kitchen  ,Gizmo Z,10,101.12,44.0,Cash,2.6
+ORD1236,27/01/2024,East,Toys,Widget A,8,136.47,58.0,Credit Card,4.3
+ORD2115,2024-12-24,Central,sports,Widget A,11,75.73,40.0,Net Banking,4.1
+ORD2475,07/09/2024,WEST,  Home & Kitchen  ,Widget B,6,92.32,36.0,Debit Card,2.2
+ORD1499,2025-06-09,WEST,Toys,Gadget Y,4,152.15,48.0,Debit Card,4.4
+ORD2677,06-22-2025,NORTH,Sports,Gadget Y,1,96.13,47.0,Cash,2.7
+ORD2079,2024-05-31,Central,TOYS,Widget A,1,122.55,,UPI,1.2
+ORD2326,2024-03-12,NORTH,books,Gadget X,10,127.74,35.0,Credit Card,1.0
+ORD1794,2024-10-15,South,Books,Device Q,8,186.69,24.0,Cash,3.8
+ORD2948,12-25-2024,CENTRAL,sports,Device Q,14,310.37,27.0,Debit Card,3.5
+ORD2549,29 Mar 2025,east,HOME & KITCHEN,Gizmo Z,3,136.73,50.0,Net Banking,1.5
+ORD2956,10/04/2025,NORTH,books,Gadget Y,4,79.34,66.0,Cash,1.1
+ORD1990,30 Mar 2025,NORTH,Books,Accessory M,14,183.04,49.0,Credit Card,2.6
+ORD2386,03-27-2024,north,ELECTRONICS,Device Q,9,162.07,49.0,Net Banking,
+ORD1934,07/01/2024,west,Toys,Gadget Y,1,255.65,29.0,Debit Card,2.4
+ORD1387,01-28-2025,East,sports,Widget B,13,219.77,62.0,Cash,2.7
+ORD2485,2025-04-29,WEST,home & kitchen,Gadget X,5,63.01,51.0,UPI,4.7
+ORD1390,08/04/2024,North,  Toys  ,Widget B,490,136.83,18.0,Debit Card,2.8
+ORD1743,14 Nov 2024,EAST,SPORTS,Accessory M,3,185.97,21.0,Debit Card,1.1
+ORD1352,08-10-2024,south,Sports,Item N,2,311.03,56.0,Debit Card,2.1
+ORD2217,2025-01-28,  West  ,Toys,Gadget X,12,,49.0,Net Banking,1.8
+ORD1235,10-09-2024,North,Clothing,Widget A,11,41.06,44.0,Cash,5.0
+ORD2982,27/12/2024,West,TOYS,Gadget X,6,215.93,40.0,,3.2
+ORD1480,05-22-2025,East,Electronics,Widget B,8,150.6,46.0,Credit Card,2.7
+ORD1567,2024-09-06,East,Sports,Device Q,5,155.68,31.0,Credit Card,3.1
+ORD2140,2024-11-05,East,  Sports  ,Gizmo Z,2,,34.0,UPI,2.6
+ORD2703,03 Feb 2025,,home & kitchen,Widget B,12,222.54,51.0,Cash,1.1
+ORD2888,12-31-2024,West,  Clothing  ,Widget A,12,204.76,19.0,Net Banking,3.2
+ORD2732,2024-11-06,CENTRAL,Toys,Widget B,9,164.69,43.0,Debit Card,3.6
+ORD1120,01-28-2024,North,Electronics,Gadget X,7,192.26,,UPI,4.7
+ORD2388,20/06/2025,NORTH,Sports,Gizmo Z,10,109.09,,UPI,2.9
+ORD2749,13/05/2024,Central,SPORTS,Item N,10,293.15,60.0,Credit Card,2.3
+ORD2024,2024-10-22,SOUTH,ELECTRONICS,Gadget Y,12,267.6,27.0,UPI,4.6
+ORD2086,08/02/2024,East,electronics,Device Q,10,206.47,42.0,Net Banking,3.1
+ORD2272,10-11-2024,East,sports,Gadget X,-9,256.62,27.0,UPI,4.5
+ORD1926,2024-10-14,NORTH,Clothing,Accessory M,13,177.92,62.0,Debit Card,4.7
+ORD1515,11/11/2024,East,books,Widget A,3,183.31,57.0,Debit Card,2.7
+ORD1223,2024-05-14,west,  Home & Kitchen  ,Gadget Y,1,374.84,63.0,UPI,1.9
+ORD2493,08-03-2024,East,Books,Gadget Y,8,94.91,42.0,Debit Card,2.8
+ORD1613,25 Dec 2024,  North  ,clothing,Widget B,14,359.82,26.0,Credit Card,3.4
+ORD1843,01 Jan 2024,SOUTH,sports,Widget B,13,53.85,28.0,,3.2
+ORD2245,10-04-2024,west,Electronics,Gizmo Z,6,99.43,39.0,UPI,4.9
+ORD1052,21 Mar 2024,SOUTH,sports,Gadget X,10,186.03,29.0,Net Banking,4.2
+ORD2867,18/07/2024,  South  ,clothing,Gadget Y,13,267.08,68.0,Credit Card,3.1
+ORD1485,27/02/2024,NORTH,ELECTRONICS,Device Q,6,106.63,52.0,Net Banking,2.4
+ORD2939,06-27-2025,east,Electronics,Gizmo Z,3,,20.0,Net Banking,2.3
+ORD1818,23/01/2024,north,Clothing,Widget B,8,190.3,48.0,Credit Card,
+ORD1155,19/01/2025,WEST,books,Gizmo Z,1,157.03,48.0,Net Banking,4.0
+ORD2366,01-04-2025,North,Sports,Widget B,12,118.92,67.0,Net Banking,4.1
+ORD1600,11-25-2024,West,TOYS,Gadget X,6,144.27,50.0,UPI,4.6
+ORD2623,2025-01-10,Central,Clothing,Gadget X,5,138.71,60.0,Cash,
+ORD1248,07 Aug 2024,West,Books,Item N,14,129.55,69.0,Credit Card,4.1
+ORD1761,2024-01-05,NORTH,Books,Device Q,6,280.14,28.0,Debit Card,4.6
+ORD2851,21/01/2024,East,SPORTS,Gadget Y,4,208.13,49.0,UPI,2.2
+ORD2130,01/03/2024,EAST,Electronics,Accessory M,5,93.11,43.0,Net Banking,4.4
+ORD1542,14 Apr 2024,north,Home & Kitchen,Item N,13,196.78,49.0,Credit Card,1.0
+ORD1793,02-14-2025,East,Home & Kitchen,Device Q,14,201.6,65.0,Cash,1.5
+ORD2141,2024-08-30,South,Electronics,Device Q,5,148.39,40.0,UPI,1.1
+ORD2471,31/10/2024,South,home & kitchen,Accessory M,5,327.79,56.0,Debit Card,3.2
+ORD1628,2024-12-11,west,toys,Widget B,8,215.46,26.0,UPI,4.0
+ORD1150,03-21-2024,East,Toys,Gadget X,10,146.02,44.0,UPI,4.5
+ORD2740,31/08/2024,  South  ,Clothing,Gadget X,9,,20.0,UPI,3.0
+ORD1291,2024-05-22,west,  Books  ,Item N,2,105.97,37.0,Cash,3.5
+ORD1381,07/05/2025,North,books,Widget B,7,198.47,65.0,Debit Card,4.6
+ORD1686,14/04/2025,West,electronics,Item N,12,285.0,52.0,Net Banking,1.6
+ORD2367,20/09/2024,North,Electronics,Item N,6,189.7,50.0,UPI,1.3
+ORD2224,10-21-2024,West,TOYS,Gadget Y,2,124.48,40.0,Credit Card,4.8
+ORD1897,07-12-2024,North,clothing,Widget A,13,189.66,63.0,Debit Card,4.0
+ORD1854,15 Mar 2024,North,home & kitchen,Accessory M,10,111.22,,Net Banking,4.6
+ORD2071,08-10-2024,SOUTH,Clothing,Gadget X,14,83.77,67.0,Credit Card,1.3
+ORD1631,13/03/2024,South,toys,Widget A,2,146.17,30.0,Credit Card,4.1
+ORD2972,01-23-2024,  West  ,Sports,Widget B,12,202.62,67.0,Debit Card,3.8
+ORD2709,2024-04-13,West,Clothing,Item N,2,563.63,45.0,UPI,3.8
+ORD1891,2024-05-23,south,Clothing,Widget B,4,144.27,35.0,UPI,2.0
+ORD2778,12 Jan 2024,EAST,Electronics,Widget A,4,143.54,31.0,Cash,1.8
+ORD1558,20 Feb 2024,South,Toys,Accessory M,3,214.39,64.0,Debit Card,2.6
+ORD2364,10/08/2024,West,TOYS,Device Q,10,234.32,18.0,Net Banking,2.6
+ORD1615,07-13-2024,South,  Toys  ,Gadget Y,388,115.38,50.0,Net Banking,3.0
+ORD1154,12/08/2024,South,ELECTRONICS,Accessory M,7,218.15,39.0,UPI,4.7
+ORD2193,2024-12-14,SOUTH,Books,Gadget X,12,117.6,53.0,Cash,4.2
+ORD2837,07/05/2025,south,Toys,Widget B,11,198.64,19.0,Credit Card,3.5
+ORD2926,06 Jun 2025,East,Toys,Device Q,4,242.33,45.0,Credit Card,4.2
+ORD2803,06-04-2024,West,books,Gadget Y,3,254.44,52.0,UPI,1.8
+ORD1322,05/04/2024,NORTH,Home & Kitchen,Device Q,5,112.13,52.0,Cash,2.6
+ORD2567,03 Jan 2024,east,clothing,Item N,7,106.12,53.0,Debit Card,2.7
+ORD2282,24 Mar 2024,  North  ,Home & Kitchen,Widget A,5,230.37,59.0,Credit Card,4.3
+ORD1082,18 May 2024,Central,Toys,Widget B,11,61.29,46.0,Net Banking,3.6
+ORD1512,2024-05-01,North,HOME & KITCHEN,Gadget X,4,169.0,54.0,Debit Card,1.5
+ORD2545,15 Jan 2025,West,Electronics,Gadget X,1,227.08,67.0,Credit Card,1.9
+ORD2502,2025-05-09,  South  ,books,Item N,3,77.52,28.0,Net Banking,1.1
+ORD1929,27/03/2025,CENTRAL,toys,Item N,7,144.89,56.0,Credit Card,4.0
+ORD2653,03-17-2024,North,  Home & Kitchen  ,Widget B,14,109.53,64.0,Net Banking,2.5
+ORD2357,04-15-2024,CENTRAL,Clothing,Gizmo Z,7,152.33,36.0,UPI,4.4
+ORD1010,04-03-2025,Central,  Clothing  ,Accessory M,2,326.6,46.0,Net Banking,5.0
+ORD1831,15/04/2024,South,CLOTHING,Item N,6,266.88,26.0,Net Banking,3.0
+ORD1032,31/08/2024,central,sports,Widget A,2,317.66,23.0,Credit Card,2.5
+ORD2532,01 Jan 2024,Central,Books,Device Q,2,47.81,45.0,,3.0
+ORD1413,2024-05-23,east,Toys,Gadget Y,5,341.9,34.0,Cash,1.3
+ORD1580,2025-03-10,Central,Home & Kitchen,Item N,4,,44.0,Net Banking,4.1
+ORD2406,07/06/2024,EAST,Clothing,Gadget X,12,82.37,44.0,,3.2
+ORD2705,25 Jun 2025,south,Toys,Item N,13,181.61,40.0,Cash,1.5
+ORD2508,01-18-2025,  North  ,Electronics,Gadget Y,10,321.05,37.0,Net Banking,3.3
+ORD2930,2024-07-01,East,BOOKS,Widget A,10,157.78,28.0,Credit Card,5.0
+ORD1614,10-07-2024,,Sports,Item N,12,110.65,40.0,Debit Card,5.0
+ORD2045,2024-01-12,north,Books,Item N,10,388.85,20.0,Cash,1.6
+ORD2402,02/04/2024,west,Sports,Widget A,10,188.5,58.0,Net Banking,1.5
+ORD2014,08-31-2024,South,CLOTHING,Widget B,4,107.03,35.0,UPI,1.7
+ORD1089,2024-08-18,Central,sports,Item N,7,279.52,20.0,Credit Card,2.6
+ORD2916,08 Jul 2024,south,electronics,Device Q,11,258.84,59.0,Cash,4.7
+ORD1601,2025-05-22,EAST,Clothing,Gadget Y,14,101.6,32.0,Debit Card,4.3
+ORD2237,17/02/2025,north,Sports,Gadget Y,11,177.85,18.0,Cash,3.6
+ORD2862,2024-04-06,South,sports,Gizmo Z,2,268.5,48.0,UPI,4.9
+ORD1133,2024-12-24,Central,Clothing,Widget A,9,65.77,21.0,Debit Card,2.3
+ORD2370,13/11/2024,WEST,Books,Widget A,12,295.3,54.0,UPI,2.9
+ORD1555,03-18-2024,North,Home & Kitchen,Widget B,11,220.79,25.0,Credit Card,3.2
+ORD2031,2024-05-10,North,Sports,Device Q,11,158.24,27.0,UPI,2.0
+ORD2586,10/02/2025,East,Sports,Accessory M,14,419.6,56.0,Net Banking,3.4
+ORD1320,02-27-2024,west,toys,Gizmo Z,5,362.73,51.0,Debit Card,1.7
+ORD2794,01-16-2025,East,  Toys  ,Gizmo Z,13,132.35,69.0,Cash,4.9
+ORD2211,2025-02-25,  West  ,  Books  ,Device Q,7,364.17,18.0,Debit Card,
+ORD2760,2025-06-20,central,  Clothing  ,Gadget Y,5,305.22,55.0,UPI,4.7
+ORD1634,30/04/2024,WEST,Toys,Widget B,6,154.24,21.0,UPI,4.8
+ORD1552,23 Mar 2024,east,Home & Kitchen,Gadget X,3,332.27,52.0,Net Banking,1.1
+ORD2328,15 Nov 2024,  East  ,  Home & Kitchen  ,Accessory M,6,270.65,25.0,Cash,4.0
+ORD2055,2024-03-29,West,HOME & KITCHEN,Gizmo Z,6,99.28,57.0,UPI,3.2
+ORD2936,2025-03-10,West,TOYS,Device Q,10,135.24,52.0,Credit Card,4.3
+ORD1796,07-14-2024,Central,CLOTHING,Device Q,1,182.87,23.0,UPI,4.8
+ORD2683,2024-02-27,Central,Books,Gizmo Z,13,107.47,42.0,,2.6
+ORD2264,07/01/2024,NORTH,SPORTS,Gadget Y,1,,32.0,Net Banking,2.7
+ORD2733,2024-09-18,south,Sports,Widget B,2,96.63,68.0,Net Banking,4.8
+ORD1174,21 Nov 2024,north,HOME & KITCHEN,Widget B,2,189.81,48.0,Cash,3.1
+ORD1766,2024-02-11,South,  Home & Kitchen  ,Gizmo Z,13,34.77,,Net Banking,
+ORD1245,2025-05-26,West,  Clothing  ,Accessory M,14,116.67,55.0,Debit Card,2.0
+ORD2080,2024-07-06,East,Toys,Accessory M,11,318.03,,Credit Card,4.2
+ORD2759,22/09/2024,North,Clothing,Gizmo Z,1,162.19,65.0,Debit Card,4.5
+ORD1145,24 Sep 2024,west,Home & Kitchen,Widget B,10,234.72,60.0,Net Banking,4.6
+ORD1090,2024-02-10,North,Books,Accessory M,1,298.07,18.0,Net Banking,4.6
+ORD2416,2024-04-26,  North  ,Home & Kitchen,Accessory M,2,206.59,43.0,Credit Card,1.9
+ORD1682,25 May 2024,East,Electronics,Gadget Y,5,123.17,64.0,Debit Card,4.5
+ORD1310,25 Sep 2024,West,Clothing,Gadget Y,14,162.17,,Cash,1.6
+ORD2383,06/05/2024,east,SPORTS,Gizmo Z,6,204.69,19.0,UPI,2.7
+ORD1093,07-19-2024,East,Books,Gadget Y,1,215.21,64.0,Cash,4.8
+ORD2588,26/04/2024,South,Home & Kitchen,Widget A,12,161.46,35.0,UPI,2.0
+ORD1924,28 Mar 2024,West,Clothing,Widget A,9,178.18,23.0,Credit Card,4.7
+ORD2708,2024-12-13,east,Home & Kitchen,Item N,1,152.58,20.0,Credit Card,
+ORD2035,06-20-2024,West,ELECTRONICS,Gizmo Z,6,180.35,20.0,Cash,4.3
+ORD2400,2024-02-04,SOUTH,BOOKS,Widget B,14,170.37,41.0,UPI,3.7
+ORD1243,10 Jul 2024,west,Toys,Item N,2,62.11,62.0,Net Banking,5.0
+ORD2500,10/08/2024,EAST,ELECTRONICS,Gadget Y,1,209.06,50.0,Credit Card,4.4
+ORD2111,15/03/2025,south,TOYS,Gadget Y,2,126.22,40.0,,3.5
+ORD1214,08/04/2024,WEST,ELECTRONICS,Accessory M,3,,64.0,Cash,1.7
+ORD1808,19 Nov 2024,North,Toys,Accessory M,5,313.01,32.0,Debit Card,2.2
+ORD2197,2024-02-09,  Central  ,sports,Accessory M,13,301.33,33.0,Debit Card,1.3
+ORD1998,05-28-2024,South,Home & Kitchen,Gizmo Z,1,319.55,67.0,Cash,2.5
+ORD1853,2025-06-20,North,Sports,Gadget Y,5,214.98,67.0,Debit Card,1.4
+ORD1425,04 Jul 2024,West,clothing,Gadget Y,13,283.15,65.0,Credit Card,4.8
+ORD2913,04/08/2024,  Central  ,toys,Gizmo Z,6,113.4,68.0,Credit Card,2.3
+ORD2142,2025-05-07,south,Home & Kitchen,Gadget Y,3,165.15,62.0,Credit Card,1.2
+ORD2143,31 Dec 2024,WEST,TOYS,Device Q,3,104.52,26.0,Net Banking,4.4
+ORD1226,02/02/2024,SOUTH,home & kitchen,Accessory M,10,188.37,33.0,Net Banking,2.9
+ORD2648,07 Mar 2025,west,clothing,Gizmo Z,2,220.31,35.0,Credit Card,4.9
+ORD1000,2024-04-12,North,Electronics,Device Q,5,398.99,19.0,Debit Card,4.9
+ORD2418,30/11/2024,WEST,Clothing,Gizmo Z,10,261.47,52.0,Debit Card,4.9
+ORD1401,31/01/2025,Central,toys,Widget B,8,164.84,21.0,Credit Card,3.4
+ORD2428,2025-06-03,West,Toys,Gadget X,6,113.7,23.0,UPI,3.6
+ORD2103,30 Sep 2024,North,Books,Accessory M,12,222.84,,Debit Card,3.2
+ORD1084,01-26-2025,south,Toys,Item N,2,166.93,23.0,UPI,2.3
+ORD1162,07-21-2024,EAST,Toys,Item N,12,103.41,49.0,Credit Card,4.8
+ORD1114,2025-06-24,North,Electronics,Widget A,6,128.32,48.0,Cash,4.6
+ORD1670,2024-03-26,CENTRAL,Toys,Item N,4,173.83,40.0,Credit Card,2.2
+ORD2174,07/04/2025,South,Electronics,Widget B,7,135.07,57.0,Net Banking,1.3
+ORD2547,08 May 2025,East,  Books  ,Accessory M,4,372.25,37.0,Net Banking,1.9
+ORD2535,2024-02-22,South,Toys,Widget B,8,419.71,29.0,Debit Card,3.0
+ORD2392,2024-05-26,central,ELECTRONICS,Accessory M,6,170.57,28.0,Debit Card,1.4
+ORD1889,21 Apr 2025,Central,Clothing,Gadget X,8,263.14,64.0,Credit Card,1.8
+ORD2501,02/07/2024,West,Sports,Gizmo Z,11,185.07,40.0,Net Banking,2.8
+ORD1625,05-27-2025,central,  Electronics  ,Gizmo Z,2,110.02,32.0,Debit Card,2.4
+ORD2813,08/08/2024,WEST,  Electronics  ,Widget A,10,153.32,55.0,Credit Card,3.6
+ORD2550,2025-04-26,South,ELECTRONICS,Item N,4,248.65,32.0,Cash,4.7
+ORD2986,29/05/2025,north,Toys,Gizmo Z,12,169.55,19.0,Credit Card,4.0
+ORD1952,22 Feb 2024,SOUTH,Home & Kitchen,Widget A,11,237.72,50.0,Net Banking,4.4
+ORD1807,02-16-2024,East,CLOTHING,Item N,7,225.16,18.0,Credit Card,3.0
+ORD1258,11 May 2025,East,books,Accessory M,8,201.72,34.0,Cash,
+ORD1624,08/02/2025,West,Electronics,Gizmo Z,11,87.8,41.0,Cash,
+ORD1826,04-04-2025,east,Electronics,Accessory M,3,150.73,35.0,Debit Card,4.1
+ORD1234,13 Mar 2025,,BOOKS,Device Q,1,201.88,,UPI,3.9
+ORD1135,14/02/2025,NORTH,books,Item N,5,153.39,35.0,Credit Card,4.0
+ORD1616,13 Jul 2024,East,home & kitchen,Item N,12,96.48,50.0,UPI,1.8
+ORD2952,12/09/2024,South,Books,Widget A,9,282.45,59.0,Net Banking,2.5
+ORD2987,24 Mar 2025,NORTH,home & kitchen,Device Q,2,115.57,68.0,Cash,4.0
+ORD1836,2024-10-22,,Sports,Gadget Y,2,215.47,31.0,UPI,2.1
+ORD1842,2024-06-30,South,Clothing,Widget A,6,234.03,61.0,Net Banking,1.8
+ORD1959,2024-05-07,South,Toys,Item N,10,211.53,23.0,Credit Card,4.4
+ORD1592,2024-11-30,central,books,Widget B,1,170.1,66.0,Cash,2.8
+ORD2314,06-01-2024,east,Books,Widget A,4,66.64,63.0,Credit Card,3.5
+ORD2525,02/03/2025,North,Books,Gizmo Z,10,249.88,40.0,Debit Card,3.0
+ORD2291,28/03/2025,North,TOYS,Device Q,4,188.26,29.0,Credit Card,4.3
+ORD1343,2025-03-07,South,Toys,Gizmo Z,12,540.55,35.0,Debit Card,3.6
+ORD2671,13 Mar 2024,East,Home & Kitchen,Device Q,13,160.0,37.0,Net Banking,4.0
+ORD2596,07/01/2025,West,BOOKS,Gizmo Z,5,167.82,19.0,Cash,2.3
+ORD1293,19 Dec 2024,West,Books,Widget B,10,167.94,40.0,Credit Card,3.2
+ORD1364,03-02-2025,East,  Toys  ,Widget A,4,112.6,42.0,Debit Card,3.5
+ORD1178,11 Dec 2024,SOUTH,Toys,Item N,2,110.05,42.0,Credit Card,4.1
+ORD1659,28/12/2024,  East  ,Books,Gizmo Z,2,221.98,46.0,Cash,4.4
+ORD1996,05 Jan 2025,CENTRAL,Books,Gadget Y,10,220.83,24.0,Debit Card,3.6
+ORD1014,2024-05-10,East,CLOTHING,Accessory M,10,256.47,40.0,Net Banking,4.5
+ORD2110,28 Sep 2024,central,toys,Gadget X,4,151.76,46.0,Net Banking,
+ORD2394,04/11/2024,CENTRAL,HOME & KITCHEN,Widget B,6,199.49,,UPI,2.8
+ORD1165,04/02/2025,,Sports,Gizmo Z,11,,42.0,Cash,
+ORD2905,07/08/2024,South,HOME & KITCHEN,Widget B,14,185.23,21.0,Net Banking,4.1
+ORD2359,31/10/2024,west,Electronics,Device Q,11,227.39,30.0,Cash,4.5
+ORD1059,2024-06-10,north,BOOKS,Widget A,5,114.43,36.0,Cash,3.5
+ORD1709,10/08/2024,West,  Clothing  ,Gadget X,3,253.94,,Debit Card,3.8
+ORD1676,30 Jul 2024,South,  Home & Kitchen  ,Item N,2,113.89,47.0,Credit Card,1.2
+ORD2378,24/01/2025,SOUTH,sports,Gadget Y,5,340.99,59.0,Credit Card,3.0
+ORD1780,2024-07-16,North,Home & Kitchen,Widget B,6,210.8,40.0,Net Banking,1.1
+ORD1424,02-11-2024,North,HOME & KITCHEN,Accessory M,10,292.62,51.0,Cash,4.6
+ORD1292,01/04/2024,north,Books,Widget B,9,117.56,26.0,UPI,4.3
+ORD2065,01-25-2025,South,Sports,Gadget X,14,209.51,32.0,Net Banking,3.7
+ORD2815,03 May 2024,South,Clothing,Gadget Y,6,101.8,25.0,Debit Card,3.6
+ORD1329,03/09/2024,SOUTH,Sports,Gadget Y,2,185.38,30.0,Credit Card,1.7
+ORD1429,11/06/2024,CENTRAL,TOYS,Widget B,7,104.22,27.0,UPI,4.1
+ORD2012,27/05/2024,South,home & kitchen,Widget A,303,362.75,56.0,Cash,1.0
+ORD1079,2024-05-08,central,  Electronics  ,Gadget X,11,187.61,38.0,Net Banking,2.4
+ORD2052,07-18-2024,Central,BOOKS,Gadget Y,12,352.74,49.0,Credit Card,2.3
+ORD1937,25/03/2024,West,Sports,Gizmo Z,13,139.73,67.0,Debit Card,3.8
+ORD1834,29/01/2024,EAST,Electronics,Gadget Y,12,64.52,62.0,Credit Card,
+ORD1749,2024-11-29,south,books,Widget A,10,172.41,65.0,Credit Card,4.5
+ORD1890,10-12-2024,South,ELECTRONICS,Widget B,6,424.0,57.0,UPI,4.2
+ORD1254,08/04/2024,West,ELECTRONICS,Gadget X,3,151.54,30.0,Credit Card,
+ORD2757,2025-04-10,West,Sports,Gadget Y,10,148.09,35.0,UPI,5.0
+ORD2482,04-28-2024,East,sports,Widget A,8,228.39,,Net Banking,4.8
+ORD2998,21/04/2024,west,sports,Device Q,10,276.35,63.0,,3.1
+ORD2407,24/01/2024,  North  ,clothing,Widget B,10,403.44,38.0,UPI,1.3
+ORD2337,2025-02-28,CENTRAL,home & kitchen,Accessory M,11,198.95,21.0,Net Banking,1.3
+ORD2108,2024-11-13,South,Electronics,Device Q,10,194.97,36.0,Cash,4.3
+ORD1136,11-13-2024,CENTRAL,Clothing,Widget A,7,199.5,59.0,UPI,1.9
+ORD2135,12-09-2024,west,Sports,Item N,12,167.13,62.0,Cash,1.8
+ORD2218,12-28-2024,North,  Toys  ,Device Q,3,210.55,50.0,Net Banking,1.7
+ORD1852,08-31-2024,north,Home & Kitchen,Accessory M,5,143.78,20.0,Net Banking,1.5
+ORD2202,2024-12-01,CENTRAL,electronics,Device Q,9,351.35,21.0,Credit Card,4.7
+ORD2911,2025-01-16,West,sports,Widget A,12,234.13,32.0,UPI,3.3
+ORD1723,26/10/2024,West,Sports,Gadget X,10,79.96,33.0,Debit Card,
+ORD1859,12 Dec 2024,central,clothing,Gadget Y,13,,,,3.2
+ORD1969,08-22-2024,Central,Books,Gizmo Z,7,87.23,34.0,UPI,3.2
+ORD1496,2024-02-16,NORTH,Electronics,Widget A,12,229.02,30.0,Cash,4.0
+ORD1950,2024-09-12,NORTH,SPORTS,Device Q,8,37.4,45.0,,3.4
+ORD1805,09-17-2024,South,SPORTS,Widget A,3,65.02,20.0,Credit Card,3.1
+ORD1129,19/01/2025,west,Books,Widget A,2,296.66,32.0,Credit Card,2.6
+ORD1337,16/02/2024,  East  ,Sports,Item N,10,196.94,43.0,Net Banking,3.6
+ORD1881,05-20-2024,South,Toys,Gadget X,7,138.39,,,3.3
+ORD1608,2024-04-20,South,  Clothing  ,Widget B,2,343.11,21.0,Cash,2.5
+ORD2148,20 May 2025,CENTRAL,Toys,Widget A,11,190.45,,UPI,3.7
+ORD1195,06 Feb 2024,CENTRAL,BOOKS,Widget B,11,208.87,25.0,Cash,1.5
+ORD2250,10/07/2024,WEST,sports,Gadget Y,12,180.15,48.0,Debit Card,4.1
+ORD2292,21/01/2025,West,Clothing,Accessory M,4,153.93,41.0,Net Banking,1.8
+ORD2210,09/07/2024,Central,SPORTS,Device Q,13,90.61,20.0,Debit Card,3.1
+ORD1909,04-20-2025,  West  ,CLOTHING,Gizmo Z,1,246.37,52.0,Net Banking,
+ORD1584,2024-04-07,NORTH,Home & Kitchen,Gizmo Z,9,249.93,46.0,Debit Card,2.9
+ORD1103,02-01-2025,WEST,Toys,Widget B,2,329.85,52.0,Cash,4.1
+ORD2617,24 Oct 2024,  South  ,Sports,Gizmo Z,10,251.95,65.0,Net Banking,3.0
+ORD2874,10 Apr 2024,North,Books,Gizmo Z,10,233.95,46.0,Credit Card,1.6
+ORD2893,01-25-2025,Central,ELECTRONICS,Gadget X,14,,25.0,Credit Card,1.2
+ORD1719,26 Jan 2025,  East  ,home & kitchen,Gizmo Z,14,207.65,35.0,Credit Card,3.1
+ORD1884,2024-11-13,WEST,Clothing,Accessory M,14,287.54,53.0,UPI,5.0
+ORD1776,12/08/2024,east,  Sports  ,Widget B,12,144.07,44.0,Debit Card,4.6
+ORD2569,23 Nov 2024,  East  ,Electronics,Widget A,1,85.68,37.0,Net Banking,4.5
+ORD1849,11 Mar 2025,EAST,  Home & Kitchen  ,Gizmo Z,13,286.06,48.0,UPI,2.6
+ORD1894,2024-01-18,north,sports,Widget B,12,289.84,27.0,Net Banking,1.1
+ORD1227,04 Apr 2025,North,Clothing,Device Q,11,154.76,19.0,Net Banking,2.7
+ORD2907,10 Aug 2024,north,CLOTHING,Gadget Y,4,161.21,49.0,Credit Card,
+ORD2325,2024-03-04,south,  Books  ,Widget B,12,,32.0,UPI,1.0
+ORD2299,09-27-2024,East,sports,Gadget Y,7,110.91,,Cash,2.0
+ORD1126,18 Aug 2024,south,Sports,Item N,7,93.71,62.0,Credit Card,1.1
+ORD1405,20/03/2025,  North  ,Electronics,Gizmo Z,13,232.74,62.0,Cash,4.5
+ORD1775,05-24-2024,Central,Sports,Widget B,2,293.84,37.0,Credit Card,4.9
+ORD1821,28 Dec 2024,South,SPORTS,Widget A,6,264.86,60.0,Cash,
+ORD1711,17 Nov 2024,North,Home & Kitchen,Device Q,11,133.79,56.0,UPI,3.5
+ORD2957,06-24-2025,West,Toys,Gadget X,1,256.8,61.0,UPI,2.0
+ORD2060,14/10/2024,West,Clothing,Device Q,9,357.27,56.0,Credit Card,1.6
+ORD2163,2024-04-29,West,Clothing,Accessory M,4,291.12,55.0,Cash,3.4
+ORD1303,2024-09-20,SOUTH,Electronics,Widget B,3,281.15,38.0,Cash,4.9
+ORD1267,2024-11-18,Central,SPORTS,Gadget Y,11,,42.0,Credit Card,4.6
+ORD2557,05/03/2024,South,ELECTRONICS,Gadget X,6,156.16,22.0,Debit Card,1.4
+ORD1545,19 Jan 2025,SOUTH,Sports,Device Q,2,231.02,32.0,Credit Card,1.6
+ORD1212,2025-05-24,West,  Sports  ,Widget A,1,178.69,41.0,Cash,4.1
+ORD1896,06-23-2024,West,  Electronics  ,Widget B,3,,26.0,Debit Card,1.8
+ORD2492,2024-08-29,East,Electronics,Device Q,13,142.36,22.0,Net Banking,
+ORD2222,2024-09-14,SOUTH,SPORTS,Gadget X,13,273.84,63.0,UPI,4.2
+ORD1916,23/11/2024,West,Sports,Gizmo Z,11,189.81,35.0,UPI,2.4
+ORD2551,01-31-2025,EAST,Toys,Item N,12,245.44,67.0,UPI,
+ORD1675,06-08-2025,  West  ,Home & Kitchen,Item N,1,183.99,21.0,Debit Card,4.8
+ORD2289,29 Oct 2024,North,Clothing,Gadget X,6,258.77,68.0,Credit Card,4.8
+ORD1814,2024-03-09,Central,books,Item N,12,,59.0,Cash,1.7
+ORD2265,29/01/2024,east,Books,Widget A,13,97.9,52.0,Cash,4.4
+ORD1342,2025-04-18,SOUTH,  Home & Kitchen  ,Gadget X,8,254.96,69.0,Net Banking,1.8
+ORD1549,12/03/2025,WEST,books,Accessory M,14,294.3,68.0,Credit Card,4.2
+ORD2410,29 Dec 2024,south,sports,Device Q,7,95.69,38.0,UPI,3.5
+ORD2214,2024-01-31,CENTRAL,Clothing,Widget B,1,326.61,,Net Banking,4.5
+ORD1966,2024-12-24,east,Sports,Device Q,9,153.23,42.0,Net Banking,1.2
+ORD2230,17 Jan 2024,North,electronics,Item N,13,179.77,27.0,UPI,1.8
+ORD1295,07-08-2024,South,TOYS,Accessory M,9,192.89,46.0,UPI,3.2
+ORD1695,01-11-2025,East,Home & Kitchen,Gadget Y,4,112.26,22.0,Debit Card,4.1
+ORD2452,27 Feb 2025,south,Toys,Gizmo Z,2,278.16,57.0,Credit Card,4.5
+ORD1073,2024-02-10,West,Sports,Gizmo Z,10,513.1,54.0,UPI,1.4
+ORD1605,23 Jul 2024,South,Sports,Gizmo Z,12,247.23,69.0,Net Banking,4.1
+ORD1104,27 Jan 2025,North,  Toys  ,Accessory M,11,166.3,46.0,Debit Card,4.9
+ORD1645,09/09/2024,North,Clothing,Accessory M,12,125.65,,UPI,4.0
+ORD2404,18/12/2024,West,Clothing,Device Q,6,173.76,62.0,Credit Card,1.4
+ORD2991,2025-05-05,west,Books,Device Q,14,196.08,52.0,Debit Card,1.1
+ORD2040,01 Oct 2024,West,toys,Gadget X,5,59.51,29.0,Debit Card,2.5
+ORD1439,2024-06-16,North,Clothing,Gadget Y,11,207.3,66.0,Net Banking,4.3
+ORD2019,19 Jul 2024,  West  ,Books,Device Q,7,183.34,36.0,Credit Card,
+ORD1091,2024-01-28,East,Books,Device Q,10,143.31,61.0,Net Banking,3.0
+ORD2112,26 Aug 2024,South,Electronics,Widget B,13,254.6,50.0,UPI,4.0
+ORD2780,2024-04-01,West,Toys,Item N,2,176.41,69.0,Credit Card,2.7
+ORD1908,2024-02-24,west,Home & Kitchen,Gadget X,8,172.55,22.0,Credit Card,3.5
+ORD2474,01/01/2025,South,books,Device Q,12,69.13,29.0,Credit Card,3.9
+ORD1102,17 May 2025,CENTRAL,SPORTS,Gadget Y,8,263.13,47.0,Credit Card,4.0
+ORD1238,03/10/2024,  East  ,Electronics,Widget B,4,200.73,61.0,Cash,2.9
+ORD1447,04/12/2024,Central,Books,Widget B,9,229.68,37.0,Debit Card,1.6
+ORD1942,05-28-2025,EAST,SPORTS,Gizmo Z,8,77.92,59.0,Net Banking,3.5
+ORD2270,2025-04-26,North,home & kitchen,Device Q,3,143.95,61.0,Debit Card,3.4
+ORD1938,26/05/2024,NORTH,Electronics,Device Q,2,87.08,57.0,Credit Card,2.3
+ORD2717,09 Feb 2025,south,home & kitchen,Accessory M,11,273.43,31.0,UPI,4.5
+ORD2181,02-07-2024,Central,  Electronics  ,Widget B,4,328.12,68.0,Credit Card,3.6
+ORD2503,02/03/2025,  Central  ,TOYS,Widget B,3,113.0,41.0,Credit Card,3.0
+ORD2669,2024-02-05,Central,SPORTS,Widget B,10,186.63,62.0,Cash,3.0
+ORD1005,01-21-2024,south,Sports,Gadget X,1,427.33,63.0,Credit Card,4.2
+ORD2842,2025-04-09,  West  ,  Toys  ,Gizmo Z,8,139.2,,UPI,3.5
+ORD1965,2024-10-07,North,toys,Device Q,11,154.54,22.0,Debit Card,4.0
+ORD1018,17/02/2025,west,Clothing,Widget B,8,213.74,48.0,Debit Card,4.7
+ORD2430,2025-04-22,East,home & kitchen,Item N,11,279.83,41.0,Debit Card,2.0
+ORD1121,2024-12-05,  West  ,Toys,Gizmo Z,12,161.41,,Net Banking,4.9
+ORD1661,09-30-2024,East,Clothing,Gizmo Z,2,153.81,28.0,Net Banking,3.8
+ORD2707,05/10/2024,EAST,Toys,Gadget Y,1,71.76,20.0,Cash,2.1
+ORD1274,01-20-2025,West,Books,Device Q,3,94.78,37.0,Net Banking,4.5
+ORD1433,14/03/2024,CENTRAL,Electronics,Gadget Y,14,181.31,43.0,Net Banking,
+ORD1811,2024-04-04,Central,books,Accessory M,2,301.7,57.0,Cash,1.8
+ORD2300,06/05/2025,east,Home & Kitchen,Item N,9,244.21,55.0,Credit Card,2.6
+ORD2335,27/10/2024,East,BOOKS,Gadget X,10,231.29,49.0,Credit Card,3.7
+ORD2894,13/05/2025,Central,Sports,Device Q,3,215.96,38.0,UPI,2.4
+ORD2917,2025-01-04,East,Electronics,Widget A,5,,,UPI,3.5
+ORD2570,25/03/2025,  Central  ,home & kitchen,Gizmo Z,3,184.28,40.0,Credit Card,1.6
+ORD1181,2024-05-27,NORTH,books,Gadget Y,8,397.55,48.0,Debit Card,
+ORD1184,04-17-2025,South,electronics,Accessory M,4,180.57,,Debit Card,2.3
+ORD1406,20 Aug 2024,North,Sports,Device Q,6,283.39,60.0,Debit Card,1.1
+ORD1865,05-15-2025,south,sports,Gizmo Z,10,104.56,61.0,Net Banking,4.8
+ORD2630,2025-06-04,North,home & kitchen,Gadget X,8,143.89,47.0,,4.9
+ORD1520,24/05/2024,East,Clothing,Gizmo Z,13,215.82,56.0,UPI,1.1
+ORD2003,2024-07-05,north,Home & Kitchen,Item N,4,178.74,27.0,Debit Card,2.3
+ORD1380,05-15-2025,WEST,Electronics,Device Q,1,229.59,56.0,UPI,1.2
+ORD2434,02 Jan 2024,East,Sports,Gizmo Z,11,,18.0,Net Banking,
+ORD2658,2024-09-19,North,  Toys  ,Gadget X,10,2907.8372471484004,58.0,Credit Card,1.8
+ORD2393,21 Dec 2024,East,Clothing,Item N,13,199.14,58.0,Debit Card,1.2
+ORD2424,2024-09-24,north,Electronics,Gadget X,9,188.2,56.0,,1.4
+ORD2612,02-08-2024,west,BOOKS,Gadget Y,9,101.03,,Debit Card,2.5
+ORD1427,2024-08-10,East,Sports,Widget B,14,445.44,25.0,Cash,3.3
+ORD1078,09/12/2024,SOUTH,toys,Widget B,1,124.5,64.0,Net Banking,4.7
+ORD2597,08 May 2025,North,Books,Device Q,4,258.56,52.0,Credit Card,2.3
+ORD2009,09 Mar 2024,  East  ,home & kitchen,Widget A,6,189.56,38.0,Credit Card,1.0
+ORD1674,24/05/2024,east,Clothing,Gadget Y,1,97.94,42.0,Net Banking,3.6
+ORD2661,2025-04-03,  West  ,SPORTS,Widget B,12,192.1,44.0,UPI,4.2
+ORD1607,02-12-2024,West,TOYS,Gadget Y,2,49.84,61.0,Debit Card,1.4
+ORD2809,16/09/2024,East,Clothing,Gizmo Z,9,271.35,18.0,Cash,4.3
+ORD1231,07 Feb 2024,South,Electronics,Item N,4,119.59,46.0,Cash,1.7
+ORD2849,11 Mar 2025,Central,  Electronics  ,Device Q,10,82.49,57.0,Credit Card,1.3
+ORD2057,03/05/2025,West,clothing,Gadget Y,4,146.83,24.0,UPI,2.2
+ORD2440,14/01/2024,central,home & kitchen,Widget B,9,386.38,18.0,Cash,2.5
+ORD2514,2024-05-08,EAST,Toys,Gadget Y,11,112.45,,Credit Card,2.3
+ORD2585,21 Jan 2024,NORTH,Clothing,Device Q,2,165.25,67.0,Net Banking,2.1
+ORD2091,31 Jan 2025,West,Home & Kitchen,Gadget Y,14,145.6,56.0,Credit Card,2.2
+ORD2560,17 Apr 2025,Central,CLOTHING,Widget B,10,175.44,52.0,Debit Card,2.1
+ORD2101,09-07-2024,  North  ,HOME & KITCHEN,Item N,2,236.29,21.0,Cash,1.1
+ORD2129,2024-07-05,  West  ,Clothing,Gadget X,4,141.31,62.0,Cash,4.3
+ORD2235,21 Nov 2024,South,  Toys  ,Item N,3,174.73,29.0,Credit Card,
+ORD2791,31/05/2025,central,  Toys  ,Gadget Y,7,266.63,46.0,Debit Card,3.8
+ORD1958,28/02/2024,Central,  Books  ,Accessory M,5,234.19,55.0,UPI,1.7
+ORD2662,2024-10-06,South,electronics,Device Q,4,94.92,33.0,Debit Card,5.0
+ORD1559,03-21-2025,East,Clothing,Gizmo Z,5,219.96,49.0,UPI,1.5
+ORD1846,04 Nov 2024,  West  ,clothing,Widget A,12,347.64,31.0,Debit Card,
+ORD2770,27/04/2025,SOUTH,BOOKS,Device Q,2,262.4,59.0,UPI,4.6
+ORD1690,01/06/2025,North,Home & Kitchen,Gadget Y,12,,41.0,Net Banking,1.6
+ORD2519,2024-03-26,West,Toys,Accessory M,10,247.35,67.0,Debit Card,4.6
+ORD2965,13/02/2024,East,sports,Gadget Y,2,220.08,61.0,Net Banking,4.6
+ORD2892,29/07/2024,North,Clothing,Item N,1,127.98,63.0,Cash,3.8
+ORD1436,17/08/2024,North,Home & Kitchen,Gadget Y,1,139.43,40.0,Net Banking,3.5
+ORD1490,07-21-2024,East,Toys,Item N,2,239.76,63.0,Debit Card,2.5
+ORD1375,04/02/2024,West,clothing,Gizmo Z,14,188.65,34.0,Debit Card,1.5
+ORD2864,2024-08-29,South,TOYS,Widget A,13,176.43,64.0,Cash,4.4
+ORD2629,2024-01-26,South,Clothing,Widget A,7,383.55,68.0,Net Banking,2.3
+ORD2387,2025-06-07,North,  Sports  ,Device Q,13,183.38,27.0,Debit Card,3.7
+ORD1069,08-04-2024,Central,Sports,Widget B,12,200.64,31.0,Net Banking,4.1
+ORD2572,08-08-2024,East,Clothing,Item N,7,178.81,47.0,UPI,2.3
+ORD1808,19 Nov 2024,North,Toys,Accessory M,5,313.01,32.0,Debit Card,2.2
+ORD2184,24/06/2024,Central,Toys,Device Q,9,309.52,46.0,Debit Card,2.7
+ORD1011,28/03/2024,  North  ,TOYS,Accessory M,11,110.67,,Net Banking,4.1
+ORD1144,17 Mar 2025,Central,Electronics,Gizmo Z,3,,26.0,Debit Card,4.0
+ORD1917,2024-02-23,east,SPORTS,Device Q,7,203.76,60.0,UPI,4.0
+ORD2541,2024-03-29,East,Sports,Item N,6,144.97,32.0,Net Banking,4.6
+ORD2451,2025-03-24,Central,BOOKS,Device Q,4,256.4,64.0,Cash,4.3
+ORD1639,2024-04-16,North,Home & Kitchen,Accessory M,12,192.14,28.0,Cash,3.6
+ORD1176,2024-12-14,Central,  Home & Kitchen  ,Gadget Y,13,74.49,57.0,Credit Card,1.2
+ORD1994,28/12/2024,central,Clothing,Accessory M,7,73.81,56.0,Credit Card,1.0
+ORD1440,18/06/2024,Central,Books,Gizmo Z,4,146.56,37.0,Cash,2.2
+ORD1521,19 Jul 2024,East,CLOTHING,Accessory M,2,,40.0,Net Banking,4.7
+ORD2131,01-14-2025,WEST,  Toys  ,Widget A,1,270.17,60.0,Debit Card,
+ORD2969,2024-12-18,WEST,clothing,Accessory M,4,428.51,20.0,UPI,1.9
+ORD2712,12-29-2024,North,Toys,Widget A,11,128.69,47.0,Net Banking,1.4
+ORD2004,08-14-2024,  East  ,Toys,Accessory M,1,207.62,31.0,Net Banking,
+ORD2255,2025-04-18,South,TOYS,Gadget Y,1,353.77,50.0,Net Banking,3.9
+ORD2234,30/12/2024,NORTH,BOOKS,Accessory M,7,194.39,46.0,Net Banking,3.6
+ORD2664,06-14-2025,SOUTH,home & kitchen,Widget B,6,117.44,,Credit Card,3.0
+ORD1143,2025-05-11,North,Sports,Widget A,2,213.08,57.0,Credit Card,2.8
+ORD1753,27 May 2025,East,Books,Gadget X,3,260.21,,Debit Card,
+ORD1519,16/05/2025,east,electronics,Accessory M,5,153.81,39.0,Net Banking,3.4
+ORD1874,12-26-2024,WEST,  Books  ,Widget B,1,112.86,49.0,UPI,1.7
+ORD2322,20 Jan 2025,South,  Toys  ,Gadget X,1,83.97,27.0,Cash,
+ORD1822,2025-01-30,north,Electronics,Gadget Y,11,121.72,18.0,UPI,3.1
+ORD1428,2024-05-12,South,  Home & Kitchen  ,Item N,1,153.24,,Net Banking,2.8
+ORD1612,03/06/2025,West,books,Widget B,7,275.96,63.0,UPI,2.6
+ORD2505,03/03/2025,north,SPORTS,Widget A,13,84.81,24.0,UPI,4.9
+ORD2783,22/03/2025,  West  ,Electronics,Item N,10,182.55,20.0,Net Banking,1.4
+ORD2032,2025-05-12,south,Sports,Gadget Y,4,115.35,62.0,UPI,2.9
+ORD1156,06 Feb 2025,North,Toys,Item N,3,233.18,20.0,UPI,1.4
+ORD1539,03 Mar 2024,North,Sports,Widget B,2,154.04,57.0,Cash,1.3
+ORD2530,29 Oct 2024,west,Electronics,Gizmo Z,10,150.87,58.0,Cash,3.8
+ORD2460,26/12/2024,south,toys,Item N,11,147.86,18.0,Net Banking,3.9
+ORD2290,2024-03-24,Central,Sports,Widget B,5,166.45,36.0,Credit Card,4.2
+ORD1461,30 Jun 2024,West,home & kitchen,Widget B,5,211.22,61.0,Cash,2.5
+ORD1576,29/10/2024,West,ELECTRONICS,Item N,2,111.27,30.0,UPI,3.2
+ORD2362,2024-03-13,NORTH,clothing,Gadget X,2,156.58,40.0,Debit Card,2.4
+ORD1255,06 Feb 2024,WEST,sports,Widget B,11,340.83,58.0,UPI,4.4
+ORD1979,21 Dec 2024,West,  Sports  ,Widget A,6,261.54,25.0,Credit Card,4.3
+ORD2185,2025-03-29,east,Clothing,Gadget Y,13,116.93,28.0,Debit Card,2.2
+ORD2006,2024-04-07,  West  ,  Books  ,Gadget X,8,256.71,69.0,Cash,1.5
+ORD2521,2024-07-11,NORTH,Home & Kitchen,Item N,12,132.55,54.0,UPI,1.0
+ORD2689,2024-12-19,South,TOYS,Gadget X,12,95.35,26.0,Net Banking,3.6
+ORD1560,24 Mar 2025,north,Toys,Item N,7,168.31,62.0,Cash,4.1
+ORD1208,13 Apr 2024,East,Clothing,Widget A,3,200.85,25.0,Credit Card,2.8
+ORD1910,26/06/2024,west,ELECTRONICS,Item N,10,196.74,19.0,Net Banking,1.7
+ORD2311,19/06/2025,central,Clothing,Gizmo Z,14,246.58,59.0,Debit Card,1.1
+ORD1001,2025-03-11,WEST,  Home & Kitchen  ,Accessory M,6,288.13,55.0,Credit Card,2.3
+ORD2365,19/02/2025,central,  Electronics  ,Device Q,11,323.42,50.0,Debit Card,1.3
+ORD1269,18/01/2024,East,Home & Kitchen,Widget B,9,272.62,51.0,Debit Card,3.1
+ORD1265,09 Jun 2024,  West  ,toys,Gadget X,12,317.92,51.0,Cash,2.4
+ORD1914,08 Nov 2024,  East  ,SPORTS,Accessory M,12,244.67,,Debit Card,1.0
+ORD1230,22/01/2024,North,Books,Item N,12,205.56,67.0,Cash,4.9
+ORD2315,07-24-2024,NORTH,Home & Kitchen,Widget A,13,249.08,47.0,Cash,3.7
+ORD2119,04/03/2025,West,CLOTHING,Item N,4,109.04,66.0,UPI,1.3
+ORD2997,03-06-2024,,Electronics,Widget A,4,60.32,23.0,UPI,4.8
+ORD1864,28 Jun 2024,South,TOYS,Gizmo Z,8,137.07,44.0,Credit Card,
+ORD2066,11-30-2024,EAST,HOME & KITCHEN,Gadget Y,6,145.2,19.0,UPI,1.9
+ORD1873,24 Mar 2024,Central,electronics,Gizmo Z,9,144.81,51.0,Net Banking,4.6
+ORD2820,2025-04-27,SOUTH,Toys,Device Q,9,95.78,,UPI,3.3
+ORD1398,2024-09-29,West,Sports,Gadget Y,14,264.36,23.0,Cash,2.8
+ORD2852,2025-01-31,East,BOOKS,Gadget X,3,237.33,61.0,Net Banking,3.8
+ORD2652,2025-06-06,south,Books,Widget B,10,188.37,38.0,Debit Card,3.1
+ORD1045,01/04/2024,West,Clothing,Gizmo Z,11,140.39,41.0,Net Banking,2.7
+ORD1161,2025-03-14,Central,clothing,Widget B,4,189.22,45.0,Credit Card,2.9
+ORD1991,04 Feb 2025,SOUTH,Toys,Gizmo Z,14,154.48,37.0,Debit Card,3.3
+ORD1727,2024-08-12,East,Sports,Accessory M,9,95.89,20.0,Debit Card,1.5
+ORD1629,15 Feb 2024,East,TOYS,Gadget Y,8,159.25,34.0,UPI,2.8
+ORD1288,26 May 2025,  North  ,ELECTRONICS,Gadget Y,4,240.7,29.0,Credit Card,4.1
+ORD2613,07/06/2024,East,CLOTHING,Item N,7,68.55,60.0,Net Banking,3.9
+ORD2059,2024-02-16,south,HOME & KITCHEN,Item N,7,,64.0,Credit Card,4.0
+ORD2981,15/05/2024,  Central  ,Clothing,Item N,3,224.11,,Cash,2.4
+ORD1575,04/02/2025,east,Home & Kitchen,Gadget Y,12,214.87,49.0,Credit Card,3.0
+ORD1850,08/11/2024,Central,Home & Kitchen,Item N,5,153.65,28.0,UPI,4.2
+ORD2339,2024-08-01,north,SPORTS,Gizmo Z,14,109.5,36.0,Net Banking,3.1
+ORD1911,25/01/2025,south,Toys,Widget A,13,128.28,52.0,Credit Card,3.5
+ORD2254,2024-01-22,West,ELECTRONICS,Gadget X,9,257.01,31.0,Debit Card,
+ORD2833,05/03/2024,  West  ,CLOTHING,Widget B,5,152.43,,,3.6
+ORD2722,23/05/2025,South,TOYS,Accessory M,5,,36.0,Debit Card,4.1
+ORD2845,03/11/2024,central,ELECTRONICS,Gadget Y,5,88.77,41.0,UPI,4.1
+ORD2735,09/02/2025,Central,home & kitchen,Widget A,1,90.2,65.0,UPI,3.4
+ORD1932,06-30-2024,CENTRAL,Books,Accessory M,8,33.79,52.0,Credit Card,3.9
+ORD2100,17/02/2025,West,Home & Kitchen,Gadget X,4,123.57,25.0,Debit Card,4.5
+ORD2657,15/11/2024,  West  ,  Home & Kitchen  ,Gizmo Z,8,358.18,22.0,Cash,5.0
+ORD2207,10/12/2024,South,HOME & KITCHEN,Widget B,11,3271.0206774657768,18.0,Cash,1.9
+ORD1247,2024-06-20,North,Home & Kitchen,Device Q,7,281.01,53.0,Cash,2.1
+ORD1476,2024-12-13,NORTH,Toys,Widget B,13,273.24,41.0,Debit Card,4.2
+ORD2694,28/03/2025,north,electronics,Device Q,13,222.3,43.0,UPI,4.0
+ORD1085,2025-02-22,East,Sports,Gadget Y,5,,21.0,Net Banking,2.7
+ORD1469,08-07-2024,SOUTH,Clothing,Widget B,10,367.29,34.0,Credit Card,1.5
+ORD1225,02-04-2025,North,Toys,Device Q,11,168.34,,Net Banking,1.2
+ORD1774,05-22-2024,West,  Toys  ,Gizmo Z,10,151.02,48.0,Debit Card,2.1
+ORD1331,02 Jun 2024,EAST,books,Device Q,12,147.9,19.0,Credit Card,4.0
+ORD1233,2024-12-30,  East  ,electronics,Device Q,13,194.34,34.0,Cash,1.4
+ORD1588,03/11/2024,North,Clothing,Gizmo Z,5,249.16,43.0,Credit Card,1.6
+ORD1475,2025-01-21,South,ELECTRONICS,Gadget X,11,130.34,63.0,Net Banking,3.1
+ORD2284,2025-04-03,West,SPORTS,Gadget Y,6,129.66,,UPI,2.8
+ORD2895,23/06/2025,CENTRAL,Toys,Gadget X,9,199.2,63.0,UPI,2.6
+ORD1599,04 Feb 2025,South,Toys,Widget B,6,124.59,18.0,Credit Card,3.9
+ORD1421,23/05/2024,central,home & kitchen,Gadget X,5,105.87,32.0,UPI,1.1
+ORD2711,2024-09-04,central,Toys,Gadget X,14,217.64,69.0,Debit Card,1.8
+ORD1182,2025-05-03,CENTRAL,toys,Widget A,3,316.32,56.0,Debit Card,4.5
+ORD1988,2024-06-16,Central,Books,Gadget X,10,110.34,59.0,Debit Card,3.9
+ORD2000,2024-01-11,,ELECTRONICS,Gizmo Z,14,129.32,27.0,Credit Card,3.4
+ORD2641,20 Jul 2024,Central,Clothing,Widget A,13,149.27,64.0,Net Banking,3.9
+ORD2356,05-22-2024,NORTH,Electronics,Widget A,9,212.06,56.0,Credit Card,1.4
+ORD2462,2024-05-12,West,toys,Gadget Y,2,147.48,67.0,Debit Card,1.3
+ORD1049,2025-05-23,east,Toys,Widget A,14,49.32,24.0,Cash,
+ORD2902,15 Nov 2024,central,Clothing,Gizmo Z,4,75.87,23.0,Credit Card,1.1
+ORD2029,01-25-2024,Central,home & kitchen,Widget B,10,102.99,60.0,Cash,
+ORD1529,07 Sep 2024,central,CLOTHING,Accessory M,6,215.33,47.0,Cash,4.6
+ORD2258,01/11/2024,  West  ,Books,Item N,6,312.4,26.0,Credit Card,
+ORD1486,21/06/2024,  Central  ,Toys,Gizmo Z,11,147.2,69.0,Net Banking,1.9
+ORD2978,2024-05-07,East,SPORTS,Gadget Y,14,215.25,,Credit Card,3.6
+ORD1497,20/08/2024,north,Toys,Gadget Y,3,175.94,57.0,Net Banking,1.8
+ORD2646,17/04/2024,central,CLOTHING,Widget A,6,174.44,48.0,Debit Card,2.9
+ORD1106,15/01/2024,SOUTH,Toys,Accessory M,8,149.94,69.0,Cash,2.0
+ORD1443,05-31-2025,East,home & kitchen,Gizmo Z,6,248.04,54.0,Cash,3.9
+ORD2512,2024-01-08,east,clothing,Widget B,12,138.51,53.0,Credit Card,4.5
+ORD1646,10-29-2024,West,Electronics,Item N,7,7843.070265781322,59.0,Debit Card,3.3
+ORD2036,10 Mar 2025,east,SPORTS,Accessory M,8,289.25,26.0,UPI,2.2
+ORD2762,10-15-2024,north,Toys,Gadget Y,2,70.93,33.0,Cash,
+ORD1726,27/04/2024,South,Clothing,Device Q,2,193.65,51.0,Credit Card,2.5
+ORD1190,2024-12-11,North,  Home & Kitchen  ,Gadget X,3,86.45,53.0,Debit Card,3.1
+ORD2788,29/02/2024,South,BOOKS,Gizmo Z,14,178.11,,Cash,
+ORD2856,2024-04-29,south,Home & Kitchen,Widget B,14,,35.0,Debit Card,3.0
+ORD1282,11/02/2025,West,Home & Kitchen,Item N,13,226.91,56.0,Credit Card,3.8
+ORD1029,2025-05-25,  West  ,TOYS,Widget B,12,82.32,61.0,UPI,4.3
+ORD1169,05-25-2025,Central,Toys,Device Q,5,127.26,41.0,Cash,2.4
+ORD2001,2025-05-26,south,SPORTS,Item N,13,237.68,,UPI,4.7
+ORD2204,04-01-2024,East,Sports,Widget B,2,249.33,23.0,UPI,3.1
+ORD1100,2024-01-05,Central,clothing,Widget B,6,122.0,56.0,Cash,1.8
+ORD1197,09/01/2024,  South  ,SPORTS,Device Q,1,153.03,33.0,Credit Card,4.4
+ORD1495,05/02/2025,Central,books,Gadget Y,9,174.81,19.0,Cash,3.9
+ORD2745,2025-03-04,north,electronics,Widget A,12,138.49,31.0,Net Banking,1.2
+ORD1647,02-25-2024,North,Home & Kitchen,Gadget Y,7,270.37,56.0,Debit Card,
+ORD1987,2024-10-13,East,Home & Kitchen,Item N,1,221.16,38.0,Net Banking,1.0
+ORD1044,2024-12-05,  East  ,Books,Accessory M,7,248.05,41.0,Debit Card,1.2
+ORD2962,07/04/2025,CENTRAL,Home & Kitchen,Gizmo Z,13,,58.0,Net Banking,2.0
+ORD1710,06/01/2024,East,CLOTHING,Widget B,12,238.09,37.0,UPI,
+ORD1373,09-09-2024,east,Books,Widget B,7,144.32,18.0,,4.7
+ORD1678,28 Jan 2025,North,Books,Gizmo Z,8,89.62,30.0,Credit Card,3.4
+ORD1566,02/06/2024,East,Toys,Gizmo Z,9,241.23,57.0,Credit Card,4.7
+ORD2672,12-18-2024,Central,electronics,Gizmo Z,2,238.21,37.0,Cash,2.0
+ORD2821,2025-06-02,South,ELECTRONICS,Widget A,4,330.18,53.0,Net Banking,2.8
+ORD1847,2024-05-16,SOUTH,home & kitchen,Gadget Y,1,249.68,19.0,UPI,1.8
+ORD1460,20/03/2025,East,Books,Widget A,1,121.12,,Net Banking,2.8
+ORD2437,13/11/2024,  South  ,ELECTRONICS,Gizmo Z,12,91.31,37.0,Net Banking,4.2
+ORD2155,01-20-2024,South,TOYS,Accessory M,7,,26.0,Net Banking,4.1
+ORD1039,22 Jan 2025,SOUTH,Books,Gizmo Z,3,74.31,21.0,Net Banking,3.1
+ORD1434,2025-05-06,east,  Sports  ,Widget B,12,144.66,39.0,Debit Card,2.8
+ORD1973,29 Jan 2024,North,TOYS,Accessory M,14,41.8,49.0,Cash,
+ORD2239,08-20-2024,  West  ,Home & Kitchen,Gadget X,11,154.36,35.0,Net Banking,2.2
+ORD2007,24 Feb 2024,West,Toys,Gizmo Z,-8,189.88,28.0,Debit Card,1.3
+ORD2579,02-12-2024,East,BOOKS,Gizmo Z,-6,91.64,18.0,Credit Card,1.1
+ORD2590,02 Feb 2025,north,SPORTS,Item N,11,306.32,19.0,Cash,2.0
+ORD2786,09-10-2024,NORTH,Clothing,Gadget Y,14,142.37,25.0,Credit Card,4.6
+ORD2498,2024-07-03,East,Books,Widget B,14,405.5,27.0,UPI,1.9
+ORD1456,11/05/2024,east,  Sports  ,Item N,6,257.15,31.0,Debit Card,3.0
+ORD2835,31 Jul 2024,  West  ,home & kitchen,Gadget X,2,246.46,,UPI,1.2
+ORD1260,06-29-2024,  East  ,Toys,Widget B,7,76.45,67.0,Net Banking,2.0
+ORD2840,2024-06-21,CENTRAL,CLOTHING,Gadget X,6,184.79,,UPI,3.8
+ORD1035,04-29-2025,WEST,Home & Kitchen,Device Q,3,73.09,51.0,UPI,4.3
+ORD1827,2024-12-21,East,home & kitchen,Gizmo Z,1,232.86,65.0,Cash,3.1
+ORD1309,16 Feb 2024,  South  ,Home & Kitchen,Accessory M,12,100.19,,Credit Card,3.2
+ORD1276,01-27-2025,North,Electronics,Gadget Y,7,249.82,46.0,Debit Card,
+ORD1636,2024-08-26,EAST,books,Widget B,8,178.62,45.0,UPI,1.9
+ORD1654,30/12/2024,central,Sports,Widget B,4,231.37,64.0,Net Banking,1.3
+ORD1622,2025-04-10,  West  ,Sports,Item N,8,67.51,150.0,Debit Card,3.8
+ORD2859,08/05/2024,west,Clothing,Gadget X,13,79.52,68.0,Debit Card,3.6
+ORD1844,01-05-2025,  South  ,Sports,Accessory M,9,93.51,23.0,Cash,3.5
+ORD1393,2024-02-06,Central,Toys,Gadget X,8,157.17,26.0,Credit Card,5.0
+ORD2769,03-11-2025,East,toys,Device Q,5,266.49,21.0,Debit Card,3.1
+ORD1107,2025-04-05,Central,Clothing,Widget A,12,347.44,,Cash,1.2
+ORD1349,2025-06-05,NORTH,Electronics,Gizmo Z,13,109.24,23.0,UPI,3.0
+ORD1524,24/01/2025,North,Sports,Item N,12,178.57,59.0,Net Banking,4.3
+ORD1784,14/05/2025,EAST,ELECTRONICS,Gadget X,12,127.92,26.0,Debit Card,3.8
+ORD1047,30/03/2025,  East  ,Electronics,Widget A,10,289.85,,Debit Card,4.2
+ORD1203,31/05/2024,central,Sports,Gadget X,6,114.42,45.0,Net Banking,1.2
+ORD1718,12/07/2024,West,Toys,Item N,7,202.39,39.0,Debit Card,4.7
+ORD2655,03-16-2025,Central,Home & Kitchen,Widget A,4,348.88,58.0,Credit Card,2.3
+ORD1021,2024-10-03,West,clothing,Gadget Y,12,104.58,18.0,Cash,3.7
+ORD1402,2024-01-19,Central,Books,Gizmo Z,2,163.26,62.0,Credit Card,3.9
+ORD2107,04-21-2025,CENTRAL,books,Item N,11,192.22,20.0,Net Banking,2.2
+ORD2154,08 Apr 2024,SOUTH,Books,Device Q,10,103.65,68.0,Net Banking,2.2
+ORD2439,2025-01-15,North,SPORTS,Gadget Y,6,193.5,25.0,Net Banking,1.8
+ORD1858,2025-02-21,EAST,TOYS,Gizmo Z,9,240.71,61.0,Credit Card,3.1
+ORD1989,24/09/2024,North,Electronics,Widget A,12,166.74,18.0,Debit Card,4.3
+ORD2865,19/08/2024,  West  ,Clothing,Widget A,9,185.34,69.0,Cash,2.4
+ORD1741,16 Jun 2024,West,books,Gadget Y,4,264.94,,Cash,3.2
+ORD2721,14/05/2025,south,Books,Widget A,8,316.65,25.0,Cash,1.3
+ORD2310,12-14-2024,South,HOME & KITCHEN,Gadget Y,5,223.37,39.0,Debit Card,3.2
+ORD2147,05/08/2024,EAST,Books,Item N,4,119.4,69.0,,4.8
+ORD1033,05-19-2025,West,Toys,Item N,9,169.91,25.0,Credit Card,2.2
+ORD1787,04-22-2025,,SPORTS,Device Q,3,145.02,56.0,Debit Card,2.7
+ORD2540,09/06/2024,West,  Electronics  ,Gadget X,9,186.53,53.0,,3.7
+ORD1923,2024-04-05,  North  ,BOOKS,Widget B,9,155.48,50.0,UPI,4.9
+ORD2043,2024-11-25,EAST,Home & Kitchen,Accessory M,9,240.08,38.0,Net Banking,3.7
+ORD2959,07/04/2025,East,Electronics,Accessory M,8,78.26,43.0,Cash,3.0
+ORD2243,09 Aug 2024,central,Books,Widget A,4,121.86,25.0,Debit Card,1.8
+ORD2915,28/04/2024,CENTRAL,Toys,Accessory M,12,143.48,45.0,Cash,
+ORD1579,15/03/2024,  South  ,sports,Widget A,5,253.35,41.0,Cash,4.8
+ORD1481,03/01/2025,  East  ,Clothing,Item N,4,393.87,36.0,Cash,4.0
+ORD1931,06-13-2024,central,sports,Gadget X,9,162.71,26.0,Credit Card,4.6
+ORD1356,01-16-2024,north,Electronics,Accessory M,6,345.02,35.0,Net Banking,3.2
+ORD2685,07/12/2024,West,CLOTHING,Gizmo Z,10,376.95,41.0,Credit Card,4.6
+ORD2248,29/08/2024,EAST,Clothing,Item N,5,70.98,26.0,Debit Card,2.1
+ORD1759,17/10/2024,west,Toys,Widget B,12,164.59,21.0,Net Banking,4.3
+ORD1092,14/05/2024,Central,sports,Gadget X,1,195.8,32.0,UPI,3.2
+ORD2175,09 Feb 2024,east,Electronics,Widget B,10,83.4,34.0,Net Banking,3.6
+ORD2415,06/09/2024,west,  Home & Kitchen  ,Gizmo Z,13,418.78,,Cash,1.4
+ORD2341,02-04-2025,east,Books,Gizmo Z,3,189.76,35.0,Cash,3.8
+ORD2472,11/05/2025,North,Home & Kitchen,Accessory M,8,158.5,22.0,Credit Card,2.0
+ORD1803,15/01/2024,East,Electronics,Accessory M,8,272.29,37.0,Cash,2.3
+ORD1745,22/02/2025,central,Sports,Widget B,5,118.87,41.0,UPI,1.2
+ORD2546,2024-04-11,CENTRAL,clothing,Gadget Y,9,,49.0,Net Banking,2.1
+ORD1279,2024-02-08,CENTRAL,toys,Widget A,10,307.54,61.0,UPI,1.7
+ORD2607,15/12/2024,east,Toys,Widget A,10,77.68,42.0,Credit Card,2.1
+ORD1764,13 Feb 2025,NORTH,TOYS,Widget A,8,104.28,19.0,Cash,3.3
+ORD1604,25/03/2025,central,sports,Gizmo Z,4,180.54,34.0,Credit Card,3.0
+ORD1654,30/12/2024,central,Sports,Widget B,4,231.37,64.0,Net Banking,1.3
+ORD2373,17 Jan 2025,NORTH,clothing,Widget A,7,471.41,26.0,Net Banking,1.9
+ORD2951,21/07/2024,East,clothing,Gadget Y,10,466.27,,Credit Card,1.6
+ORD2398,07/11/2024,EAST,Books,Item N,1,92.82,32.0,Net Banking,4.6
+ORD1400,2024-12-07,west,sports,Gadget Y,7,190.19,26.0,Net Banking,3.1
+ORD2728,2024-06-28,CENTRAL,Books,Gadget X,14,243.12,120.0,Credit Card,4.0
+ORD1257,14/12/2024,SOUTH,Sports,Device Q,2,166.12,18.0,Debit Card,3.8
+ORD1944,2025-01-20,west,Toys,Widget A,4,83.95,24.0,Debit Card,5.0
+ORD2875,08 Jan 2024,Central,Home & Kitchen,Widget B,8,72.06,39.0,Cash,
+ORD2096,2024-04-17,NORTH,Clothing,Widget A,13,151.67,61.0,,5.0
+ORD2219,12 Mar 2025,South,Toys,Device Q,7,190.24,65.0,Credit Card,3.3
+ORD2507,2024-05-30,South,SPORTS,Widget B,1,211.37,38.0,Credit Card,2.0
+ORD2879,12 Feb 2024,central,clothing,Device Q,14,222.43,66.0,Credit Card,3.2
+ORD2161,03/01/2024,North,Toys,Accessory M,5,60.26,18.0,Debit Card,
+ORD1494,16 Mar 2025,Central,Clothing,Item N,10,223.64,25.0,UPI,
+ORD1772,25/02/2025,West,  Books  ,Gadget Y,13,288.38,45.0,Debit Card,4.4
+ORD1550,23 Jan 2024,south,Books,Gadget Y,6,178.85,37.0,UPI,2.8
+ORD2486,2024-02-28,East,clothing,Accessory M,11,160.39,65.0,Debit Card,2.3
+ORD1201,2024-05-10,  South  ,BOOKS,Item N,7,202.49,29.0,Debit Card,3.1
+ORD1312,15 Apr 2024,NORTH,  Sports  ,Widget B,2,187.41,47.0,Debit Card,3.6
+ORD1290,2025-04-15,North,  Clothing  ,Gadget Y,9,8263.344608597252,43.0,Credit Card,4.5
+ORD2984,08 May 2024,North,  Sports  ,Widget A,14,200.72,58.0,UPI,1.0
+ORD2213,2024-05-12,  West  ,Toys,Gizmo Z,5,32.77,56.0,Net Banking,2.8
+ORD1763,18 Mar 2024,East,Sports,Gizmo Z,11,8548.80247464239,61.0,Cash,3.4
+ORD2136,11/01/2024,  East  ,Toys,Accessory M,5,260.38,46.0,Net Banking,3.2
+ORD1949,09-17-2024,,books,Accessory M,7,,52.0,Cash,
+ORD1183,03 Dec 2024,central,TOYS,Gizmo Z,6,184.71,63.0,Credit Card,2.3
+ORD2176,06-20-2025,  Central  ,  Sports  ,Device Q,8,116.67,42.0,Debit Card,4.6
+ORD2848,14/08/2024,SOUTH,electronics,Accessory M,9,139.06,62.0,Debit Card,5.0
+ORD2349,2024-08-12,Central,Books,Widget B,12,191.41,50.0,Credit Card,
+ORD2727,24 Mar 2025,central,Toys,Gizmo Z,6,77.75,,Cash,5.0
+ORD2068,2024-05-16,North,Sports,Widget A,11,161.13,64.0,UPI,4.7
+ORD2468,16/04/2024,East,  Electronics  ,Gadget X,4,133.36,22.0,Net Banking,1.3
+ORD2811,24/12/2024,NORTH,Electronics,Widget B,11,86.79,26.0,Net Banking,5.0
+ORD2030,2024-02-08,NORTH,SPORTS,Accessory M,12,84.18,,Debit Card,1.9
+ORD1250,04-21-2025,Central,BOOKS,Item N,9,144.21,68.0,Credit Card,
+ORD1823,2024-08-05,South,Toys,Widget B,8,207.73,39.0,Credit Card,1.3
+ORD2099,2024-06-18,WEST,Sports,Gadget X,6,33.45,18.0,UPI,2.9
+ORD2536,30/10/2024,South,Electronics,Item N,7,110.23,54.0,Credit Card,4.4
+ORD1940,10-11-2024,Central,Books,Widget A,12,,30.0,Cash,4.6
+ORD1391,05/04/2024,West,Electronics,Widget A,5,223.22,50.0,Net Banking,3.2
+ORD2919,2025-05-02,east,Toys,Gadget Y,4,351.14,51.0,Credit Card,1.7
+ORD2456,13/10/2024,CENTRAL,Sports,Gadget Y,6,,51.0,Cash,
+ORD2092,09/06/2024,North,BOOKS,Widget A,8,270.54,65.0,Cash,
+ORD2191,08-11-2024,North,books,Widget A,8,248.51,19.0,UPI,2.0
+ORD1904,2025-04-02,east,Home & Kitchen,Device Q,7,602.13,55.0,Net Banking,3.7
+ORD1730,2024-05-19,West,books,Gadget X,9,75.67,27.0,UPI,4.2
+ORD1554,25/03/2024,WEST,ELECTRONICS,Widget B,3,134.56,47.0,Net Banking,2.0
+ORD1366,2025-02-20,central,Clothing,Gizmo Z,5,422.4,44.0,Cash,2.4
+ORD1345,15 Oct 2024,West,Sports,Gizmo Z,8,,,UPI,1.0
+ORD2608,2025-04-03,WEST,books,Item N,3,125.97,37.0,Cash,3.7
+ORD1535,11/08/2024,SOUTH,  Books  ,Gadget X,3,352.94,63.0,Net Banking,
+ORD2422,2024-07-04,EAST,Books,Item N,7,327.33,33.0,Credit Card,1.1
+ORD2209,21/12/2024,South,Home & Kitchen,Accessory M,2,309.13,57.0,UPI,1.9
+ORD2372,07/09/2024,  South  ,Electronics,Gadget Y,7,142.22,,Credit Card,2.6
+ORD2639,2024-02-29,South,Electronics,Widget B,9,171.65,21.0,Debit Card,1.0
+ORD1919,08-16-2024,NORTH,Books,Widget A,10,289.83,20.0,UPI,
+ORD1211,04-21-2024,Central,Sports,Gadget Y,9,197.28,63.0,Debit Card,4.6
+ORD2603,23/02/2025,South,ELECTRONICS,Gizmo Z,11,180.85,51.0,Debit Card,1.2
+ORD1502,2025-05-27,South,Home & Kitchen,Gadget X,6,84.66,53.0,Debit Card,3.4
+ORD1537,2024-06-25,,Home & Kitchen,Gizmo Z,12,250.61,30.0,Credit Card,4.2
+ORD2220,2024-03-22,  North  ,Home & Kitchen,Widget B,6,204.12,39.0,Credit Card,2.9
+ORD1175,08/04/2025,south,SPORTS,Gadget X,-12,135.55,40.0,Debit Card,4.9
